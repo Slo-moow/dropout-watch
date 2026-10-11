@@ -1,0 +1,162 @@
+{
+ "samples": [
+  {
+   "name": "A (typical)",
+   "changes": {},
+   "prob": 0.337,
+   "flag": 0
+  },
+  {
+   "name": "B (low risk)",
+   "changes": {
+    "GPA": 3.6,
+    "Attendance_Rate": 95.0,
+    "Stress_Index": 3.0,
+    "Assignment_Delay_Days": 0,
+    "Study_Hours_per_Day": 6.0
+   },
+   "prob": 0.048,
+   "flag": 0
+  },
+  {
+   "name": "C (high risk)",
+   "changes": {
+    "GPA": 1.2,
+    "Attendance_Rate": 60.0,
+    "Stress_Index": 8.5,
+    "Assignment_Delay_Days": 5,
+    "Part_Time_Job": "Yes",
+    "Internet_Access": "No"
+   },
+   "prob": 0.938,
+   "flag": 1
+  },
+  {
+   "name": "D (boundary: GPA 0.0)",
+   "changes": {
+    "GPA": 0.0
+   },
+   "prob": 0.867,
+   "flag": 1
+  },
+  {
+   "name": "E (boundary: GPA 4.0, att 100)",
+   "changes": {
+    "GPA": 4.0,
+    "Attendance_Rate": 100.0
+   },
+   "prob": 0.061,
+   "flag": 0
+  }
+ ],
+ "cv": [
+  {
+   "model": "Logistic Regression",
+   "params": "{'C': 0.01, 'penalty': 'l2', 'solver': 'liblinear'}",
+   "accuracy": [
+    0.741,
+    0.005
+   ],
+   "precision": [
+    0.469,
+    0.007
+   ],
+   "recall": [
+    0.755,
+    0.031
+   ],
+   "f1_dropout": [
+    0.578,
+    0.012
+   ],
+   "f1_macro": [
+    0.696,
+    0.007
+   ],
+   "roc_auc": [
+    0.822,
+    0.01
+   ]
+  },
+  {
+   "model": "Decision Tree",
+   "params": "{'max_depth': 5, 'min_samples_leaf': 30}",
+   "accuracy": [
+    0.731,
+    0.02
+   ],
+   "precision": [
+    0.457,
+    0.023
+   ],
+   "recall": [
+    0.719,
+    0.032
+   ],
+   "f1_dropout": [
+    0.558,
+    0.012
+   ],
+   "f1_macro": [
+    0.682,
+    0.015
+   ],
+   "roc_auc": [
+    0.793,
+    0.006
+   ]
+  },
+  {
+   "model": "Random Forest",
+   "params": "{'max_depth': None, 'min_samples_leaf': 5}",
+   "accuracy": [
+    0.785,
+    0.003
+   ],
+   "precision": [
+    0.539,
+    0.005
+   ],
+   "recall": [
+    0.601,
+    0.022
+   ],
+   "f1_dropout": [
+    0.569,
+    0.012
+   ],
+   "f1_macro": [
+    0.713,
+    0.007
+   ],
+   "roc_auc": [
+    0.81,
+    0.009
+   ]
+  }
+ ],
+ "test": {
+  "selected_model": "Logistic Regression",
+  "primary_metric": "recall",
+  "tuning_metric": "f1_macro",
+  "accuracy": 0.742,
+  "precision": 0.4704336399474376,
+  "recall": 0.7600849256900213,
+  "f1_dropout": 0.5811688311688312,
+  "f1_macro": 0.6973763230988665,
+  "roc_auc": 0.820421601340815,
+  "confusion_matrix": [
+   [
+    1126,
+    403
+   ],
+   [
+    113,
+    358
+   ]
+  ],
+  "n_train": 8000,
+  "n_test": 2000,
+  "random_state": 42
+ }
+}

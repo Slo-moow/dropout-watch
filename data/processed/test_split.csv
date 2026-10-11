@@ -1,0 +1,2001 @@
+Age,Gender,Family_Income,Internet_Access,Study_Hours_per_Day,Attendance_Rate,Assignment_Delay_Days,Travel_Time_Minutes,Part_Time_Job,Scholarship,Stress_Index,GPA,Semester,Department,Parental_Education,Dropout
+19.4,Female,110124.0,Yes,6.57,80.4,2,52.4,Yes,Yes,2.9,2.28,Year 1,Engineering,Master,0
+24.6,Male,82238.0,Yes,3.2,79.4,1,40.7,Yes,No,7.4,2.26,Year 1,Arts,Bachelor,0
+21.4,Male,25000.0,No,2.4,79.5,2,47.6,No,No,4.0,2.97,Year 1,CS,Master,0
+18.7,Female,32565.0,Yes,4.28,73.5,3,39.3,No,No,5.9,2.15,Year 1,Business,Bachelor,0
+19.9,Female,25000.0,Yes,4.03,87.3,4,16.1,No,No,8.2,1.39,Year 1,Business,High School,1
+18.4,Female,30045.0,No,3.17,73.0,2,26.0,Yes,No,2.5,3.4,Year 4,Science,Master,0
+18.8,Female,26618.0,Yes,3.23,94.2,2,43.0,No,Yes,3.1,3.61,Year 1,Arts,Bachelor,0
+19.6,Female,34913.0,Yes,5.54,72.6,0,8.9,Yes,Yes,7.7,1.83,Year 4,Engineering,High School,0
+21.4,Male,25000.0,Yes,3.31,84.9,2,30.7,No,Yes,7.1,1.48,Year 1,CS,Bachelor,0
+21.1,Female,49936.0,Yes,5.64,71.2,4,39.7,No,No,6.3,2.28,Year 3,Business,High School,0
+20.1,Female,25000.0,Yes,4.7,76.0,0,41.6,No,Yes,7.1,4.0,Year 1,Engineering,Bachelor,1
+21.0,Female,25000.0,Yes,5.42,76.6,2,15.2,No,No,3.3,2.57,Year 1,Arts,Bachelor,0
+17.4,Male,25000.0,Yes,4.52,77.5,1,29.1,Yes,Yes,6.1,3.18,Year 3,Science,Bachelor,0
+18.2,Female,25000.0,Yes,2.39,75.0,2,28.9,No,Yes,4.2,2.22,Year 2,Science,Bachelor,0
+19.2,Male,34907.0,Yes,4.18,86.2,3,26.4,Yes,No,2.2,2.57,Year 4,CS,Master,0
+18.0,Male,25000.0,Yes,2.58,76.6,2,36.7,No,No,5.5,2.95,Year 4,CS,Master,0
+18.9,Female,39863.0,Yes,4.37,85.7,4,29.3,Yes,Yes,4.8,0.39,Year 4,Science,High School,0
+23.5,Female,36199.0,Yes,1.36,87.6,0,47.1,No,No,6.0,0.19,Year 2,Science,High School,1
+22.2,Male,44261.0,Yes,4.15,87.8,4,17.3,No,No,4.2,2.56,Year 3,Arts,Bachelor,0
+20.8,Female,26851.0,Yes,4.07,68.4,3,24.5,No,No,8.4,0.74,Year 4,CS,Master,1
+24.3,Female,45135.0,No,4.26,84.4,1,32.5,Yes,No,5.4,0.99,Year 1,Business,High School,0
+21.9,Male,88193.0,Yes,3.1,81.4,2,37.8,Yes,Yes,4.3,2.96,Year 2,Arts,High School,0
+23.7,Male,28487.0,Yes,3.12,79.2,3,33.3,No,Yes,5.1,1.31,Year 2,Engineering,Bachelor,1
+21.2,Female,25000.0,Yes,3.18,75.8,6,43.9,Yes,No,6.9,1.81,Year 1,Engineering,High School,1
+20.0,Male,61394.0,Yes,2.95,71.1,0,43.6,No,No,3.1,0.79,Year 1,Engineering,High School,1
+20.7,Female,25000.0,Yes,4.57,83.1,2,26.1,No,Yes,2.8,3.08,Year 2,Arts,Bachelor,0
+18.3,Female,76129.0,No,2.29,84.5,3,22.3,No,No,4.7,1.43,Year 3,Science,High School,0
+19.0,Male,33887.0,Yes,4.81,73.1,1,8.6,No,No,6.1,1.37,Year 3,Engineering,Bachelor,0
+23.2,Female,25000.0,Yes,3.99,86.4,4,67.5,Yes,Yes,7.3,2.09,Year 2,Science,Master,0
+23.2,Female,25000.0,Yes,4.12,96.2,4,36.8,No,Yes,8.3,2.74,Year 3,Science,Bachelor,0
+18.2,Female,26532.0,Yes,4.62,93.1,1,31.7,No,Yes,5.9,1.91,Year 4,Business,Master,0
+23.3,Male,25000.0,Yes,2.34,95.0,0,45.8,No,Yes,5.1,2.81,Year 2,Engineering,High School,0
+19.7,Male,25000.0,Yes,6.27,89.2,0,29.1,Yes,No,8.0,1.2,Year 3,Business,Master,1
+22.1,Male,36526.0,Yes,5.09,92.2,1,43.6,No,Yes,4.6,3.62,Year 2,Arts,Master,0
+17.4,Female,57541.0,Yes,5.24,80.6,0,38.9,Yes,No,6.8,2.82,Year 2,CS,High School,1
+22.6,Female,106591.0,Yes,5.34,93.7,4,26.7,No,No,7.1,2.46,Year 3,Business,High School,0
+26.9,Male,44584.0,Yes,1.03,80.2,0,19.9,No,Yes,4.7,1.01,Year 2,CS,Master,0
+19.7,Male,25000.0,Yes,1.73,77.5,1,34.2,No,No,8.0,0.93,Year 4,CS,Bachelor,1
+22.9,Female,25000.0,Yes,3.79,88.6,2,13.3,Yes,Yes,6.5,1.1,Year 3,Science,Master,0
+23.2,Male,25000.0,Yes,2.9,88.6,0,25.1,No,No,7.2,2.79,Year 3,Science,Master,0
+23.6,Male,25000.0,No,1.34,88.0,1,12.5,No,No,5.0,1.73,Year 2,Arts,Master,0
+19.9,Female,25000.0,Yes,4.61,83.8,0,24.3,No,No,3.8,3.16,Year 3,Business,High School,0
+18.1,Female,29679.0,Yes,5.74,88.2,1,32.8,Yes,Yes,6.3,2.42,Year 4,Arts,Bachelor,0
+17.9,Male,25000.0,Yes,2.84,98.7,3,48.9,Yes,Yes,1.9,2.88,Year 1,CS,Bachelor,0
+21.7,Male,37700.0,Yes,2.07,87.7,1,27.6,Yes,Yes,4.6,1.7,Year 4,CS,High School,1
+21.9,Male,39604.0,Yes,3.54,88.2,2,43.3,No,No,3.4,4.0,Year 4,Engineering,Bachelor,0
+22.4,Male,68130.0,Yes,2.3,79.2,2,33.7,No,No,1.4,2.21,Year 1,Engineering,Bachelor,0
+20.3,Female,25000.0,Yes,5.61,87.0,2,51.1,No,No,6.1,2.54,Year 1,Science,Master,0
+22.2,Female,35219.0,Yes,4.86,85.4,2,8.9,No,No,4.7,0.34,Year 4,CS,Bachelor,0
+21.8,Male,25000.0,Yes,2.86,69.4,4,32.8,No,No,5.4,1.12,Year 2,Science,Bachelor,1
+18.6,Female,25000.0,Yes,5.7,75.7,1,44.6,No,No,3.0,2.7,Year 4,CS,High School,0
+18.0,Female,25034.0,Yes,3.9,75.7,3,38.7,No,No,8.5,1.02,Year 1,CS,Bachelor,1
+21.8,Female,75520.0,Yes,2.72,82.0,0,28.6,No,No,3.8,2.93,Year 2,Business,Master,0
+20.8,Male,,Yes,,67.0,2,23.6,No,Yes,,4.0,Year 4,Business,,0
+20.0,Male,56067.0,No,2.78,81.4,3,37.5,No,No,7.0,3.15,Year 3,CS,Bachelor,0
+21.1,Female,25000.0,Yes,2.49,100.0,2,44.4,No,Yes,5.1,2.2,Year 2,Business,High School,0
+20.2,Male,46605.0,Yes,5.4,72.7,3,9.6,Yes,No,9.2,1.75,Year 4,Business,Master,0
+22.5,Male,27426.0,No,3.75,74.7,3,33.5,Yes,Yes,7.5,0.0,Year 1,Science,Bachelor,0
+19.5,Male,26736.0,Yes,5.56,77.4,1,28.1,No,Yes,6.6,2.5,Year 4,Business,Master,0
+23.5,Male,25000.0,Yes,4.44,81.4,2,24.3,Yes,Yes,9.5,1.14,Year 3,CS,High School,1
+21.0,Male,25000.0,No,2.63,93.9,1,27.3,No,No,2.7,4.0,Year 4,Business,,0
+21.0,Male,33837.0,Yes,5.14,75.3,2,38.2,Yes,No,4.1,3.0,Year 4,Arts,Master,0
+20.2,Male,41851.0,Yes,5.29,93.0,1,35.1,Yes,No,7.7,2.62,Year 4,Arts,High School,0
+20.4,Male,28027.0,No,3.8,87.4,2,37.1,Yes,Yes,6.6,0.11,Year 3,Science,Master,1
+22.5,Female,,Yes,,76.3,1,40.1,No,No,,4.0,Year 2,Arts,High School,0
+24.1,Female,25000.0,No,3.78,86.1,4,43.3,No,No,4.1,3.32,Year 2,Arts,High School,0
+23.2,Female,41721.0,No,5.04,72.2,2,36.7,No,No,8.8,2.29,Year 4,Arts,Bachelor,1
+22.9,Female,25000.0,Yes,5.2,85.2,1,40.8,Yes,No,2.7,3.17,Year 4,Engineering,High School,1
+19.0,Male,25162.0,Yes,4.41,72.1,1,23.9,No,No,5.8,2.14,Year 4,Engineering,Master,0
+20.2,Female,25000.0,Yes,5.9,84.5,0,25.6,No,No,5.6,3.35,Year 1,CS,Bachelor,0
+18.9,Male,32979.0,No,2.68,81.6,1,33.6,Yes,Yes,3.7,2.67,Year 4,Arts,Bachelor,0
+20.8,Male,25000.0,Yes,3.99,95.0,1,27.8,Yes,No,7.1,1.69,Year 1,Business,High School,0
+20.0,Male,,Yes,,84.8,3,30.5,No,Yes,,1.48,Year 1,Engineering,Bachelor,0
+24.1,Female,25000.0,Yes,3.23,85.2,2,55.8,Yes,No,2.7,2.91,Year 2,Science,Bachelor,0
+23.6,Male,76813.0,Yes,6.06,76.9,3,39.5,Yes,No,4.8,1.13,Year 1,Business,Master,0
+26.0,Female,25000.0,Yes,3.94,65.9,1,39.5,No,No,5.5,2.27,Year 2,CS,Master,0
+23.3,Female,26358.0,Yes,5.12,86.7,2,18.6,No,Yes,3.8,2.4,Year 3,CS,High School,0
+17.0,Male,30585.0,Yes,3.68,85.2,2,41.5,Yes,Yes,6.5,1.74,Year 4,CS,High School,0
+22.9,Female,28291.0,Yes,3.66,86.6,2,46.7,Yes,No,6.5,2.78,Year 3,Engineering,Bachelor,0
+22.9,Male,31971.0,Yes,4.26,70.5,2,33.5,No,No,4.4,2.22,Year 3,CS,Master,0
+22.4,Male,36393.0,Yes,3.4,76.1,1,29.4,Yes,No,4.6,0.82,Year 4,CS,High School,0
+19.6,Female,25000.0,Yes,4.75,73.1,0,17.1,No,Yes,5.6,3.27,Year 4,Science,High School,0
+17.0,Male,25000.0,Yes,3.85,84.0,0,19.0,No,No,2.9,4.0,Year 2,Science,High School,0
+19.7,Male,26553.0,Yes,2.41,82.4,0,39.0,Yes,No,5.0,2.38,Year 4,Arts,,0
+17.0,Male,44411.0,Yes,4.88,82.4,1,29.4,Yes,No,5.9,2.65,Year 1,Arts,Bachelor,0
+21.0,Male,25085.0,Yes,3.29,76.0,3,19.8,Yes,No,4.4,2.6,Year 2,Business,Bachelor,0
+21.2,Male,34050.0,Yes,3.32,83.9,2,16.6,Yes,No,4.4,1.87,Year 3,Science,Master,0
+22.2,Male,,Yes,,38.2,3,5.0,No,No,,0.0,Year 3,Science,Bachelor,1
+19.4,Male,59895.0,Yes,5.32,74.3,6,5.0,No,No,5.5,1.55,Year 1,Science,Master,0
+22.3,Male,25000.0,Yes,5.13,78.0,2,20.1,No,No,5.4,2.38,Year 1,Business,Bachelor,1
+18.3,Female,59171.0,Yes,3.55,90.1,1,27.8,Yes,No,6.1,2.39,Year 4,CS,High School,0
+18.2,Female,25000.0,Yes,4.82,76.5,1,25.7,No,Yes,4.5,2.5,Year 2,Science,Master,0
+21.8,Female,76563.0,Yes,4.43,85.3,1,24.8,Yes,No,2.6,3.4,Year 1,Arts,Master,0
+21.9,Male,45004.0,Yes,4.47,87.5,0,31.4,No,Yes,3.0,3.76,Year 1,Business,High School,0
+19.7,Male,44861.0,Yes,2.66,80.2,0,35.3,Yes,No,7.3,1.47,Year 3,Science,Master,0
+23.1,Male,48677.0,Yes,2.41,82.4,2,24.2,Yes,Yes,5.4,3.44,Year 4,Engineering,Master,0
+19.8,Male,27923.0,Yes,3.76,75.5,1,10.7,Yes,No,2.3,2.15,Year 3,Science,Bachelor,0
+22.4,Male,,Yes,,79.3,2,23.2,Yes,No,,3.03,Year 4,CS,Bachelor,0
+22.1,Female,,Yes,,58.7,1,27.8,No,No,,1.1,Year 2,Business,High School,1
+21.8,Male,,No,,84.2,3,22.4,No,No,,1.42,Year 2,Arts,Bachelor,1
+23.0,Female,25000.0,No,5.43,87.6,2,28.6,Yes,Yes,1.0,3.84,Year 4,Science,Bachelor,0
+20.0,Female,54439.0,Yes,2.34,95.9,2,27.1,No,No,3.9,4.0,Year 1,Engineering,,0
+23.9,Female,68381.0,Yes,3.92,96.9,1,35.4,No,Yes,7.2,0.4,Year 3,Arts,Bachelor,1
+23.4,Male,40055.0,Yes,4.56,80.6,1,24.8,No,Yes,3.8,2.02,Year 1,Engineering,High School,0
+20.3,Male,25000.0,No,5.91,80.7,0,15.0,Yes,Yes,3.4,3.39,Year 3,CS,High School,0
+22.9,Male,25000.0,Yes,3.15,78.3,2,57.7,No,No,3.5,2.54,Year 4,Engineering,Bachelor,0
+20.9,Female,25000.0,Yes,2.93,95.3,0,17.0,Yes,No,7.1,3.03,Year 4,Arts,Master,0
+26.1,Male,33106.0,Yes,3.28,71.1,2,25.7,No,Yes,6.4,2.82,Year 1,CS,Bachelor,0
+23.5,Male,25000.0,Yes,2.11,81.0,3,41.1,No,Yes,4.8,2.69,Year 3,CS,Master,0
+18.3,Female,26175.0,Yes,4.76,86.2,0,33.4,No,No,6.7,0.77,Year 4,Science,High School,1
+19.5,Male,32867.0,No,5.89,72.8,1,35.6,No,No,7.8,1.61,Year 4,Engineering,Bachelor,0
+23.9,Male,26547.0,Yes,3.44,81.2,4,38.8,No,No,6.0,1.79,Year 3,Arts,High School,1
+25.4,Male,26060.0,Yes,5.24,90.1,1,31.4,Yes,No,4.2,2.68,Year 2,Engineering,Bachelor,0
+20.7,Male,46486.0,Yes,8.83,74.8,0,26.4,No,Yes,6.0,1.25,Year 4,Engineering,High School,0
+21.9,Female,,Yes,,68.2,0,26.2,Yes,No,,1.68,Year 1,Science,Bachelor,0
+20.5,Male,25000.0,Yes,4.36,94.3,2,21.3,Yes,No,7.8,2.55,Year 3,CS,Bachelor,0
+23.0,Male,25000.0,No,3.27,90.7,2,38.6,Yes,Yes,5.7,1.3,Year 1,Arts,High School,1
+20.7,Male,49772.0,Yes,3.86,95.6,6,22.7,No,Yes,6.7,2.34,Year 1,Business,Bachelor,0
+21.5,Female,32345.0,Yes,0.94,87.6,4,17.3,No,Yes,6.5,1.19,Year 4,Engineering,PhD,0
+21.8,Male,92410.0,Yes,2.88,97.0,1,24.1,No,No,6.1,2.21,Year 2,CS,High School,0
+27.1,Male,29015.0,Yes,5.32,84.5,1,50.4,No,No,4.6,3.14,Year 3,CS,Bachelor,0
+24.8,Male,58850.0,Yes,5.44,84.6,3,36.3,Yes,No,5.5,3.24,Year 3,CS,High School,0
+20.7,Male,25000.0,Yes,4.95,84.1,0,35.9,No,Yes,2.4,2.58,Year 3,CS,Bachelor,0
+22.2,Male,28431.0,Yes,5.34,69.6,1,19.5,No,No,7.2,0.41,Year 3,Science,High School,0
+22.8,Female,25000.0,Yes,2.61,81.2,2,23.9,No,No,3.6,2.51,Year 3,Business,High School,0
+20.4,Female,94949.0,Yes,5.65,65.0,4,32.5,No,Yes,5.8,1.55,Year 3,Arts,,1
+17.7,Female,25000.0,Yes,5.24,73.3,3,32.7,No,No,6.3,2.36,Year 1,Science,Master,1
+17.6,Male,33218.0,Yes,3.39,93.8,2,24.0,Yes,No,6.2,1.18,Year 3,Science,Bachelor,1
+20.3,Male,35920.0,Yes,2.35,76.6,0,21.1,Yes,No,5.0,2.17,Year 4,CS,Bachelor,1
+22.5,Male,46539.0,Yes,6.86,74.4,0,18.7,No,No,8.1,3.13,Year 3,Engineering,Bachelor,0
+19.8,Male,25000.0,Yes,4.91,88.2,2,20.8,No,No,5.0,1.22,Year 1,CS,High School,0
+19.6,Female,76493.0,Yes,2.46,85.6,2,36.2,Yes,Yes,5.3,1.32,Year 1,Engineering,High School,0
+22.5,Female,67939.0,Yes,3.56,80.5,2,37.6,Yes,No,4.3,3.87,Year 3,CS,High School,0
+19.0,Female,25000.0,Yes,4.57,75.8,0,31.8,Yes,No,3.1,2.7,Year 4,CS,Bachelor,0
+20.5,Male,25000.0,Yes,4.45,79.5,3,35.6,Yes,No,4.0,3.01,Year 1,Arts,High School,0
+24.0,Male,84757.0,Yes,2.68,82.3,1,20.5,No,No,4.7,1.95,Year 3,Business,Bachelor,0
+18.8,Female,25000.0,Yes,1.99,81.7,3,24.3,Yes,No,4.9,2.74,Year 3,Science,Master,0
+20.3,Female,41271.0,Yes,5.34,67.4,1,34.5,Yes,No,4.1,3.92,Year 3,CS,Bachelor,0
+20.1,Male,36675.0,Yes,4.94,90.2,1,28.8,No,No,5.9,2.52,Year 4,CS,Bachelor,0
+20.9,Male,31529.0,Yes,0.6,90.4,4,30.3,Yes,No,9.5,0.29,Year 3,CS,Bachelor,1
+21.3,Male,86743.0,Yes,3.19,78.4,1,31.2,Yes,Yes,8.2,1.15,Year 4,CS,Bachelor,1
+23.4,Male,36364.0,No,1.91,85.1,2,43.9,No,Yes,5.7,1.11,Year 1,Arts,Master,1
+20.7,Female,25000.0,Yes,4.76,73.4,1,7.0,No,No,6.8,1.88,Year 3,Science,High School,0
+22.0,Male,66643.0,Yes,5.36,82.8,3,37.9,Yes,Yes,3.3,4.0,Year 3,Science,High School,0
+20.6,Male,38523.0,Yes,3.28,79.3,1,59.7,Yes,Yes,7.5,2.37,Year 3,Arts,Bachelor,0
+20.7,Male,82616.0,Yes,2.13,81.1,1,14.0,No,Yes,5.3,2.29,Year 2,Science,Bachelor,0
+21.0,Male,36526.0,Yes,2.74,80.6,2,34.1,No,No,6.9,0.37,Year 3,Engineering,Bachelor,0
+23.6,Male,36753.0,Yes,1.29,81.1,1,50.0,Yes,Yes,9.0,0.67,Year 2,Arts,Master,1
+19.3,Female,25000.0,Yes,4.82,91.1,1,27.0,No,Yes,2.1,2.92,Year 2,Engineering,High School,0
+23.7,Male,25000.0,Yes,4.05,79.4,1,21.3,No,No,6.0,2.89,Year 1,Science,Bachelor,0
+23.0,Female,30298.0,Yes,2.59,74.8,1,41.5,Yes,No,7.0,0.65,Year 4,CS,Master,1
+20.8,Female,38336.0,Yes,5.42,90.6,1,20.6,No,No,4.5,4.0,Year 3,CS,High School,0
+24.8,Male,25000.0,Yes,4.51,81.2,2,26.9,No,No,6.0,1.18,Year 4,Engineering,Bachelor,0
+24.0,Female,75361.0,Yes,2.51,83.2,2,16.8,No,Yes,7.0,0.71,Year 4,Engineering,Bachelor,1
+24.3,Male,51910.0,Yes,2.01,74.8,3,18.9,No,No,3.8,2.26,Year 3,Arts,High School,0
+19.0,Female,37614.0,Yes,3.12,89.6,1,40.8,No,No,7.4,0.28,Year 1,Arts,Master,0
+18.5,Male,53766.0,No,3.87,92.4,2,30.8,Yes,No,9.0,1.05,Year 2,Science,PhD,1
+21.9,Male,25000.0,Yes,2.91,83.1,3,34.9,No,Yes,5.5,0.7,Year 2,Arts,,1
+22.9,Female,25000.0,Yes,5.66,79.8,0,32.4,No,Yes,7.5,3.86,Year 3,Engineering,High School,0
+21.8,Female,25000.0,Yes,4.31,78.9,3,30.4,No,No,5.3,3.84,Year 1,Engineering,Master,0
+21.7,Female,25000.0,Yes,2.76,88.8,1,27.8,No,No,3.2,2.39,Year 4,Arts,Master,0
+21.4,Male,25000.0,No,3.13,74.8,0,8.7,Yes,Yes,8.0,2.14,Year 3,Business,Bachelor,0
+18.0,Male,45002.0,Yes,6.52,85.3,0,14.7,Yes,No,6.0,3.58,Year 4,Business,Bachelor,0
+26.8,Male,28269.0,Yes,1.44,77.7,2,9.4,No,Yes,5.4,0.45,Year 2,Business,Bachelor,0
+22.5,Female,36332.0,No,4.84,69.4,2,27.4,No,Yes,5.5,2.62,Year 3,Science,High School,1
+19.4,Male,25497.0,Yes,3.96,90.3,1,23.9,Yes,Yes,4.7,1.13,Year 2,Business,Bachelor,0
+20.4,Male,34246.0,Yes,4.77,86.2,1,19.4,Yes,No,4.0,3.12,Year 3,CS,Master,0
+17.5,Male,25000.0,Yes,4.44,92.8,3,18.8,No,No,7.1,3.44,Year 2,Business,High School,0
+21.3,Male,71824.0,No,4.16,81.3,2,47.9,No,No,7.0,1.75,Year 4,Arts,Master,0
+17.7,Female,35167.0,No,6.79,85.6,1,44.2,Yes,Yes,4.4,2.95,Year 1,Engineering,PhD,0
+23.2,Female,34433.0,Yes,5.19,97.5,5,30.4,No,Yes,6.4,4.0,Year 3,CS,High School,0
+22.4,Male,25000.0,Yes,3.53,79.4,3,30.3,No,Yes,5.7,2.2,Year 1,Science,Master,0
+25.5,Male,40608.0,Yes,5.04,85.9,1,48.1,No,Yes,4.2,2.61,Year 3,CS,Master,0
+25.5,Female,39507.0,Yes,6.18,80.8,0,23.5,No,No,6.2,2.26,Year 4,Business,High School,1
+20.2,Male,29956.0,Yes,3.38,90.0,3,28.6,No,No,4.9,1.67,Year 4,Engineering,Bachelor,1
+17.6,Male,25000.0,Yes,3.02,75.3,2,30.0,Yes,No,7.7,2.56,Year 3,Arts,Master,0
+22.7,Male,25000.0,Yes,4.15,81.6,1,41.0,No,No,8.3,1.65,Year 4,Engineering,,0
+27.3,Female,33484.0,Yes,3.19,79.6,3,30.8,No,No,3.9,1.7,Year 4,Engineering,Bachelor,0
+18.1,Male,32277.0,Yes,3.11,85.0,3,50.0,No,Yes,8.1,0.27,Year 4,Business,High School,0
+20.5,Male,87345.0,Yes,5.73,80.0,2,28.9,No,Yes,5.8,4.0,Year 3,Science,High School,0
+23.1,Male,25000.0,Yes,4.58,100.0,3,15.6,No,No,4.9,2.65,Year 2,CS,Bachelor,0
+21.6,Male,25000.0,Yes,4.21,77.1,0,12.9,No,Yes,7.2,2.74,Year 3,CS,High School,0
+22.9,Female,32257.0,Yes,4.61,83.6,0,39.5,Yes,Yes,3.9,3.18,Year 3,Engineering,Master,0
+18.2,Male,25000.0,No,4.48,86.4,3,31.6,No,Yes,5.9,2.13,Year 2,Business,High School,1
+20.5,Female,25000.0,Yes,5.58,86.1,2,22.6,No,No,6.2,3.8,Year 2,CS,Bachelor,0
+19.8,Male,57384.0,Yes,4.8,88.7,3,34.3,Yes,No,5.0,3.37,Year 4,Business,PhD,0
+24.0,Male,25000.0,Yes,5.26,85.7,1,14.1,No,No,7.7,2.83,Year 4,Arts,High School,0
+23.0,Male,,Yes,,69.4,0,12.2,No,No,,2.12,Year 2,Science,Master,0
+22.5,Male,25000.0,Yes,4.91,77.1,1,5.7,No,Yes,5.4,1.43,Year 1,CS,Bachelor,0
+21.2,Female,41201.0,Yes,5.03,80.5,2,38.4,No,Yes,6.0,3.32,Year 4,CS,High School,0
+19.4,Female,75407.0,Yes,2.26,100.0,1,21.3,Yes,Yes,6.7,0.64,Year 4,CS,High School,0
+22.0,Female,90788.0,Yes,4.15,100.0,2,27.9,No,No,7.6,1.36,Year 3,CS,Bachelor,1
+23.4,Female,,Yes,,87.4,1,43.0,Yes,No,,3.14,Year 4,CS,High School,0
+17.0,Female,25000.0,No,3.52,78.8,3,38.2,Yes,No,5.4,2.25,Year 1,CS,Bachelor,0
+21.2,Female,25000.0,Yes,3.71,77.2,0,63.8,Yes,No,6.1,1.12,Year 1,Engineering,Bachelor,1
+24.3,Female,27280.0,No,4.53,78.1,2,11.0,Yes,Yes,4.8,2.14,Year 4,Engineering,Bachelor,1
+20.7,Female,44827.0,Yes,4.56,78.2,3,13.3,No,No,4.0,0.2,Year 4,Business,High School,0
+21.0,Male,27150.0,Yes,3.01,88.5,1,31.6,Yes,Yes,2.3,4.0,Year 1,Business,Bachelor,0
+20.9,Female,35351.0,Yes,2.87,64.1,0,19.5,No,Yes,5.8,2.68,Year 1,Science,Master,1
+20.3,Male,25000.0,Yes,5.48,78.4,1,18.5,No,No,9.7,0.0,Year 1,Science,Bachelor,1
+19.3,Female,27137.0,Yes,3.28,85.6,3,51.0,Yes,Yes,7.0,2.61,Year 3,Engineering,,1
+20.8,Male,27174.0,Yes,3.0,85.0,2,28.8,Yes,No,7.7,0.95,Year 1,Arts,High School,0
+19.6,Male,56190.0,Yes,4.68,76.0,3,35.1,No,Yes,6.7,3.25,Year 2,CS,Bachelor,0
+24.5,Male,46527.0,Yes,4.8,72.7,1,24.3,No,Yes,6.6,2.09,Year 1,Arts,Bachelor,0
+21.7,Male,84711.0,Yes,5.17,87.0,4,9.6,No,No,6.9,3.88,Year 3,Arts,High School,0
+21.3,Female,25000.0,Yes,4.98,75.8,2,19.8,No,Yes,3.9,1.21,Year 1,CS,High School,1
+24.8,Male,73186.0,Yes,2.52,79.8,0,28.0,Yes,No,5.8,0.75,Year 1,Arts,Bachelor,0
+20.4,Female,25000.0,Yes,4.72,81.3,0,38.4,Yes,No,4.7,2.52,Year 2,Arts,Bachelor,0
+22.0,Male,58105.0,Yes,3.66,86.5,3,36.2,No,No,4.7,3.42,Year 4,Engineering,Master,0
+20.8,Male,29571.0,Yes,5.12,81.4,3,16.2,Yes,No,5.5,1.47,Year 4,Engineering,High School,1
+18.1,Male,25000.0,Yes,3.44,80.0,2,24.9,No,No,2.1,3.56,Year 1,CS,High School,0
+20.9,Male,58710.0,Yes,2.36,92.7,4,24.7,No,No,5.2,3.19,Year 1,Engineering,Bachelor,0
+20.5,Male,25000.0,Yes,3.19,92.1,1,39.5,No,No,9.7,0.23,Year 3,Engineering,,0
+24.9,Female,68603.0,Yes,1.93,81.9,0,35.9,No,No,10.0,0.0,Year 4,Engineering,Bachelor,1
+22.2,Female,25000.0,Yes,3.44,77.5,2,49.4,Yes,No,5.5,0.68,Year 4,Arts,High School,0
+19.2,Male,25000.0,Yes,5.08,78.6,0,38.9,Yes,No,6.6,2.29,Year 1,Engineering,High School,0
+21.7,Female,34174.0,Yes,2.76,75.8,2,47.0,No,No,4.5,2.33,Year 3,Business,Master,0
+23.1,Male,,Yes,,83.2,3,42.3,No,No,,3.24,Year 4,Business,,0
+19.0,Male,25834.0,Yes,3.17,79.6,2,35.7,Yes,No,4.1,1.61,Year 3,Business,Bachelor,0
+23.3,Male,25000.0,Yes,6.15,96.5,1,36.1,No,Yes,5.5,2.42,Year 1,Engineering,High School,0
+18.9,Female,96994.0,Yes,4.96,87.1,1,34.5,No,No,5.4,1.65,Year 2,Arts,Master,0
+24.7,Female,28418.0,Yes,4.23,85.7,3,45.8,No,Yes,4.2,2.0,Year 1,CS,Bachelor,1
+17.1,Male,60751.0,Yes,2.97,72.4,4,29.2,Yes,No,7.2,1.47,Year 2,Arts,Bachelor,1
+21.1,Male,25000.0,Yes,3.25,83.1,2,42.0,No,No,8.9,1.49,Year 1,Business,,0
+24.2,Male,29630.0,Yes,4.23,70.5,2,44.4,Yes,Yes,5.7,2.84,Year 1,Engineering,Master,0
+23.3,Male,26763.0,No,2.04,82.6,1,33.9,Yes,No,5.9,0.0,Year 2,Science,,1
+24.5,Male,25000.0,Yes,3.0,78.2,1,37.4,Yes,Yes,7.3,0.64,Year 4,CS,Bachelor,0
+25.5,Female,25000.0,Yes,3.81,87.4,1,22.6,Yes,No,6.3,1.98,Year 3,Arts,Bachelor,0
+18.6,Female,25000.0,No,2.33,79.2,2,36.7,No,Yes,5.7,1.56,Year 1,Engineering,Master,1
+20.3,Male,25000.0,Yes,4.36,88.4,0,8.0,Yes,Yes,5.9,2.76,Year 1,Science,Bachelor,0
+25.8,Male,64829.0,No,5.09,77.9,0,35.8,No,No,8.9,1.65,Year 3,Engineering,Bachelor,0
+18.6,Female,106220.0,Yes,4.84,74.5,3,39.9,No,Yes,6.0,3.15,Year 3,Business,High School,0
+19.2,Male,28774.0,Yes,5.14,86.2,2,38.2,Yes,No,5.5,2.58,Year 3,Arts,High School,0
+17.6,Male,49135.0,Yes,3.24,79.7,2,27.1,No,Yes,4.0,3.78,Year 2,Science,High School,0
+18.3,Male,30318.0,Yes,2.24,72.9,1,13.4,No,No,5.1,1.84,Year 1,CS,Bachelor,1
+18.6,Male,64566.0,Yes,4.65,79.4,1,49.9,No,Yes,7.9,3.76,Year 4,Science,Bachelor,0
+19.8,Female,35139.0,Yes,6.21,83.2,3,37.5,Yes,No,6.3,3.53,Year 1,Arts,High School,0
+22.5,Female,25000.0,Yes,4.14,97.9,1,26.8,Yes,Yes,4.4,2.24,Year 4,CS,High School,0
+19.6,Male,25000.0,Yes,2.0,83.5,0,26.5,Yes,No,6.7,1.32,Year 4,CS,PhD,0
+20.7,Female,25000.0,Yes,5.65,74.1,2,27.4,Yes,Yes,1.9,1.46,Year 1,Arts,PhD,1
+22.0,Female,29523.0,Yes,4.96,78.6,1,55.0,No,Yes,4.9,1.74,Year 4,Arts,Bachelor,0
+20.8,Female,25000.0,No,3.37,73.7,1,27.6,No,No,7.9,2.31,Year 3,Engineering,High School,1
+19.6,Female,79505.0,Yes,4.6,71.9,3,31.5,No,No,6.5,1.68,Year 2,Engineering,Bachelor,0
+18.6,Female,49240.0,No,4.61,90.6,3,22.0,No,Yes,5.8,4.0,Year 2,Business,High School,0
+20.9,Male,31601.0,Yes,3.21,66.0,4,15.2,No,Yes,7.0,2.82,Year 1,Business,High School,0
+20.3,Female,39357.0,Yes,3.38,89.6,3,38.4,Yes,Yes,4.5,3.21,Year 4,Arts,Bachelor,1
+22.3,Male,25000.0,Yes,4.33,81.8,4,24.9,Yes,No,4.3,2.92,Year 4,Engineering,High School,0
+23.4,Male,25000.0,No,3.94,99.9,3,16.5,No,No,5.8,1.7,Year 3,CS,High School,0
+21.8,Female,35508.0,Yes,2.35,81.0,0,38.2,No,No,4.1,0.18,Year 2,Engineering,Master,0
+19.9,Male,37071.0,Yes,4.75,79.6,1,22.4,No,Yes,5.2,2.77,Year 1,CS,Master,0
+21.2,Female,25000.0,Yes,4.14,74.0,3,5.0,Yes,No,4.2,1.6,Year 4,Business,Master,0
+17.0,Male,48005.0,Yes,6.67,78.2,3,36.6,Yes,No,5.2,1.83,Year 4,Business,High School,0
+21.2,Female,41830.0,Yes,4.11,79.7,1,34.1,No,No,2.1,4.0,Year 1,Science,Master,0
+21.1,Male,25000.0,Yes,4.33,87.2,2,24.5,No,No,4.8,2.96,Year 3,Arts,Master,1
+21.3,Female,37653.0,Yes,3.43,81.3,3,28.2,No,No,4.3,2.61,Year 2,Engineering,Bachelor,0
+22.7,Male,26988.0,Yes,4.42,90.2,1,5.0,Yes,No,4.8,2.04,Year 2,Engineering,Bachelor,0
+23.0,Male,25000.0,Yes,4.32,84.9,3,31.4,No,Yes,8.7,1.28,Year 4,CS,Master,0
+22.8,Male,48557.0,Yes,3.19,84.2,4,33.3,Yes,No,5.7,3.19,Year 2,CS,High School,0
+18.3,Female,25000.0,Yes,5.63,78.2,3,7.8,No,Yes,6.1,3.54,Year 2,Engineering,High School,0
+21.9,Female,58902.0,Yes,4.15,82.6,4,19.1,Yes,No,4.3,2.65,Year 4,Business,High School,0
+20.6,Female,25000.0,No,2.17,77.1,1,20.6,Yes,Yes,2.0,0.87,Year 1,Business,Bachelor,0
+21.7,Male,25000.0,Yes,6.46,75.0,0,43.6,Yes,No,6.7,4.0,Year 1,Science,High School,0
+21.5,Male,29667.0,No,4.61,81.8,2,37.8,No,Yes,4.5,1.44,Year 3,Science,,0
+21.2,Male,25000.0,Yes,3.95,69.8,4,25.5,Yes,No,5.8,1.3,Year 4,Business,,1
+17.0,Male,62118.0,Yes,3.92,84.3,1,5.0,Yes,No,8.5,1.45,Year 1,CS,Master,0
+20.5,Male,57756.0,Yes,2.46,90.6,1,26.4,Yes,No,6.0,2.65,Year 2,Engineering,High School,0
+22.0,Male,29427.0,Yes,4.1,83.7,2,35.9,No,No,4.2,3.07,Year 1,Science,High School,0
+21.3,Female,25000.0,Yes,5.9,92.3,0,7.5,No,No,6.9,2.38,Year 2,CS,High School,0
+18.4,Male,45205.0,Yes,4.19,82.5,2,52.3,No,Yes,7.8,4.0,Year 3,Engineering,Master,0
+27.3,Male,25000.0,No,3.61,82.3,3,31.0,No,Yes,7.5,0.96,Year 3,Engineering,Bachelor,0
+23.8,Female,,Yes,,99.2,1,37.3,No,Yes,,4.0,Year 4,Arts,,0
+23.1,Female,44413.0,Yes,0.92,85.4,2,45.4,Yes,No,5.2,1.25,Year 4,CS,High School,0
+22.6,Female,67443.0,Yes,5.11,71.2,4,44.9,Yes,No,6.3,3.18,Year 4,Science,High School,0
+21.8,Female,50269.0,Yes,3.69,80.7,2,23.0,Yes,Yes,6.4,2.55,Year 4,Business,PhD,1
+20.2,Female,25000.0,Yes,7.05,80.0,2,29.8,No,Yes,1.6,2.61,Year 4,Science,High School,0
+20.0,Female,25000.0,Yes,4.7,75.0,3,40.9,Yes,No,6.0,2.27,Year 4,Engineering,Bachelor,0
+21.7,Male,68745.0,Yes,2.49,80.1,4,34.3,No,No,7.0,2.02,Year 4,Arts,High School,1
+21.7,Male,,Yes,,92.1,2,61.7,No,Yes,,3.06,Year 4,CS,Master,0
+21.6,Male,49947.0,Yes,5.51,81.9,1,46.8,Yes,No,6.4,2.13,Year 2,Science,Master,0
+22.4,Female,30914.0,Yes,5.25,87.3,3,30.9,No,No,6.1,2.49,Year 3,Engineering,Bachelor,0
+19.2,Male,25000.0,Yes,4.98,93.9,1,27.7,No,Yes,7.8,3.46,Year 4,Engineering,Master,0
+19.2,Male,27923.0,Yes,3.71,94.4,1,18.9,No,No,8.3,2.96,Year 3,Arts,Master,0
+19.1,Female,85732.0,Yes,3.15,78.1,0,48.0,Yes,No,4.7,1.98,Year 4,Arts,Bachelor,0
+20.2,Male,42564.0,Yes,2.93,84.4,1,29.6,Yes,Yes,6.2,1.53,Year 3,Science,High School,0
+22.4,Male,25000.0,Yes,4.3,100.0,3,10.9,No,No,6.6,1.61,Year 3,Arts,Master,0
+19.9,Male,35635.0,Yes,5.89,83.9,2,44.9,Yes,Yes,8.8,2.0,Year 1,CS,High School,1
+19.2,Female,32725.0,No,3.51,69.8,3,30.0,No,No,5.4,0.92,Year 1,CS,High School,0
+20.4,Female,33626.0,No,5.8,90.8,2,21.2,No,No,3.2,4.0,Year 2,Science,Bachelor,0
+20.0,Male,44038.0,Yes,4.55,87.5,1,28.0,Yes,No,8.1,2.14,Year 4,Engineering,High School,0
+21.6,Male,25000.0,Yes,3.52,72.4,3,37.1,No,No,3.5,3.1,Year 4,Business,PhD,0
+21.0,Male,30764.0,Yes,4.05,69.2,2,50.0,No,No,4.2,2.7,Year 3,Business,Master,0
+24.1,Female,55300.0,No,2.25,75.2,2,16.8,No,No,4.5,0.61,Year 4,Arts,Bachelor,0
+18.7,Male,35057.0,No,3.52,80.3,3,43.0,Yes,No,6.4,0.44,Year 1,Arts,High School,1
+19.3,Female,34720.0,Yes,1.89,84.0,1,14.9,No,No,6.6,0.57,Year 2,Business,High School,0
+17.5,Female,37454.0,Yes,3.34,83.0,1,43.0,No,No,4.7,1.97,Year 3,CS,High School,0
+20.7,Male,25000.0,Yes,3.49,85.1,2,18.0,Yes,No,7.5,1.97,Year 4,Business,Bachelor,0
+22.2,Female,25000.0,Yes,4.26,80.7,2,36.3,Yes,Yes,7.2,0.69,Year 3,CS,Master,1
+20.7,Male,66634.0,Yes,3.5,64.3,1,10.8,Yes,Yes,6.7,0.96,Year 4,Science,High School,0
+25.1,Male,25064.0,Yes,4.73,96.4,2,43.5,No,No,10.0,2.39,Year 2,CS,Bachelor,0
+21.5,Male,69532.0,Yes,3.03,83.8,3,33.1,Yes,No,5.8,1.98,Year 2,Arts,Bachelor,0
+22.1,Female,28273.0,Yes,2.81,95.7,1,44.5,No,No,6.6,2.14,Year 1,CS,Bachelor,0
+21.4,Male,41617.0,Yes,5.71,90.1,0,20.0,No,No,5.5,3.91,Year 2,Engineering,High School,0
+21.7,Female,73723.0,Yes,5.06,87.8,3,41.3,No,Yes,4.4,4.0,Year 3,Science,Master,0
+18.5,Male,,Yes,,80.4,4,23.3,Yes,Yes,,3.02,Year 1,CS,Master,0
+23.0,Male,33340.0,Yes,3.76,78.2,1,24.8,Yes,No,6.5,2.21,Year 2,CS,High School,0
+20.0,Female,29901.0,Yes,4.17,80.7,1,44.6,No,No,5.5,1.09,Year 2,Science,Bachelor,1
+20.3,Female,42300.0,Yes,3.7,63.5,1,18.4,Yes,No,2.7,2.02,Year 1,Business,High School,0
+25.0,Female,25000.0,Yes,5.51,83.0,5,49.8,No,Yes,6.0,1.98,Year 2,Arts,Bachelor,1
+21.2,Female,25000.0,Yes,5.31,99.6,4,25.4,No,Yes,7.4,1.39,Year 4,Arts,Bachelor,0
+21.0,Female,45767.0,Yes,1.66,80.4,1,47.2,No,No,2.2,1.79,Year 4,Business,PhD,1
+20.8,Female,70149.0,No,4.11,80.0,0,28.6,Yes,Yes,2.8,2.1,Year 2,Science,PhD,0
+22.3,Male,40680.0,Yes,2.53,90.2,3,32.9,Yes,Yes,3.6,2.66,Year 1,Engineering,High School,0
+19.1,Female,66436.0,Yes,2.16,82.7,3,23.1,No,Yes,5.8,2.03,Year 4,Arts,High School,0
+17.9,Female,33579.0,Yes,3.69,82.7,3,8.7,No,No,3.6,2.59,Year 3,Arts,Bachelor,0
+19.0,Female,31189.0,Yes,2.42,73.8,1,30.7,No,No,3.7,1.97,Year 3,Business,High School,0
+23.8,Female,25000.0,Yes,4.47,87.8,1,17.2,No,Yes,6.7,1.73,Year 4,Business,High School,0
+19.0,Male,42954.0,Yes,3.48,77.2,1,32.7,No,No,5.1,2.25,Year 2,Arts,Bachelor,0
+24.3,Male,29239.0,No,3.55,100.0,2,35.7,No,No,3.8,3.78,Year 3,Science,Bachelor,0
+21.0,Male,54290.0,Yes,3.97,91.4,3,39.9,No,No,8.6,1.44,Year 2,Business,Bachelor,1
+21.8,Male,55315.0,No,3.03,80.1,1,18.7,No,Yes,9.0,0.61,Year 2,Science,PhD,1
+18.0,Female,31222.0,Yes,5.3,95.2,1,45.0,No,Yes,4.8,2.8,Year 2,Science,Bachelor,0
+19.8,Female,85237.0,Yes,1.12,84.5,1,31.7,No,Yes,7.4,2.77,Year 2,Science,Bachelor,0
+25.5,Female,83189.0,Yes,5.75,73.7,3,33.7,Yes,No,5.4,0.57,Year 4,Science,High School,0
+18.5,Male,39147.0,Yes,1.38,80.0,0,41.4,Yes,Yes,5.5,3.09,Year 3,Business,High School,0
+19.2,Male,47362.0,Yes,4.04,98.0,2,38.5,No,No,7.7,0.97,Year 1,CS,Master,1
+23.6,Male,66150.0,Yes,5.86,79.7,0,51.4,Yes,No,6.3,2.17,Year 4,CS,Bachelor,0
+21.0,Female,,Yes,,83.6,0,23.9,Yes,Yes,,3.09,Year 1,Science,High School,0
+19.2,Female,25000.0,Yes,4.08,76.8,5,20.7,No,No,9.3,2.26,Year 2,Engineering,Bachelor,1
+18.1,Male,36788.0,Yes,3.13,90.2,2,47.3,No,Yes,6.3,3.65,Year 1,CS,Bachelor,0
+21.9,Male,29614.0,Yes,5.14,76.5,2,33.4,No,No,6.9,0.6,Year 1,Arts,Bachelor,1
+21.7,Male,25000.0,Yes,4.84,78.8,0,30.4,No,No,5.3,2.57,Year 3,Arts,Bachelor,0
+18.7,Male,25000.0,Yes,4.57,93.6,0,25.7,Yes,Yes,8.2,3.73,Year 4,CS,Master,0
+20.6,Male,25000.0,Yes,3.89,77.0,4,30.4,No,No,6.6,2.01,Year 4,Science,High School,0
+20.5,Male,33540.0,No,4.41,70.9,1,22.2,No,No,8.0,1.14,Year 4,Arts,Bachelor,1
+20.6,Female,38847.0,Yes,3.54,80.7,3,43.4,No,Yes,5.4,2.65,Year 1,Arts,High School,0
+22.1,Male,35539.0,Yes,2.68,73.6,4,23.6,Yes,Yes,1.8,2.58,Year 2,Science,High School,0
+20.2,Male,25844.0,Yes,1.78,87.6,6,37.3,No,No,5.4,2.35,Year 3,Arts,High School,1
+19.2,Male,25000.0,Yes,3.82,85.9,2,34.0,No,Yes,6.2,3.0,Year 2,Arts,Master,0
+19.6,Male,64168.0,Yes,2.84,84.9,1,39.9,No,No,6.3,0.39,Year 4,Science,High School,1
+22.0,Female,,Yes,,85.8,3,24.3,Yes,Yes,,2.85,Year 1,Engineering,High School,1
+19.5,Male,36342.0,Yes,5.54,84.2,1,38.8,Yes,No,3.6,3.29,Year 1,Engineering,Bachelor,0
+20.7,Female,,Yes,,83.8,1,40.4,Yes,Yes,,2.77,Year 4,Business,,0
+24.2,Female,47778.0,Yes,6.17,87.3,1,46.8,No,Yes,5.5,4.0,Year 4,Science,Master,0
+23.4,Female,63438.0,Yes,5.69,85.4,1,39.0,No,No,4.4,3.43,Year 3,Business,Master,0
+18.4,Female,44629.0,Yes,4.65,88.7,0,34.1,No,No,7.0,1.88,Year 2,Arts,High School,0
+18.4,Female,72279.0,Yes,6.15,88.4,1,13.0,No,No,3.4,3.8,Year 2,Arts,High School,0
+17.0,Female,25000.0,Yes,4.62,87.3,2,28.2,No,Yes,7.0,2.46,Year 2,CS,Master,0
+21.3,Female,28666.0,Yes,4.42,79.6,4,47.9,No,No,4.1,3.54,Year 1,CS,Bachelor,0
+17.5,Male,39306.0,Yes,1.56,80.6,0,49.2,Yes,Yes,3.7,4.0,Year 4,Business,High School,0
+18.4,Female,84522.0,No,3.54,77.4,2,47.9,No,Yes,7.3,0.0,Year 2,CS,High School,1
+24.0,Female,40450.0,Yes,1.62,83.4,3,37.7,No,Yes,4.8,2.44,Year 3,Science,Bachelor,0
+21.1,Female,,Yes,,63.8,2,36.8,Yes,No,,3.03,Year 2,Engineering,Master,0
+22.9,Female,25000.0,Yes,4.47,67.8,2,22.2,Yes,No,6.0,1.26,Year 4,Arts,Bachelor,1
+23.6,Male,46209.0,Yes,2.77,85.7,2,48.9,Yes,Yes,2.7,3.77,Year 2,Science,High School,0
+22.7,Female,25000.0,Yes,2.26,66.6,1,17.6,No,No,7.2,0.0,Year 3,Business,High School,1
+18.8,Male,41403.0,Yes,4.9,80.8,2,15.2,No,No,3.8,3.52,Year 3,Engineering,High School,0
+21.5,Female,25000.0,Yes,4.77,83.1,1,16.1,No,No,6.6,0.96,Year 2,Science,Master,0
+18.9,Male,51731.0,Yes,3.97,82.2,0,42.2,No,No,6.9,0.25,Year 4,Business,Master,1
+25.2,Female,45652.0,Yes,5.2,71.9,2,38.6,No,No,3.1,1.96,Year 1,CS,High School,0
+17.6,Male,49926.0,Yes,3.87,74.5,0,31.0,No,Yes,7.5,0.34,Year 2,Science,High School,0
+20.4,Male,29030.0,Yes,3.97,71.7,0,49.5,Yes,No,6.0,1.17,Year 4,Engineering,Master,0
+17.8,Male,,No,,74.8,3,26.7,Yes,No,,3.59,Year 4,Business,High School,0
+20.4,Male,25000.0,Yes,2.66,97.2,3,50.2,Yes,Yes,2.5,4.0,Year 2,Science,High School,0
+28.0,Female,29734.0,Yes,4.54,81.5,3,5.0,Yes,No,5.8,2.01,Year 4,Arts,High School,0
+21.3,Female,73570.0,No,4.0,85.0,1,31.6,No,No,6.7,1.93,Year 1,Business,Master,1
+22.6,Male,43360.0,Yes,3.75,84.5,2,38.3,Yes,Yes,9.3,1.68,Year 4,Arts,,1
+19.7,Male,25000.0,Yes,3.06,92.6,3,24.5,Yes,No,3.1,3.03,Year 3,CS,High School,0
+20.5,Female,48532.0,Yes,5.32,90.4,0,24.2,Yes,No,5.5,3.37,Year 3,Engineering,High School,0
+18.8,Male,,Yes,,57.6,4,32.2,Yes,Yes,,2.43,Year 3,Engineering,Bachelor,0
+21.4,Male,31818.0,No,4.92,64.8,2,27.8,No,No,4.3,0.64,Year 3,Arts,Bachelor,0
+19.7,Male,45911.0,Yes,4.71,91.2,2,33.1,Yes,Yes,3.7,2.99,Year 3,Science,High School,1
+19.8,Female,50964.0,Yes,3.31,82.2,1,22.4,No,No,5.2,2.54,Year 3,Arts,PhD,0
+26.0,Male,50579.0,Yes,0.61,85.6,2,16.7,No,No,4.1,0.66,Year 3,Engineering,High School,0
+21.3,Male,34949.0,Yes,2.97,86.2,1,33.5,No,No,4.2,3.89,Year 3,CS,Bachelor,0
+19.9,Male,,Yes,,92.5,1,28.0,No,No,,3.37,Year 4,Business,Bachelor,0
+17.0,Male,33919.0,Yes,2.03,69.3,2,26.4,No,No,3.8,1.43,Year 4,Science,High School,1
+17.6,Female,34986.0,Yes,5.02,76.9,4,39.1,Yes,Yes,6.3,1.84,Year 2,CS,Bachelor,0
+21.7,Male,25000.0,Yes,5.0,100.0,4,9.5,No,No,6.8,1.83,Year 3,Engineering,Bachelor,0
+20.7,Male,25000.0,Yes,2.95,87.4,1,36.1,No,No,7.1,1.08,Year 2,Engineering,Master,1
+19.6,Female,63145.0,Yes,4.05,95.4,1,30.7,No,Yes,3.6,2.49,Year 3,Business,High School,0
+20.6,Female,25000.0,Yes,2.78,85.1,1,28.4,No,No,5.5,2.76,Year 4,Engineering,High School,0
+21.5,Male,25000.0,Yes,4.53,83.1,1,40.1,No,Yes,4.3,2.86,Year 1,CS,High School,1
+20.6,Male,31841.0,Yes,3.82,80.2,0,27.8,Yes,No,4.9,2.7,Year 2,Arts,Master,0
+19.7,Female,25000.0,Yes,2.53,88.1,2,20.3,Yes,No,5.6,2.81,Year 4,Science,High School,1
+17.7,Male,77639.0,Yes,3.43,75.5,2,39.0,No,No,5.0,3.01,Year 4,Science,High School,0
+20.5,Female,25000.0,Yes,3.77,80.5,1,11.5,Yes,Yes,4.6,1.96,Year 4,CS,High School,0
+19.6,Male,25000.0,No,6.88,71.2,3,24.0,No,No,7.9,1.99,Year 1,Arts,Master,0
+21.0,Female,25000.0,Yes,3.3,70.4,2,23.7,No,No,8.3,0.43,Year 4,Arts,High School,1
+19.6,Female,31029.0,Yes,2.69,82.4,2,26.5,Yes,Yes,4.5,3.27,Year 2,Engineering,,0
+19.1,Male,25402.0,Yes,6.55,87.5,1,28.1,Yes,Yes,3.9,2.92,Year 2,Arts,Bachelor,0
+22.5,Male,25000.0,Yes,3.88,75.9,3,16.9,No,Yes,2.5,1.04,Year 2,Engineering,High School,0
+22.9,Male,25000.0,Yes,4.87,92.0,1,39.8,No,No,4.3,2.15,Year 3,Engineering,Master,1
+20.1,Male,25000.0,Yes,2.06,73.3,1,24.5,No,No,2.2,2.66,Year 1,Business,High School,0
+19.8,Male,38201.0,Yes,3.53,72.9,4,22.9,Yes,Yes,5.4,2.66,Year 4,Engineering,PhD,0
+20.6,Male,25000.0,Yes,5.77,79.2,2,49.7,No,Yes,5.2,4.0,Year 1,Science,Bachelor,0
+17.4,Female,25000.0,Yes,4.17,82.4,2,32.7,No,No,4.6,3.99,Year 3,Business,Bachelor,0
+24.0,Female,39107.0,Yes,4.18,73.8,3,28.9,Yes,No,6.1,1.97,Year 4,CS,Bachelor,0
+22.2,Male,37127.0,Yes,3.27,84.8,2,26.7,No,No,2.1,4.0,Year 2,Engineering,High School,0
+21.5,Female,30555.0,Yes,4.37,77.1,5,38.4,Yes,No,3.5,2.51,Year 1,Business,Master,0
+23.2,Male,42887.0,Yes,3.46,95.0,2,10.9,Yes,No,8.6,2.52,Year 2,Science,High School,1
+23.9,Male,28431.0,Yes,4.7,78.5,1,25.2,No,Yes,4.7,3.9,Year 3,Arts,High School,0
+22.2,Female,31987.0,Yes,3.46,90.7,2,21.0,Yes,No,3.6,4.0,Year 3,Business,High School,0
+19.3,Female,,Yes,,77.5,4,21.8,Yes,No,,3.78,Year 3,Engineering,High School,0
+22.1,Male,25989.0,Yes,4.11,83.5,2,7.7,Yes,No,5.6,3.42,Year 1,Arts,,0
+20.5,Male,25000.0,No,1.75,100.0,0,19.8,No,No,4.5,4.0,Year 2,Science,High School,0
+21.1,Female,25000.0,Yes,3.88,76.1,3,27.5,No,Yes,7.6,0.86,Year 2,Arts,High School,1
+20.3,Male,25000.0,Yes,2.1,69.4,2,30.1,Yes,Yes,8.2,1.79,Year 1,Engineering,High School,0
+21.2,Male,44425.0,Yes,3.77,82.6,1,43.2,Yes,No,4.3,1.53,Year 4,Business,Master,0
+22.4,Female,49886.0,Yes,3.88,81.1,5,30.4,No,No,6.7,0.68,Year 2,CS,Bachelor,1
+22.1,Male,38834.0,Yes,5.0,88.9,0,25.4,No,No,6.3,2.04,Year 4,Arts,Bachelor,0
+23.8,Male,77949.0,Yes,3.86,92.5,1,34.2,No,No,4.8,2.66,Year 1,Engineering,High School,0
+23.1,Female,34323.0,No,3.59,85.3,1,23.4,Yes,No,7.5,3.03,Year 1,Engineering,Bachelor,0
+18.6,Male,43970.0,Yes,6.51,84.6,1,30.4,Yes,Yes,9.2,2.04,Year 1,Business,Master,1
+18.8,Female,,Yes,,71.1,2,24.5,No,No,,2.5,Year 2,Engineering,Bachelor,0
+20.0,Female,50954.0,Yes,4.64,79.2,1,53.9,No,No,2.1,4.0,Year 2,Engineering,Master,0
+21.8,Female,25000.0,Yes,4.05,74.5,1,30.0,No,No,5.6,1.52,Year 3,CS,Bachelor,1
+17.0,Male,25089.0,Yes,2.13,75.8,0,42.1,No,No,4.7,1.39,Year 3,Science,Master,1
+18.3,Male,,Yes,,84.0,2,30.4,Yes,No,,2.01,Year 1,Business,Master,0
+22.7,Female,25000.0,Yes,1.04,77.7,2,46.1,No,No,4.6,0.11,Year 4,Science,Bachelor,0
+22.1,Female,31860.0,Yes,3.58,73.9,1,25.5,No,No,5.3,2.71,Year 3,CS,High School,0
+26.2,Female,34071.0,Yes,2.23,85.1,5,34.1,No,No,7.6,1.07,Year 3,CS,Bachelor,1
+18.0,Female,44836.0,Yes,4.48,93.3,2,54.7,Yes,Yes,6.2,2.26,Year 4,Arts,High School,0
+17.6,Female,30208.0,Yes,3.98,77.2,2,22.8,Yes,Yes,4.5,1.33,Year 3,Engineering,Master,1
+26.4,Male,39530.0,No,5.88,88.6,0,28.7,Yes,No,5.3,3.68,Year 4,Science,High School,0
+20.1,Male,25000.0,Yes,3.83,84.6,2,33.8,No,Yes,3.4,1.85,Year 4,Arts,PhD,0
+20.2,Male,53139.0,Yes,1.74,83.4,2,22.9,No,Yes,3.3,0.32,Year 4,Business,Master,0
+21.4,Male,44076.0,No,4.27,88.2,1,38.1,No,No,7.5,1.83,Year 2,Science,Bachelor,1
+21.2,Male,30807.0,Yes,5.53,70.5,2,52.8,Yes,No,4.3,2.64,Year 3,Arts,Bachelor,1
+20.9,Female,25000.0,Yes,4.58,94.7,3,39.2,No,Yes,3.7,4.0,Year 1,Engineering,Master,0
+21.2,Female,25528.0,Yes,3.87,88.1,5,24.0,Yes,No,6.4,1.75,Year 3,Arts,High School,1
+24.7,Female,25000.0,Yes,3.12,91.5,1,10.9,Yes,No,1.0,4.0,Year 4,Business,High School,0
+22.3,Male,60088.0,Yes,4.07,90.5,3,33.9,No,No,2.6,2.64,Year 4,Business,Master,0
+21.7,Female,27522.0,Yes,3.56,82.7,0,29.2,Yes,No,2.2,4.0,Year 3,Arts,High School,0
+20.6,Male,54383.0,Yes,4.75,82.2,1,45.1,Yes,No,6.1,2.43,Year 2,Engineering,,0
+22.4,Female,47389.0,Yes,3.21,80.4,3,14.6,No,No,5.7,1.32,Year 4,CS,,0
+22.5,Male,26741.0,Yes,4.55,90.4,1,31.9,Yes,Yes,4.9,4.0,Year 2,Science,Bachelor,0
+19.6,Male,25000.0,Yes,3.82,70.2,3,23.2,Yes,No,7.5,0.76,Year 3,Science,PhD,1
+22.5,Male,26260.0,Yes,4.6,65.6,0,18.8,No,No,2.6,3.67,Year 3,Science,Master,0
+19.5,Female,26213.0,Yes,4.36,68.9,2,6.2,No,Yes,4.8,0.36,Year 3,CS,Master,1
+21.4,Male,29535.0,Yes,5.47,78.3,1,31.9,No,Yes,3.2,2.91,Year 1,Engineering,Master,0
+21.8,Female,36782.0,Yes,2.85,97.5,2,36.4,Yes,No,4.4,2.29,Year 1,CS,Bachelor,0
+25.7,Male,33102.0,Yes,2.96,86.1,4,24.5,Yes,No,5.9,2.4,Year 3,Engineering,Bachelor,0
+20.2,Male,25000.0,Yes,4.11,82.4,1,53.8,No,No,3.4,2.61,Year 4,Engineering,PhD,0
+20.7,Female,25000.0,Yes,2.87,76.8,1,15.0,Yes,No,5.6,0.85,Year 3,Engineering,Bachelor,0
+21.1,Male,83197.0,Yes,4.95,86.3,6,35.8,No,No,6.7,2.68,Year 2,Engineering,Bachelor,0
+22.4,Female,30797.0,Yes,3.33,93.3,2,24.5,Yes,Yes,7.6,0.39,Year 3,Arts,Bachelor,1
+24.0,Female,25000.0,Yes,3.59,87.8,2,29.8,No,No,3.3,2.51,Year 3,CS,Master,1
+20.5,Male,52616.0,Yes,2.59,77.5,2,27.2,Yes,Yes,3.5,1.45,Year 1,Engineering,High School,0
+19.1,Male,28839.0,Yes,4.25,84.8,6,38.4,No,Yes,5.0,1.38,Year 3,CS,High School,0
+18.4,Male,27117.0,Yes,1.98,74.7,2,44.0,Yes,Yes,7.2,0.0,Year 4,Business,Master,1
+23.1,Female,65596.0,Yes,4.07,75.3,2,49.7,No,No,3.9,3.72,Year 3,Business,PhD,0
+22.1,Male,25000.0,Yes,2.48,89.4,6,25.3,Yes,Yes,3.1,1.07,Year 2,Business,High School,1
+21.3,Male,25000.0,Yes,4.22,85.1,2,36.4,No,No,5.3,4.0,Year 1,Engineering,High School,0
+23.8,Female,37629.0,Yes,3.23,82.7,2,40.0,Yes,No,4.6,2.8,Year 2,Business,Bachelor,0
+22.5,Female,25000.0,No,5.71,81.9,1,34.4,No,Yes,6.0,3.79,Year 1,Arts,Master,0
+23.0,Male,25000.0,No,3.56,81.2,0,29.6,Yes,No,5.7,2.27,Year 4,Arts,PhD,0
+20.8,Male,25000.0,Yes,2.06,95.1,3,21.6,No,No,6.1,2.84,Year 4,Arts,Bachelor,0
+23.7,Male,25000.0,Yes,4.44,70.1,1,19.4,No,No,5.0,1.57,Year 4,Engineering,Master,0
+18.6,Female,39681.0,No,2.66,72.0,1,43.3,Yes,No,7.7,0.0,Year 1,Science,Bachelor,1
+20.4,Female,25000.0,No,2.89,93.5,4,20.8,Yes,No,5.3,1.87,Year 2,CS,Master,1
+18.1,Male,29480.0,Yes,2.38,89.6,0,35.5,No,No,2.6,2.73,Year 4,Engineering,Master,0
+21.4,Female,,Yes,,79.7,1,28.0,Yes,No,,2.95,Year 2,Engineering,High School,0
+19.9,Female,87274.0,Yes,5.95,82.9,1,54.5,Yes,No,4.9,2.42,Year 1,Science,High School,1
+22.0,Female,38408.0,Yes,4.33,84.6,1,65.4,No,Yes,4.5,3.48,Year 2,Arts,High School,0
+22.9,Male,59215.0,Yes,3.35,75.1,0,24.1,Yes,No,7.1,0.23,Year 4,CS,High School,1
+25.6,Female,25000.0,Yes,2.39,99.7,3,26.8,Yes,No,7.6,0.0,Year 3,Arts,,1
+18.6,Female,25000.0,No,5.67,100.0,1,47.9,Yes,Yes,5.3,2.36,Year 2,Arts,Bachelor,0
+20.1,Female,34857.0,Yes,5.15,86.6,1,27.7,No,Yes,5.9,2.33,Year 1,Science,High School,0
+21.5,Female,25000.0,Yes,3.25,77.0,1,29.7,Yes,No,6.0,2.23,Year 1,Engineering,High School,0
+17.9,Male,36577.0,Yes,5.23,88.9,2,33.0,No,No,5.0,2.19,Year 4,Science,Bachelor,1
+20.7,Male,,Yes,,49.0,3,9.7,No,No,,3.81,Year 2,Science,,0
+21.0,Female,37668.0,Yes,1.71,79.0,2,21.1,Yes,Yes,3.5,2.38,Year 3,Business,PhD,0
+20.5,Female,57564.0,Yes,1.47,89.2,2,26.6,Yes,No,5.6,3.22,Year 1,Engineering,Bachelor,0
+19.6,Female,25725.0,Yes,5.09,88.9,3,33.6,Yes,No,7.7,2.07,Year 3,CS,High School,1
+18.4,Female,58662.0,Yes,3.29,88.7,1,44.5,Yes,Yes,5.3,3.66,Year 4,Science,High School,0
+20.3,Male,42276.0,Yes,4.49,81.4,1,34.6,No,No,5.4,2.77,Year 1,Engineering,High School,0
+20.5,Male,70654.0,Yes,4.92,76.6,1,5.4,No,No,4.5,2.68,Year 2,Arts,Bachelor,0
+20.2,Male,57763.0,Yes,5.99,67.6,0,22.9,Yes,Yes,5.1,2.38,Year 1,Arts,Bachelor,1
+20.2,Female,25715.0,Yes,3.46,91.5,1,38.9,Yes,Yes,9.0,2.69,Year 1,Engineering,High School,0
+22.5,Male,42604.0,Yes,2.28,86.5,3,30.3,Yes,No,6.5,1.14,Year 3,Science,High School,1
+22.6,Female,61967.0,Yes,2.4,77.0,3,56.8,Yes,No,4.8,2.15,Year 3,Engineering,Master,0
+19.8,Female,81018.0,Yes,2.78,80.8,1,5.0,Yes,Yes,7.1,2.18,Year 3,Business,Master,1
+20.9,Female,27893.0,No,6.23,75.0,2,25.4,No,No,3.9,2.46,Year 1,Business,High School,0
+20.6,Male,25000.0,Yes,2.17,85.5,2,16.4,No,No,4.4,1.72,Year 1,Engineering,Bachelor,0
+22.6,Male,25000.0,Yes,3.13,76.5,2,20.1,Yes,Yes,5.0,1.9,Year 4,Science,Master,0
+22.8,Female,41119.0,Yes,2.83,75.0,1,19.7,Yes,Yes,6.8,0.0,Year 1,Engineering,Bachelor,1
+19.8,Male,35524.0,Yes,3.07,77.8,0,38.3,No,No,3.8,1.01,Year 1,Engineering,Bachelor,0
+21.7,Female,25000.0,Yes,2.09,68.4,3,31.5,No,No,6.2,1.04,Year 3,Business,High School,0
+22.7,Male,94578.0,Yes,4.78,87.2,2,26.5,Yes,Yes,5.3,1.79,Year 4,Business,High School,0
+17.0,Female,25000.0,Yes,5.55,69.2,1,33.9,Yes,Yes,5.1,2.57,Year 1,Arts,Bachelor,0
+19.2,Male,27435.0,Yes,1.41,87.9,0,28.4,No,No,7.5,1.23,Year 3,Science,High School,1
+19.9,Male,44074.0,Yes,1.29,86.7,1,32.2,Yes,No,7.8,1.22,Year 1,CS,Bachelor,0
+21.4,Male,25000.0,Yes,4.3,77.1,4,28.8,No,Yes,5.2,1.9,Year 4,CS,,1
+19.8,Female,44871.0,Yes,4.75,82.7,1,32.0,No,No,4.7,3.39,Year 2,Arts,High School,0
+19.8,Male,39256.0,No,4.91,91.1,1,11.9,Yes,Yes,6.8,3.52,Year 4,Science,Bachelor,0
+21.0,Male,26426.0,Yes,4.99,83.4,2,29.2,No,Yes,5.2,2.93,Year 3,CS,Bachelor,0
+24.2,Male,25000.0,Yes,1.1,90.4,0,47.7,No,No,8.5,0.03,Year 4,CS,Bachelor,1
+22.1,Male,28484.0,Yes,4.12,71.1,3,31.0,Yes,No,9.3,1.76,Year 4,Science,Master,1
+22.6,Female,39823.0,Yes,3.99,76.8,1,35.8,No,No,5.3,1.72,Year 4,Engineering,High School,1
+23.1,Male,25000.0,Yes,3.47,90.5,2,39.2,No,Yes,2.2,4.0,Year 1,Engineering,PhD,0
+18.9,Male,25000.0,Yes,3.17,85.1,1,16.5,Yes,Yes,7.8,2.77,Year 4,CS,Bachelor,1
+20.0,Female,33173.0,Yes,5.41,82.6,4,23.7,No,No,5.6,0.47,Year 1,Science,Master,0
+19.2,Male,25000.0,Yes,4.95,95.3,4,43.1,Yes,No,5.7,3.94,Year 4,Engineering,,0
+18.8,Female,25000.0,Yes,1.43,80.3,3,28.6,No,Yes,4.4,3.62,Year 4,Business,High School,0
+24.1,Female,25000.0,Yes,4.46,80.8,4,22.3,No,No,7.4,0.72,Year 3,Arts,Bachelor,1
+17.0,Male,33263.0,Yes,4.42,72.6,0,34.3,Yes,Yes,5.6,1.84,Year 4,Science,Bachelor,0
+24.3,Male,27086.0,Yes,3.53,93.4,0,60.2,Yes,No,2.8,4.0,Year 3,CS,Bachelor,0
+24.8,Female,28576.0,Yes,2.45,94.3,1,21.1,No,Yes,5.2,1.94,Year 2,Engineering,High School,0
+23.1,Male,27436.0,Yes,0.63,83.8,3,15.3,No,Yes,4.2,2.47,Year 4,CS,Bachelor,0
+21.5,Female,25000.0,Yes,4.35,74.8,1,48.5,No,No,3.7,3.68,Year 2,Arts,Bachelor,0
+21.9,Male,25428.0,Yes,4.87,80.0,4,18.4,No,No,4.0,1.9,Year 1,Science,,0
+21.3,Male,127202.0,Yes,4.6,95.3,1,23.4,Yes,No,3.8,3.93,Year 3,CS,High School,0
+17.9,Female,25000.0,Yes,3.1,100.0,1,24.9,No,Yes,6.1,1.61,Year 3,Business,High School,0
+19.2,Female,32229.0,No,4.68,85.4,1,31.3,Yes,No,1.5,3.55,Year 3,Engineering,Master,0
+19.6,Female,125841.0,Yes,5.29,94.3,0,59.9,No,No,2.8,4.0,Year 3,Arts,Bachelor,0
+20.3,Female,75943.0,Yes,3.12,92.3,2,39.0,No,No,7.4,2.47,Year 4,Business,Bachelor,0
+23.5,Female,54885.0,Yes,1.8,85.0,1,32.9,Yes,No,2.6,2.58,Year 3,CS,Bachelor,0
+20.3,Male,40290.0,Yes,2.32,77.5,1,32.6,No,No,5.2,0.51,Year 4,CS,Master,1
+19.6,Female,25000.0,Yes,3.58,80.2,5,30.2,Yes,No,4.3,0.51,Year 3,CS,Bachelor,0
+21.1,Female,25000.0,Yes,5.09,69.3,0,53.0,No,Yes,5.8,1.61,Year 4,CS,High School,0
+22.0,Female,32935.0,Yes,5.93,79.0,1,37.4,No,No,6.8,2.84,Year 1,Engineering,Bachelor,0
+22.5,Male,25531.0,Yes,3.94,72.0,2,35.3,Yes,No,5.1,2.02,Year 3,CS,Bachelor,0
+19.7,Female,31913.0,Yes,5.27,81.7,1,10.1,No,No,6.2,2.31,Year 3,Engineering,Bachelor,0
+21.7,Female,51932.0,Yes,3.35,66.2,2,34.0,No,No,8.6,1.39,Year 3,Engineering,Bachelor,1
+20.8,Female,51779.0,Yes,5.47,70.8,2,35.5,Yes,No,6.3,2.17,Year 1,Science,High School,0
+19.6,Female,,Yes,,99.7,0,9.4,No,No,,1.87,Year 4,Arts,High School,0
+17.0,Female,25000.0,Yes,2.05,84.5,2,18.0,No,No,4.8,2.25,Year 1,Engineering,Bachelor,1
+23.2,Female,25000.0,Yes,3.47,82.0,3,24.6,No,No,5.0,1.7,Year 3,Science,Bachelor,0
+24.4,Female,25000.0,Yes,5.5,63.6,5,26.9,Yes,No,7.2,1.78,Year 4,Business,Master,1
+22.3,Male,46537.0,Yes,6.08,77.2,1,45.8,No,No,6.1,3.34,Year 2,Business,Bachelor,0
+21.0,Male,41736.0,No,4.94,80.8,0,53.1,Yes,Yes,5.4,3.24,Year 3,Science,Bachelor,0
+22.1,Female,49765.0,Yes,2.99,72.3,3,26.1,Yes,No,4.9,1.86,Year 3,CS,Master,0
+19.8,Female,25000.0,Yes,4.74,82.4,3,26.6,Yes,No,4.3,2.0,Year 1,Arts,Bachelor,0
+19.1,Male,42271.0,Yes,5.4,84.1,4,27.2,No,Yes,2.5,3.44,Year 1,Business,High School,0
+21.0,Female,,Yes,,75.1,2,26.6,No,Yes,,1.18,Year 2,Arts,Bachelor,1
+17.0,Female,30525.0,Yes,4.21,88.9,2,19.7,No,No,3.9,3.12,Year 1,Business,Bachelor,0
+18.2,Female,26869.0,Yes,5.15,74.2,3,29.2,No,No,3.2,2.68,Year 2,CS,Master,0
+21.5,Male,63378.0,No,3.01,83.3,0,25.7,No,No,4.0,3.04,Year 4,Science,High School,0
+18.4,Male,25000.0,Yes,3.78,79.9,3,27.3,Yes,No,7.8,1.35,Year 3,CS,Master,1
+19.5,Female,25000.0,Yes,5.57,75.0,3,20.7,No,No,6.8,2.88,Year 4,Science,Master,0
+17.0,Male,76847.0,Yes,4.42,78.6,5,56.5,Yes,Yes,4.1,2.72,Year 1,Arts,High School,0
+26.6,Female,25000.0,Yes,6.33,77.9,1,5.0,Yes,Yes,7.2,2.98,Year 3,Science,High School,0
+20.7,Male,69720.0,Yes,5.51,85.1,2,32.7,No,No,8.5,2.7,Year 4,CS,PhD,0
+21.7,Male,25000.0,Yes,5.46,82.0,1,18.7,No,Yes,3.8,2.7,Year 3,CS,Bachelor,0
+21.7,Female,25000.0,Yes,6.16,82.5,4,30.5,Yes,No,9.7,2.57,Year 2,Science,Bachelor,0
+21.1,Male,25000.0,Yes,2.83,78.1,1,31.7,Yes,No,8.6,0.0,Year 4,Business,High School,1
+17.7,Female,56028.0,Yes,3.18,68.1,0,22.3,No,Yes,7.6,0.22,Year 4,Science,Master,1
+18.8,Female,25000.0,Yes,4.72,73.0,0,33.7,No,Yes,5.2,2.66,Year 1,Business,Bachelor,0
+23.0,Female,31422.0,Yes,4.87,77.3,1,30.9,No,Yes,4.3,2.98,Year 4,Science,Bachelor,0
+24.5,Female,,Yes,,60.6,3,28.4,No,No,,2.7,Year 3,Engineering,Bachelor,0
+19.9,Female,34556.0,Yes,3.63,94.5,5,31.3,No,Yes,4.2,3.47,Year 1,Arts,Bachelor,1
+19.3,Male,65496.0,Yes,4.51,82.2,4,25.3,No,No,5.6,1.39,Year 2,Arts,PhD,0
+19.9,Male,55374.0,Yes,4.62,71.4,2,38.7,Yes,Yes,4.6,3.01,Year 2,Arts,,0
+21.2,Male,25000.0,Yes,2.67,71.5,2,19.1,No,No,7.7,1.57,Year 1,Arts,Bachelor,0
+23.7,Female,30686.0,Yes,4.42,75.8,0,23.3,No,Yes,4.2,2.64,Year 1,Arts,Master,0
+24.2,Male,25000.0,Yes,4.91,76.8,0,23.1,Yes,No,5.5,1.25,Year 1,CS,Master,0
+22.2,Female,27393.0,Yes,2.18,82.1,1,27.5,No,No,4.6,1.4,Year 1,Business,Bachelor,1
+17.0,Female,25000.0,Yes,5.8,79.3,5,33.6,Yes,No,7.0,2.51,Year 2,Engineering,Master,0
+19.0,Female,25000.0,Yes,2.84,82.5,3,24.8,No,No,5.9,1.24,Year 1,Science,Bachelor,1
+19.2,Female,30019.0,Yes,4.2,79.5,0,31.4,No,No,6.0,2.69,Year 1,Engineering,Bachelor,0
+21.4,Female,25000.0,Yes,6.92,72.7,1,37.6,Yes,No,5.0,1.55,Year 2,Science,Master,0
+19.4,Female,25000.0,No,2.95,80.3,2,41.5,Yes,No,4.4,3.72,Year 1,Business,Master,0
+18.9,Female,42108.0,Yes,4.33,91.5,0,36.7,No,Yes,6.3,3.61,Year 2,CS,High School,0
+18.3,Female,67570.0,Yes,4.03,82.1,0,31.8,Yes,Yes,7.2,2.08,Year 4,CS,Master,0
+21.4,Female,31862.0,Yes,4.08,76.2,1,14.9,Yes,No,3.2,2.59,Year 2,CS,Master,0
+20.5,Female,25000.0,Yes,4.35,90.4,1,20.0,No,No,2.8,2.36,Year 3,Engineering,Bachelor,0
+17.7,Female,25000.0,Yes,4.09,89.0,3,53.3,No,No,3.9,3.27,Year 2,Science,Bachelor,0
+20.5,Female,25000.0,Yes,3.6,83.6,2,29.9,No,Yes,3.6,0.99,Year 3,Arts,High School,0
+24.2,Female,66251.0,Yes,4.46,87.2,1,21.0,Yes,Yes,4.4,2.77,Year 3,CS,Master,0
+18.5,Male,41909.0,Yes,4.78,75.8,3,30.4,No,Yes,6.4,1.17,Year 1,Engineering,Bachelor,1
+19.0,Male,25000.0,Yes,4.12,80.9,1,11.4,Yes,No,4.5,0.85,Year 1,Engineering,Bachelor,0
+21.3,Female,158189.0,Yes,5.38,78.0,2,30.0,No,No,6.0,1.11,Year 4,Arts,Bachelor,1
+23.4,Female,50214.0,No,2.91,87.2,1,38.4,No,Yes,6.0,0.82,Year 2,CS,High School,0
+23.8,Female,94532.0,Yes,4.62,73.1,2,15.3,Yes,Yes,7.6,2.51,Year 3,CS,Master,1
+21.4,Female,25000.0,Yes,5.14,80.5,3,21.3,No,No,4.6,1.08,Year 1,Business,Bachelor,0
+19.7,Female,25000.0,Yes,3.61,72.8,4,28.6,Yes,No,6.9,1.35,Year 4,Science,Bachelor,1
+20.1,Female,36835.0,Yes,6.49,78.9,3,33.6,No,No,5.4,1.99,Year 1,Engineering,Bachelor,0
+19.1,Male,25000.0,Yes,2.32,91.6,1,46.9,No,No,7.1,0.21,Year 1,Arts,Bachelor,1
+20.2,Male,25000.0,Yes,3.99,77.7,4,37.0,Yes,No,5.0,4.0,Year 4,Arts,Bachelor,0
+19.1,Female,38761.0,Yes,5.14,70.2,3,37.6,No,No,5.6,3.55,Year 3,Arts,Bachelor,0
+23.3,Male,,Yes,,95.9,1,7.0,Yes,No,,2.66,Year 1,Arts,Master,0
+25.5,Male,25000.0,Yes,5.77,94.1,1,41.9,No,Yes,4.4,2.32,Year 2,Business,Bachelor,0
+22.8,Male,30747.0,Yes,3.09,86.9,3,27.1,Yes,Yes,5.8,1.21,Year 1,Science,Bachelor,0
+24.5,Female,35841.0,Yes,4.17,84.0,2,36.8,Yes,No,5.2,1.42,Year 1,Business,High School,0
+23.4,Female,50359.0,Yes,3.83,88.7,0,9.3,Yes,No,3.3,2.29,Year 3,CS,Master,0
+18.9,Female,25000.0,No,3.47,86.6,3,14.1,No,Yes,5.8,1.82,Year 4,Arts,High School,1
+20.0,Male,,Yes,,80.4,2,45.4,Yes,No,,1.74,Year 2,Engineering,High School,1
+18.6,Female,58801.0,Yes,3.27,67.5,5,52.4,Yes,No,4.9,2.03,Year 4,Science,,0
+20.9,Female,25000.0,Yes,0.81,75.9,2,26.9,No,No,6.1,1.21,Year 4,CS,Bachelor,1
+21.5,Female,73557.0,Yes,3.79,75.5,3,56.1,Yes,No,5.2,2.76,Year 4,Science,Master,1
+19.9,Male,25000.0,Yes,3.72,80.6,2,42.9,No,No,5.4,2.51,Year 2,Science,High School,1
+22.3,Female,25000.0,Yes,3.86,83.4,2,26.7,No,No,4.9,0.99,Year 3,Arts,High School,0
+21.7,Male,28827.0,Yes,1.83,81.2,0,19.5,Yes,No,2.3,1.95,Year 4,CS,Master,0
+21.2,Female,67008.0,Yes,2.2,93.2,2,24.2,Yes,No,4.5,4.0,Year 1,Science,High School,0
+18.7,Male,25000.0,Yes,3.26,68.5,3,13.9,No,Yes,2.8,2.04,Year 4,Science,Master,0
+22.4,Female,38576.0,Yes,4.98,86.3,1,28.4,No,No,3.0,2.88,Year 2,Science,Bachelor,0
+20.6,Female,34795.0,Yes,3.18,65.1,2,18.9,No,No,2.9,2.05,Year 2,Engineering,Bachelor,0
+22.4,Male,32148.0,Yes,4.16,69.6,0,27.3,Yes,Yes,6.6,1.7,Year 1,Business,High School,0
+21.6,Female,25000.0,Yes,6.21,64.7,4,31.1,Yes,No,5.1,1.52,Year 1,Arts,High School,1
+23.0,Male,77012.0,No,5.24,73.5,0,45.6,No,Yes,7.3,3.37,Year 4,Arts,Bachelor,0
+21.6,Female,85798.0,Yes,3.61,76.7,3,20.4,No,No,8.1,1.4,Year 4,Business,High School,1
+17.9,Female,25000.0,Yes,4.56,66.0,0,18.9,Yes,No,5.8,0.94,Year 1,Business,High School,1
+20.1,Female,25000.0,Yes,4.98,85.9,0,33.5,Yes,No,3.5,3.47,Year 3,Arts,Bachelor,0
+23.2,Female,25000.0,Yes,4.53,71.5,3,42.8,No,No,6.3,2.87,Year 3,Business,Bachelor,0
+24.5,Female,26914.0,Yes,3.81,84.8,3,22.0,Yes,No,6.0,2.35,Year 1,CS,High School,1
+25.4,Male,34647.0,Yes,3.73,78.7,0,26.6,No,Yes,7.1,2.84,Year 1,CS,Master,0
+22.3,Male,25000.0,Yes,4.11,81.3,2,41.5,No,No,5.6,3.13,Year 2,Business,Master,0
+17.0,Male,33117.0,Yes,7.97,91.3,2,26.2,No,No,3.6,3.24,Year 1,Engineering,Bachelor,0
+17.0,Male,25000.0,Yes,3.95,78.8,3,42.0,No,Yes,5.9,0.62,Year 2,Business,High School,1
+18.1,Female,25000.0,Yes,4.44,75.0,1,11.8,Yes,No,5.1,1.42,Year 2,Engineering,High School,1
+20.2,Female,73585.0,Yes,3.46,83.5,1,16.4,No,No,5.7,2.39,Year 1,CS,Bachelor,0
+17.0,Male,32069.0,Yes,3.27,95.7,1,23.6,No,No,6.4,3.5,Year 3,Science,Bachelor,1
+21.4,Female,25000.0,Yes,6.71,84.4,3,40.7,No,No,5.5,3.03,Year 2,Science,High School,0
+23.1,Male,52604.0,No,5.12,75.9,1,25.5,No,Yes,3.1,1.27,Year 1,Engineering,Bachelor,0
+23.8,Male,25000.0,No,4.69,69.7,3,22.0,Yes,No,6.4,2.86,Year 4,Engineering,High School,0
+17.3,Female,68264.0,Yes,4.75,98.7,2,38.5,Yes,No,6.6,3.43,Year 3,Science,High School,0
+22.7,Female,30918.0,Yes,4.2,66.9,4,22.3,No,Yes,2.0,4.0,Year 1,Science,High School,0
+18.8,Female,25000.0,Yes,7.11,81.5,2,41.1,No,Yes,6.0,2.51,Year 3,Science,Bachelor,0
+17.8,Female,37053.0,Yes,5.16,81.6,3,30.4,No,Yes,3.8,3.42,Year 1,Arts,Bachelor,0
+18.2,Male,56752.0,Yes,7.32,73.8,4,20.9,Yes,No,5.5,2.27,Year 2,Business,Bachelor,1
+20.4,Male,36070.0,Yes,2.75,76.2,3,31.1,Yes,Yes,7.5,1.95,Year 1,Business,High School,0
+19.2,Female,36745.0,Yes,1.84,73.2,0,26.2,No,Yes,7.4,1.01,Year 3,Engineering,Master,0
+18.4,Male,31626.0,Yes,3.13,78.6,2,16.8,Yes,No,6.4,1.97,Year 4,CS,Bachelor,0
+23.0,Female,39614.0,Yes,4.41,77.8,1,28.2,No,No,5.0,2.49,Year 2,Engineering,Bachelor,1
+20.5,Female,25000.0,Yes,3.75,82.9,1,31.1,No,Yes,4.7,1.64,Year 3,Business,PhD,0
+21.4,Female,25000.0,No,4.8,85.2,2,38.7,Yes,No,8.1,0.0,Year 2,Business,Bachelor,1
+22.8,Female,53271.0,Yes,2.9,84.0,0,32.3,Yes,No,7.0,0.22,Year 4,Engineering,Master,1
+17.7,Female,71011.0,Yes,2.87,68.5,6,33.0,Yes,Yes,6.6,1.54,Year 3,Business,High School,0
+23.0,Female,31294.0,Yes,4.63,91.3,3,17.8,No,No,2.1,4.0,Year 3,Engineering,Bachelor,0
+19.7,Male,90460.0,Yes,3.68,71.2,2,25.2,Yes,Yes,3.2,3.21,Year 3,Science,Master,0
+20.2,Female,25000.0,Yes,0.5,67.5,2,41.0,No,Yes,2.9,2.03,Year 3,Arts,Bachelor,0
+18.4,Female,105739.0,Yes,3.66,82.9,4,38.6,Yes,No,9.4,1.01,Year 2,Arts,High School,0
+20.8,Male,25000.0,Yes,2.44,73.8,2,7.1,No,No,3.6,2.49,Year 2,CS,Bachelor,0
+21.6,Male,25000.0,No,2.7,78.3,1,22.6,No,No,7.0,2.39,Year 4,CS,Bachelor,1
+22.4,Female,57702.0,Yes,4.97,82.0,0,21.3,No,No,4.2,2.95,Year 4,Business,Master,0
+17.6,Female,25286.0,Yes,4.68,78.6,5,35.5,No,Yes,6.5,1.55,Year 3,CS,High School,0
+21.8,Female,,Yes,,86.8,2,48.2,No,No,,3.91,Year 2,Business,Master,0
+19.4,Female,50026.0,Yes,5.78,73.2,1,26.5,Yes,No,6.4,1.92,Year 1,Engineering,Bachelor,0
+24.2,Female,25000.0,Yes,2.63,83.7,1,22.4,Yes,No,4.7,1.1,Year 3,Business,Bachelor,0
+23.8,Female,31865.0,Yes,7.19,100.0,1,30.0,No,Yes,6.1,4.0,Year 1,Engineering,Master,0
+20.1,Male,25000.0,No,1.81,66.0,4,41.0,No,No,6.1,2.27,Year 2,Arts,Master,1
+22.6,Male,45412.0,Yes,3.79,78.6,2,44.0,Yes,No,7.5,1.3,Year 4,Engineering,Bachelor,0
+19.3,Female,67808.0,No,3.31,86.2,2,36.5,No,Yes,5.8,0.32,Year 2,Business,Bachelor,0
+21.5,Female,55719.0,Yes,4.0,81.3,2,22.1,No,No,7.8,1.34,Year 3,Science,High School,0
+22.2,Male,38439.0,Yes,4.9,76.6,0,5.1,No,No,5.7,0.2,Year 1,Engineering,High School,1
+17.5,Male,25000.0,No,3.19,69.6,1,8.7,No,No,6.0,1.52,Year 2,Engineering,Bachelor,1
+18.5,Female,25000.0,Yes,4.9,73.7,4,59.5,No,No,5.7,2.55,Year 3,CS,Bachelor,0
+21.4,Female,40002.0,Yes,5.13,80.6,1,42.7,No,Yes,4.1,4.0,Year 3,Engineering,PhD,0
+22.6,Male,29985.0,Yes,4.16,61.9,3,35.1,Yes,Yes,8.3,0.0,Year 1,CS,Master,1
+18.9,Female,25000.0,No,3.07,79.0,1,27.3,Yes,No,7.4,3.39,Year 4,Science,PhD,1
+20.9,Male,29000.0,Yes,4.99,80.8,3,27.2,No,No,6.6,2.32,Year 1,Engineering,,1
+20.0,Female,38352.0,Yes,3.3,91.7,5,29.9,No,No,4.8,3.19,Year 3,Engineering,,0
+20.2,Male,28398.0,No,4.56,82.6,1,27.9,Yes,Yes,5.4,1.61,Year 3,Arts,Bachelor,0
+22.5,Female,50695.0,Yes,3.66,89.4,0,18.2,No,Yes,2.2,4.0,Year 1,Science,Bachelor,0
+17.0,Female,61103.0,Yes,2.87,75.2,3,32.4,No,Yes,6.7,3.09,Year 1,Business,Master,1
+20.2,Female,25000.0,Yes,2.32,81.8,2,44.9,Yes,No,5.5,1.91,Year 4,Arts,Bachelor,0
+24.0,Female,25000.0,Yes,3.58,77.9,1,35.4,Yes,Yes,7.8,1.7,Year 3,Arts,Bachelor,0
+19.9,Female,25000.0,Yes,3.56,68.0,4,36.3,No,No,3.0,1.68,Year 3,Arts,Master,0
+23.4,Female,25000.0,No,4.47,82.6,1,24.2,Yes,Yes,4.4,3.53,Year 2,Business,Bachelor,0
+19.5,Female,33731.0,Yes,6.24,80.7,2,34.1,Yes,Yes,5.5,3.61,Year 4,Arts,Bachelor,0
+21.7,Male,97527.0,Yes,4.03,84.7,1,31.9,No,Yes,5.9,1.63,Year 4,CS,Bachelor,0
+21.9,Male,25000.0,Yes,3.48,77.1,2,35.3,Yes,No,1.9,1.76,Year 2,Arts,Bachelor,0
+21.7,Female,25000.0,Yes,4.61,77.0,0,28.7,Yes,No,4.6,2.02,Year 1,Engineering,Master,0
+17.7,Male,88657.0,No,4.24,80.9,1,26.4,No,No,6.2,2.98,Year 4,CS,Master,0
+22.0,Male,,Yes,,52.2,2,18.3,No,Yes,,1.69,Year 3,Business,Bachelor,0
+21.6,Male,62131.0,Yes,2.2,85.0,4,20.3,Yes,No,3.6,0.9,Year 4,Arts,High School,0
+22.7,Male,31037.0,Yes,2.01,71.9,2,18.2,Yes,Yes,6.5,1.68,Year 4,Engineering,Master,1
+20.1,Female,25000.0,Yes,5.18,80.7,4,55.9,Yes,No,7.2,3.59,Year 4,Science,Bachelor,0
+18.9,Male,25000.0,Yes,4.53,80.6,4,42.9,Yes,Yes,1.9,4.0,Year 2,Arts,Bachelor,0
+25.3,Female,25000.0,Yes,4.2,90.6,2,42.4,No,No,6.7,0.86,Year 3,Science,High School,1
+24.2,Female,25000.0,Yes,3.37,77.4,4,35.5,Yes,No,7.5,2.88,Year 3,Science,Bachelor,0
+21.0,Male,25000.0,Yes,1.66,84.0,2,20.8,No,Yes,8.4,2.25,Year 3,CS,Bachelor,0
+21.8,Female,25000.0,No,3.53,75.9,0,28.4,Yes,No,2.9,3.24,Year 1,CS,Bachelor,0
+17.9,Female,116485.0,No,5.17,82.6,1,33.9,No,No,4.8,2.56,Year 3,Engineering,Bachelor,0
+20.3,Male,35516.0,No,4.12,82.1,2,45.6,Yes,No,5.3,3.01,Year 1,Engineering,High School,0
+23.3,Male,25000.0,Yes,4.95,91.0,4,20.0,No,Yes,5.4,3.34,Year 4,Arts,High School,0
+17.6,Male,41165.0,Yes,3.54,84.1,0,24.8,Yes,Yes,8.7,2.14,Year 2,Business,Master,0
+23.2,Male,32206.0,Yes,4.88,80.5,3,27.1,No,No,6.1,1.61,Year 2,Business,Bachelor,0
+22.4,Male,25000.0,Yes,3.46,67.0,6,27.1,No,Yes,7.7,0.02,Year 1,Engineering,Bachelor,1
+23.6,Female,25000.0,Yes,1.87,80.3,2,17.3,No,Yes,4.6,0.9,Year 3,Engineering,,0
+20.6,Male,69170.0,Yes,4.65,93.3,1,53.1,No,Yes,5.2,0.96,Year 1,CS,Master,0
+22.1,Male,26473.0,Yes,4.25,85.9,2,48.1,No,No,5.6,4.0,Year 4,Engineering,High School,0
+22.7,Female,25000.0,Yes,2.51,71.4,3,38.7,Yes,No,4.0,0.63,Year 4,Science,High School,1
+23.6,Male,25000.0,No,4.32,70.4,2,26.8,Yes,No,8.2,3.12,Year 3,Business,Master,0
+23.5,Female,25000.0,Yes,3.94,76.3,2,41.5,No,No,7.7,2.52,Year 3,Science,Bachelor,0
+17.0,Female,25000.0,Yes,4.72,85.9,1,28.5,Yes,No,6.8,0.8,Year 3,Engineering,Master,1
+19.1,Female,25000.0,Yes,3.54,78.4,2,30.4,No,Yes,3.6,3.99,Year 3,Arts,Bachelor,0
+21.5,Male,49962.0,Yes,4.19,84.0,2,49.0,No,No,5.1,2.24,Year 1,Arts,High School,0
+23.9,Male,48611.0,Yes,4.11,73.6,2,5.0,No,No,4.7,2.12,Year 1,Science,Bachelor,0
+17.5,Male,27621.0,Yes,1.71,68.9,1,42.0,No,Yes,2.3,1.69,Year 3,Science,High School,0
+22.0,Male,25000.0,Yes,4.74,66.5,0,15.3,Yes,No,6.5,1.92,Year 1,Arts,High School,0
+20.0,Male,30813.0,Yes,1.78,69.2,1,12.5,No,No,7.7,0.7,Year 3,Business,High School,0
+19.8,Female,25729.0,Yes,2.18,87.0,1,45.1,Yes,Yes,2.1,2.08,Year 4,CS,Bachelor,0
+22.0,Male,25000.0,Yes,3.27,80.1,1,42.0,Yes,No,4.9,4.0,Year 2,Business,,0
+21.8,Male,36430.0,Yes,3.61,80.8,1,22.2,No,No,4.5,1.9,Year 1,Engineering,Master,0
+17.7,Female,25000.0,Yes,2.68,70.3,0,33.4,No,No,4.9,1.19,Year 4,Business,High School,0
+18.0,Female,25196.0,No,5.17,73.9,0,12.1,Yes,No,5.8,0.42,Year 1,Science,Master,1
+21.4,Female,25000.0,Yes,4.52,84.8,0,56.7,No,No,5.9,1.42,Year 3,Arts,Bachelor,0
+21.1,Male,39851.0,Yes,3.9,77.2,2,48.4,No,Yes,4.8,2.39,Year 3,Engineering,Bachelor,0
+23.6,Male,25000.0,Yes,5.25,84.1,2,19.5,No,Yes,6.9,3.65,Year 2,Science,Bachelor,0
+21.1,Female,28370.0,Yes,3.17,91.0,1,30.9,No,No,3.1,0.97,Year 1,Science,Bachelor,1
+19.3,Female,26961.0,Yes,5.16,71.1,2,13.2,Yes,Yes,6.5,2.82,Year 2,Science,Bachelor,0
+17.6,Male,38917.0,Yes,3.63,63.8,0,11.8,Yes,No,6.1,3.74,Year 2,Science,High School,0
+20.5,Female,34796.0,Yes,6.02,75.6,2,18.4,No,No,4.5,1.69,Year 1,CS,High School,0
+21.3,Male,43615.0,Yes,2.83,65.7,0,18.5,Yes,Yes,2.2,2.53,Year 2,Engineering,PhD,0
+19.2,Female,42502.0,Yes,1.03,73.5,0,20.9,Yes,No,6.4,1.45,Year 2,Business,High School,0
+21.1,Female,31741.0,Yes,1.27,81.3,1,31.3,Yes,No,6.0,0.69,Year 2,Science,Bachelor,1
+19.6,Male,30605.0,Yes,4.01,81.7,0,29.3,Yes,Yes,3.6,2.57,Year 1,Arts,Bachelor,0
+17.0,Female,32451.0,Yes,4.16,73.4,4,17.7,No,No,3.8,1.93,Year 4,Business,Bachelor,0
+20.1,Female,45143.0,Yes,3.47,83.9,4,24.6,Yes,No,7.1,1.21,Year 1,Business,High School,1
+22.8,Male,25000.0,Yes,3.91,97.3,3,14.7,No,Yes,5.0,3.77,Year 3,Engineering,Master,0
+19.7,Male,52781.0,Yes,4.85,63.0,5,30.5,No,Yes,3.6,2.53,Year 2,Arts,High School,0
+20.6,Male,25000.0,Yes,8.54,79.7,3,43.9,No,No,5.4,4.0,Year 3,Arts,Bachelor,0
+20.2,Female,57540.0,Yes,2.51,78.3,3,14.2,No,No,7.8,2.87,Year 1,CS,Master,0
+24.1,Female,25000.0,Yes,4.81,100.0,0,28.9,Yes,No,5.6,1.83,Year 1,Science,Bachelor,0
+17.7,Female,27909.0,Yes,3.18,97.7,0,46.5,No,Yes,8.1,2.78,Year 3,Arts,Bachelor,0
+19.0,Female,25000.0,Yes,4.22,82.0,2,40.6,No,No,2.2,2.34,Year 4,Science,Bachelor,0
+23.2,Female,128788.0,Yes,5.71,80.2,3,12.8,Yes,Yes,5.9,2.55,Year 3,Science,Bachelor,0
+22.0,Male,87769.0,Yes,2.86,81.9,2,33.2,No,No,3.9,2.36,Year 3,Engineering,Master,0
+23.5,Female,41338.0,No,6.32,78.3,1,47.2,Yes,No,4.4,2.27,Year 1,Engineering,Bachelor,0
+22.2,Female,25000.0,Yes,7.74,77.0,2,35.3,Yes,No,4.3,4.0,Year 3,Science,High School,0
+23.5,Male,25000.0,No,5.6,73.7,1,13.9,No,No,5.5,1.65,Year 1,Arts,High School,1
+22.8,Female,25000.0,Yes,4.98,76.1,1,24.5,No,No,5.4,2.39,Year 3,Business,Master,0
+17.4,Female,41367.0,Yes,1.87,88.6,3,42.7,No,No,6.0,0.67,Year 2,CS,Bachelor,0
+25.6,Female,33962.0,Yes,3.46,89.1,0,40.9,Yes,No,5.9,3.26,Year 1,CS,PhD,0
+20.9,Male,29217.0,Yes,3.25,89.6,1,42.0,No,Yes,4.1,4.0,Year 2,Arts,Bachelor,0
+18.6,Male,27292.0,Yes,1.44,84.3,1,54.8,Yes,No,5.5,1.75,Year 2,Business,PhD,1
+23.7,Female,25000.0,Yes,3.78,84.4,1,30.9,No,Yes,3.6,2.36,Year 3,Engineering,Master,0
+17.4,Female,27246.0,Yes,2.36,86.2,2,41.4,Yes,No,6.6,1.52,Year 4,Science,PhD,0
+19.9,Male,26612.0,Yes,4.62,76.8,2,37.3,No,No,6.0,1.84,Year 3,Business,Bachelor,0
+20.8,Female,25000.0,Yes,3.54,69.1,4,17.7,No,Yes,5.5,1.59,Year 3,Engineering,Master,1
+22.7,Male,25000.0,Yes,4.81,80.2,4,46.8,No,Yes,4.5,1.82,Year 1,Engineering,High School,0
+18.0,Male,40393.0,No,4.12,80.4,3,33.0,No,No,6.4,3.12,Year 4,Science,Bachelor,0
+23.6,Male,25000.0,Yes,3.82,90.3,1,26.3,No,Yes,2.8,3.68,Year 2,Arts,Bachelor,0
+19.9,Male,32568.0,Yes,2.43,87.7,1,27.8,Yes,No,8.7,2.58,Year 1,CS,High School,0
+21.3,Male,38479.0,Yes,3.42,75.7,1,25.2,Yes,No,9.1,1.11,Year 2,Science,Master,1
+24.0,Female,25000.0,Yes,3.23,100.0,1,32.2,No,No,9.0,2.08,Year 4,Business,Bachelor,0
+23.4,Female,60947.0,Yes,6.15,81.1,1,27.1,No,Yes,7.9,0.7,Year 1,Engineering,Bachelor,0
+21.6,Male,52331.0,Yes,4.87,89.4,2,28.2,No,Yes,4.3,3.97,Year 3,Engineering,High School,0
+22.9,Female,25000.0,No,4.03,95.0,3,38.3,Yes,No,4.5,2.11,Year 1,Science,High School,1
+22.2,Female,25000.0,Yes,3.6,85.2,1,23.3,No,No,6.2,1.21,Year 2,Science,Master,0
+17.1,Female,25000.0,No,4.65,79.0,1,5.0,No,No,1.9,2.97,Year 1,Business,PhD,0
+22.1,Female,25000.0,No,3.65,88.0,5,16.9,Yes,Yes,5.5,1.62,Year 2,Science,Bachelor,1
+18.3,Female,25000.0,Yes,2.52,88.7,2,15.1,No,Yes,5.4,1.65,Year 4,Engineering,Bachelor,0
+20.8,Male,61804.0,Yes,6.02,70.7,1,17.6,No,No,5.6,2.45,Year 3,Engineering,PhD,0
+18.6,Male,25000.0,Yes,2.86,85.2,2,33.6,Yes,Yes,6.7,2.22,Year 3,Science,Master,0
+18.1,Female,30036.0,Yes,3.38,88.4,1,17.8,No,No,3.0,4.0,Year 3,Science,Bachelor,0
+19.8,Male,40489.0,Yes,3.4,85.5,0,24.4,No,Yes,7.4,2.37,Year 2,Science,Master,1
+17.0,Female,74249.0,Yes,3.66,73.1,1,35.1,Yes,No,4.3,2.71,Year 1,Business,Bachelor,0
+21.9,Male,25000.0,Yes,3.32,75.1,3,25.7,Yes,No,5.7,2.16,Year 2,CS,High School,0
+21.2,Male,25000.0,Yes,4.72,92.5,2,21.1,No,No,7.8,2.27,Year 4,CS,Bachelor,0
+23.0,Male,25000.0,Yes,3.81,86.8,2,52.3,Yes,Yes,7.5,0.87,Year 1,Science,Bachelor,1
+22.4,Female,37390.0,Yes,4.74,79.8,0,40.8,No,No,2.9,2.01,Year 1,Engineering,,0
+20.5,Female,57339.0,Yes,3.24,100.0,2,40.9,No,Yes,6.1,4.0,Year 2,Arts,Bachelor,0
+20.0,Female,25000.0,Yes,4.59,73.6,2,24.5,No,Yes,5.1,1.13,Year 3,Science,High School,1
+23.7,Female,60367.0,Yes,3.42,68.9,3,28.4,No,Yes,4.0,2.36,Year 1,Business,High School,0
+24.6,Male,49184.0,No,3.55,84.8,1,23.7,No,Yes,6.6,1.77,Year 1,Arts,Master,0
+23.1,Female,31542.0,Yes,2.35,90.5,1,35.7,No,No,7.5,1.32,Year 1,Arts,Master,0
+21.3,Male,32858.0,Yes,1.89,72.6,0,34.7,Yes,No,6.2,0.0,Year 1,Engineering,Bachelor,1
+23.4,Female,28495.0,Yes,1.46,69.4,3,30.7,No,Yes,4.9,0.94,Year 3,CS,High School,1
+18.6,Female,26646.0,Yes,5.44,80.2,2,14.4,Yes,Yes,5.4,1.69,Year 4,Science,Master,0
+26.7,Female,49787.0,Yes,6.06,84.3,1,32.8,No,Yes,6.0,2.65,Year 1,Science,Bachelor,0
+19.3,Male,25000.0,Yes,7.0,92.2,2,37.4,No,No,8.1,2.61,Year 1,CS,Bachelor,0
+21.4,Male,25000.0,Yes,3.6,79.3,0,31.2,No,No,5.8,2.36,Year 1,Arts,PhD,0
+21.2,Male,25000.0,Yes,4.05,91.1,5,23.9,Yes,Yes,6.8,3.17,Year 3,CS,High School,0
+20.6,Male,25000.0,Yes,6.55,72.4,5,31.2,No,No,6.4,2.52,Year 2,Engineering,Bachelor,1
+21.6,Female,55644.0,Yes,6.32,84.6,3,33.4,No,No,5.9,3.79,Year 2,Arts,,0
+22.1,Male,25000.0,Yes,4.67,70.1,1,17.8,Yes,No,3.9,1.61,Year 2,Science,,1
+19.9,Female,25223.0,Yes,4.72,77.8,4,13.4,No,No,6.1,1.84,Year 1,CS,PhD,0
+23.2,Male,38801.0,Yes,2.72,93.0,2,10.8,Yes,No,6.8,4.0,Year 3,Arts,High School,0
+22.4,Male,26686.0,Yes,2.34,76.1,0,31.9,Yes,No,4.8,3.44,Year 2,CS,High School,0
+21.5,Male,25000.0,No,5.34,71.8,1,19.3,No,Yes,5.6,2.29,Year 1,CS,Bachelor,1
+22.9,Male,25000.0,No,5.49,65.7,4,39.0,No,Yes,6.2,1.9,Year 3,Arts,Bachelor,1
+20.7,Female,45145.0,No,4.9,76.4,2,46.2,Yes,No,5.0,1.94,Year 4,Engineering,High School,0
+21.9,Female,25000.0,Yes,2.85,88.8,4,31.3,No,No,5.4,3.94,Year 4,Science,Bachelor,0
+20.6,Male,25000.0,Yes,5.01,82.5,5,26.7,Yes,Yes,3.4,4.0,Year 2,Science,High School,0
+22.9,Male,25000.0,Yes,1.05,75.6,2,18.2,Yes,No,3.9,2.03,Year 3,CS,High School,0
+23.9,Male,28797.0,Yes,6.34,90.8,2,29.6,No,No,6.7,3.24,Year 1,Science,High School,0
+22.7,Male,25000.0,Yes,3.43,80.1,3,23.5,Yes,Yes,8.0,3.37,Year 4,Business,Master,0
+20.5,Male,25000.0,Yes,6.37,87.3,7,44.8,Yes,Yes,6.5,2.32,Year 2,Science,Bachelor,0
+19.8,Female,41472.0,No,5.35,90.7,2,51.9,No,No,1.6,3.78,Year 3,Business,High School,0
+17.2,Male,31837.0,Yes,4.02,81.9,4,50.9,Yes,No,6.6,2.86,Year 3,Arts,Bachelor,0
+23.8,Male,39356.0,Yes,5.94,83.3,2,34.9,Yes,Yes,5.4,3.6,Year 3,Engineering,Master,0
+22.9,Male,25000.0,Yes,5.57,73.9,0,22.2,Yes,Yes,4.9,2.64,Year 2,Arts,Bachelor,0
+20.3,Male,33023.0,Yes,3.38,84.1,3,20.2,No,Yes,3.4,2.35,Year 2,Business,High School,1
+19.4,Male,25000.0,Yes,3.58,76.9,2,44.2,No,No,8.8,3.1,Year 4,Arts,Bachelor,1
+21.7,Male,25000.0,Yes,3.4,85.9,5,26.7,No,No,5.4,2.99,Year 4,Arts,High School,0
+21.1,Female,,Yes,,94.6,2,19.9,No,No,,1.16,Year 1,Science,Master,0
+20.1,Female,43502.0,Yes,4.99,85.6,0,31.3,No,No,5.7,2.48,Year 3,CS,PhD,0
+19.8,Female,25000.0,Yes,3.93,79.2,5,35.2,Yes,Yes,4.3,2.21,Year 1,CS,High School,0
+19.8,Female,92251.0,Yes,4.98,84.0,1,16.8,Yes,No,5.2,2.27,Year 3,Science,Master,0
+22.9,Female,25000.0,Yes,5.83,75.1,1,41.6,Yes,No,9.2,2.18,Year 1,CS,High School,0
+18.0,Male,126065.0,Yes,4.82,90.2,1,28.9,Yes,Yes,4.8,3.68,Year 3,Arts,Bachelor,0
+20.4,Female,47551.0,Yes,6.5,90.3,3,19.6,No,No,5.5,1.58,Year 4,CS,Bachelor,0
+18.3,Male,39490.0,No,5.52,81.9,2,32.5,No,No,3.6,3.35,Year 2,Engineering,High School,0
+20.4,Male,25000.0,No,4.62,85.5,3,27.8,Yes,No,8.9,1.37,Year 4,Arts,Master,1
+20.4,Female,25000.0,Yes,5.63,87.8,3,54.4,No,No,5.7,3.39,Year 3,Engineering,Master,0
+23.1,Female,31292.0,Yes,3.16,89.2,0,59.8,Yes,No,5.1,2.45,Year 3,Business,Bachelor,0
+21.4,Female,25000.0,No,2.11,71.0,0,25.5,No,No,6.5,2.46,Year 2,Science,Master,1
+21.9,Female,54693.0,Yes,4.03,94.0,2,34.9,No,No,6.0,2.46,Year 1,Arts,High School,0
+18.2,Female,70113.0,Yes,5.0,89.0,0,25.5,Yes,Yes,5.6,4.0,Year 1,Arts,Bachelor,0
+20.9,Male,29787.0,Yes,3.5,93.1,1,17.7,No,No,3.5,3.53,Year 1,Engineering,Bachelor,0
+19.1,Male,74221.0,Yes,4.71,79.0,1,5.7,Yes,Yes,6.0,2.13,Year 2,Engineering,Bachelor,0
+21.3,Female,68577.0,Yes,2.74,82.9,0,32.2,No,No,7.5,2.27,Year 2,Science,Bachelor,0
+23.3,Male,54422.0,No,3.67,75.4,2,32.6,Yes,No,7.4,1.75,Year 1,Business,High School,1
+20.4,Male,31445.0,Yes,3.96,85.7,0,9.4,No,No,2.7,2.45,Year 3,Engineering,High School,0
+17.7,Female,33082.0,Yes,5.78,85.8,3,21.5,Yes,Yes,6.1,4.0,Year 3,CS,PhD,0
+18.6,Male,25000.0,Yes,4.48,75.6,1,35.5,No,No,4.9,2.17,Year 4,CS,Bachelor,0
+21.6,Female,25000.0,Yes,3.34,95.5,1,11.7,No,No,6.0,2.09,Year 4,Business,Bachelor,0
+23.8,Female,,Yes,,89.8,1,21.1,No,Yes,,0.8,Year 1,Engineering,Master,1
+18.7,Male,42002.0,Yes,3.79,85.8,2,39.1,No,No,5.2,2.95,Year 2,Engineering,Master,0
+20.8,Female,32733.0,Yes,3.14,84.0,4,29.2,Yes,Yes,6.9,1.39,Year 2,Engineering,Bachelor,1
+20.2,Male,25000.0,Yes,2.11,82.3,3,36.5,No,No,3.4,0.35,Year 2,CS,Bachelor,1
+21.7,Female,81917.0,Yes,4.3,81.3,2,29.5,Yes,Yes,7.9,2.51,Year 1,Business,PhD,0
+20.4,Male,25000.0,Yes,2.27,77.8,1,25.4,No,Yes,6.2,0.0,Year 4,CS,High School,1
+20.5,Male,25000.0,Yes,4.76,74.4,2,36.7,No,No,6.8,1.39,Year 4,Arts,High School,0
+22.0,Female,48214.0,Yes,1.89,77.1,3,30.7,Yes,Yes,4.7,2.12,Year 1,Science,High School,0
+21.5,Male,49730.0,Yes,4.58,88.3,3,11.8,Yes,Yes,3.4,3.34,Year 4,Arts,,0
+22.0,Female,25000.0,Yes,3.33,93.2,0,49.7,No,No,5.3,2.2,Year 4,Science,Bachelor,0
+20.0,Female,71367.0,Yes,3.02,67.1,0,23.4,No,No,3.3,1.43,Year 3,Science,PhD,0
+18.8,Female,25000.0,Yes,5.61,85.5,0,18.2,No,No,4.7,2.71,Year 1,Science,High School,0
+20.9,Male,42803.0,Yes,5.46,81.4,0,22.4,Yes,Yes,4.2,2.05,Year 3,Arts,Bachelor,0
+21.1,Male,25000.0,Yes,2.07,90.5,1,17.6,No,No,5.2,1.54,Year 3,Arts,High School,0
+22.1,Male,43185.0,No,3.07,76.6,0,25.4,No,No,3.6,3.43,Year 2,Business,High School,0
+19.2,Male,50533.0,Yes,3.06,73.2,1,44.1,Yes,Yes,8.2,1.83,Year 3,Arts,Bachelor,1
+21.7,Male,25000.0,Yes,4.02,96.6,1,40.4,No,No,3.3,1.97,Year 4,Engineering,High School,0
+21.4,Male,66384.0,Yes,5.44,73.2,2,44.7,Yes,Yes,1.4,1.97,Year 1,Science,Master,0
+23.1,Male,27770.0,Yes,4.46,80.9,2,34.6,No,Yes,3.5,3.07,Year 3,Engineering,Master,0
+23.4,Male,35712.0,Yes,4.6,74.3,2,32.7,No,Yes,5.8,2.8,Year 1,Arts,,0
+19.9,Female,39691.0,No,3.13,91.6,3,24.0,No,Yes,4.3,3.37,Year 3,Arts,High School,0
+21.9,Male,57491.0,Yes,4.8,78.0,0,34.7,Yes,No,6.7,1.66,Year 2,CS,Bachelor,0
+17.6,Male,27987.0,Yes,2.05,77.2,0,38.0,No,Yes,5.6,1.8,Year 1,Arts,Bachelor,0
+17.5,Female,25000.0,Yes,3.41,76.3,0,43.7,Yes,No,8.5,1.57,Year 1,CS,Bachelor,1
+17.0,Female,,No,,79.1,2,15.8,No,Yes,,3.96,Year 4,Business,Bachelor,0
+22.5,Male,25000.0,Yes,2.74,93.9,3,21.7,No,No,6.4,1.95,Year 1,Business,High School,0
+24.3,Male,70861.0,Yes,2.57,83.3,2,37.8,Yes,Yes,7.2,1.75,Year 3,Science,Master,1
+24.5,Male,33990.0,Yes,3.42,82.3,2,33.5,No,No,3.7,2.58,Year 3,Arts,High School,1
+27.2,Female,37385.0,Yes,6.12,83.9,2,5.0,No,Yes,3.0,3.64,Year 1,Arts,Bachelor,0
+20.2,Male,35532.0,Yes,5.37,67.8,1,45.8,No,Yes,7.0,2.78,Year 4,Business,High School,0
+21.3,Male,46229.0,Yes,5.32,83.0,1,22.1,Yes,No,6.6,2.66,Year 4,Business,Bachelor,1
+22.4,Female,36442.0,Yes,4.89,79.7,1,16.9,No,Yes,3.1,3.72,Year 2,Engineering,Master,0
+23.1,Male,37272.0,Yes,4.06,88.6,1,30.7,No,No,3.3,1.5,Year 1,Arts,High School,1
+21.2,Male,25370.0,Yes,2.42,94.1,2,40.7,No,Yes,4.9,1.48,Year 4,CS,High School,0
+22.9,Female,25000.0,Yes,4.41,84.2,2,20.4,No,Yes,4.3,2.63,Year 3,Business,PhD,0
+21.1,Male,25000.0,No,1.22,85.9,0,34.0,No,Yes,2.3,4.0,Year 4,Science,Bachelor,0
+22.5,Male,,Yes,,77.0,2,22.0,Yes,Yes,,2.66,Year 4,Arts,Bachelor,0
+18.8,Male,25000.0,Yes,5.99,75.1,3,21.3,Yes,Yes,6.0,2.14,Year 3,Science,Bachelor,0
+22.8,Male,25000.0,Yes,2.73,67.0,2,32.2,No,No,5.2,2.07,Year 1,Business,High School,0
+25.4,Male,,Yes,,59.6,0,13.5,Yes,No,,2.92,Year 3,Engineering,Master,0
+22.6,Male,28054.0,Yes,5.79,96.3,2,34.0,No,Yes,4.3,4.0,Year 2,Arts,High School,0
+23.6,Male,25425.0,Yes,2.95,78.7,0,51.0,No,Yes,7.2,2.24,Year 3,Business,Bachelor,0
+17.7,Female,47170.0,No,2.3,86.6,2,39.6,Yes,No,2.3,4.0,Year 3,Science,Bachelor,0
+20.0,Female,25000.0,Yes,4.55,79.7,1,37.1,No,Yes,6.0,2.31,Year 4,Engineering,High School,0
+22.9,Male,,Yes,,89.2,3,29.3,Yes,No,,2.35,Year 1,Science,Bachelor,0
+18.7,Female,80638.0,No,5.06,81.6,3,47.6,Yes,Yes,2.6,3.64,Year 3,Arts,Bachelor,0
+19.4,Male,47215.0,Yes,4.98,79.3,4,24.5,No,Yes,3.6,3.37,Year 1,CS,Master,0
+20.5,Male,,No,,79.4,2,21.4,No,No,,2.06,Year 1,CS,Master,0
+19.7,Male,39838.0,No,4.83,73.6,1,27.1,No,Yes,3.1,3.15,Year 3,CS,High School,0
+21.8,Female,48355.0,Yes,4.77,80.8,2,28.5,No,No,5.9,2.81,Year 4,Science,Master,0
+20.3,Female,25000.0,Yes,4.1,79.1,1,26.7,Yes,Yes,4.8,2.01,Year 1,Engineering,High School,0
+18.5,Male,32630.0,Yes,5.73,82.8,2,13.7,Yes,Yes,2.7,2.39,Year 3,Engineering,High School,0
+19.3,Male,35236.0,Yes,2.52,77.7,2,43.4,No,No,5.5,2.54,Year 1,Business,Master,0
+22.9,Female,28189.0,Yes,3.75,96.2,1,5.2,Yes,No,5.2,3.67,Year 4,Arts,High School,0
+20.3,Female,28846.0,Yes,5.26,89.5,1,26.3,No,No,5.0,1.93,Year 4,Arts,Bachelor,0
+21.4,Male,60136.0,Yes,3.79,89.6,2,7.8,No,No,2.3,3.06,Year 2,Arts,High School,0
+21.0,Male,39505.0,No,3.71,90.3,2,23.4,No,No,4.3,2.49,Year 3,Business,High School,0
+24.0,Female,41130.0,Yes,2.61,80.3,1,44.8,No,No,5.3,1.84,Year 1,Engineering,High School,0
+21.0,Male,73045.0,Yes,3.96,76.0,0,29.6,No,Yes,5.8,1.97,Year 2,Business,Bachelor,0
+20.6,Female,25000.0,Yes,6.21,87.9,1,28.5,Yes,Yes,7.1,1.51,Year 4,CS,Bachelor,0
+22.0,Female,25000.0,Yes,1.71,95.6,2,7.4,No,No,4.0,2.18,Year 4,Engineering,High School,0
+21.4,Female,38358.0,Yes,3.2,73.3,2,17.7,Yes,No,5.2,1.77,Year 2,Business,Bachelor,1
+18.5,Male,40237.0,Yes,4.9,89.3,2,47.0,Yes,Yes,6.2,2.18,Year 2,Arts,PhD,0
+20.1,Male,25000.0,Yes,6.68,80.5,3,29.6,No,Yes,9.2,0.32,Year 1,Arts,High School,0
+17.8,Female,25000.0,Yes,5.04,89.4,1,35.2,No,Yes,6.3,3.96,Year 3,CS,Master,0
+24.5,Male,74572.0,Yes,4.37,63.7,2,25.6,No,No,3.9,2.97,Year 1,Business,Bachelor,0
+20.7,Female,58449.0,Yes,2.78,71.1,2,22.2,No,Yes,2.3,2.19,Year 4,Engineering,High School,0
+20.2,Male,29473.0,Yes,4.67,93.8,1,36.5,Yes,Yes,5.4,1.52,Year 3,CS,Master,0
+20.3,Male,25000.0,Yes,3.96,85.6,2,45.9,No,No,6.1,2.36,Year 3,Engineering,Bachelor,1
+22.3,Male,45735.0,Yes,4.63,85.1,3,64.7,No,No,5.8,1.86,Year 1,CS,High School,1
+19.1,Female,46869.0,Yes,5.78,80.2,1,33.0,No,Yes,7.0,3.64,Year 2,Arts,Bachelor,0
+20.4,Female,40725.0,No,5.25,84.5,2,5.0,No,No,5.0,3.17,Year 3,Science,Bachelor,0
+21.4,Male,25000.0,Yes,5.47,78.6,2,50.5,No,Yes,10.0,1.31,Year 2,Engineering,High School,0
+19.8,Male,73876.0,Yes,2.08,72.8,3,22.7,Yes,No,5.8,0.0,Year 3,Business,Bachelor,1
+23.1,Male,87157.0,Yes,4.54,72.8,1,30.1,No,Yes,6.4,1.14,Year 3,Science,High School,1
+19.2,Male,38303.0,Yes,2.24,79.2,3,13.9,No,Yes,7.9,0.66,Year 3,Engineering,PhD,1
+17.6,Male,76076.0,Yes,5.09,83.4,4,31.7,Yes,Yes,7.0,1.96,Year 4,Science,Master,1
+19.0,Male,73664.0,Yes,5.01,79.2,0,34.1,No,No,1.0,4.0,Year 1,CS,Bachelor,0
+22.3,Female,39270.0,Yes,4.03,77.7,1,19.2,No,Yes,6.3,1.63,Year 1,Arts,PhD,0
+21.7,Female,37739.0,Yes,4.03,82.2,2,60.4,No,Yes,7.0,1.92,Year 4,CS,Bachelor,0
+23.4,Male,29849.0,No,0.6,71.6,0,34.5,Yes,Yes,5.7,1.32,Year 2,CS,Master,0
+20.1,Female,29757.0,Yes,1.04,82.6,3,18.2,Yes,No,8.7,0.0,Year 1,Engineering,High School,1
+23.5,Male,85225.0,Yes,5.22,77.8,6,33.7,No,No,6.4,0.63,Year 2,CS,Bachelor,1
+21.5,Male,29636.0,Yes,5.24,79.6,1,40.6,No,No,2.9,3.83,Year 3,Arts,Bachelor,0
+21.2,Female,25000.0,Yes,5.04,85.2,1,44.3,Yes,No,8.4,2.04,Year 3,Business,,0
+22.5,Male,25000.0,Yes,3.53,96.6,2,18.6,No,No,1.4,3.4,Year 2,Business,Bachelor,0
+25.1,Female,,Yes,,45.9,1,33.9,No,Yes,,1.78,Year 2,Arts,High School,0
+20.5,Female,25000.0,Yes,3.55,76.7,1,31.1,No,Yes,2.3,1.86,Year 3,Engineering,Bachelor,0
+19.8,Female,25000.0,Yes,4.8,84.3,1,22.5,Yes,Yes,2.3,2.35,Year 2,Business,Master,0
+24.4,Female,30855.0,Yes,5.19,93.4,1,18.4,Yes,Yes,5.8,3.84,Year 3,CS,Master,0
+20.0,Female,39637.0,Yes,2.91,73.1,2,34.4,Yes,No,4.7,2.79,Year 1,Engineering,Bachelor,0
+20.3,Female,49396.0,Yes,1.51,90.4,1,22.0,Yes,Yes,4.7,1.74,Year 1,Arts,High School,1
+23.9,Male,27181.0,Yes,5.32,100.0,1,30.6,Yes,No,6.1,2.84,Year 2,Arts,Master,1
+20.0,Male,54687.0,Yes,2.81,84.9,3,45.0,No,Yes,6.6,4.0,Year 4,Engineering,High School,0
+19.4,Female,61675.0,Yes,2.5,73.7,1,45.8,No,Yes,7.1,0.67,Year 2,Arts,Bachelor,1
+19.6,Female,33526.0,Yes,5.18,84.3,1,28.7,Yes,No,7.6,0.0,Year 3,Business,High School,1
+21.1,Male,52217.0,No,3.86,78.1,0,26.2,No,No,5.8,2.35,Year 1,Arts,Bachelor,0
+25.1,Female,38404.0,Yes,2.9,88.7,1,32.8,No,No,7.8,0.63,Year 1,Business,PhD,1
+20.9,Female,46815.0,Yes,3.98,92.7,1,10.1,Yes,No,6.2,1.5,Year 4,Engineering,Bachelor,0
+20.1,Female,33783.0,Yes,3.43,79.1,0,60.4,No,No,5.9,1.18,Year 1,Science,High School,0
+21.4,Female,25000.0,Yes,3.89,99.2,3,36.4,No,No,3.9,3.09,Year 1,Business,,0
+21.2,Male,37458.0,Yes,3.22,71.0,0,36.1,Yes,No,6.0,1.15,Year 1,Science,PhD,0
+23.9,Female,53386.0,Yes,3.85,96.8,3,32.0,No,Yes,2.7,4.0,Year 4,Engineering,Bachelor,0
+19.1,Female,25000.0,No,3.13,91.3,0,30.1,Yes,Yes,6.0,0.18,Year 3,Business,Bachelor,1
+17.0,Male,25000.0,Yes,3.66,92.1,6,50.9,Yes,Yes,6.6,1.86,Year 4,CS,Bachelor,1
+22.6,Female,33138.0,Yes,4.49,91.9,2,34.6,No,Yes,4.0,3.76,Year 2,Business,Bachelor,0
+21.1,Male,25000.0,Yes,3.8,66.5,1,26.7,Yes,No,6.2,0.28,Year 1,Arts,Bachelor,1
+24.4,Male,40264.0,Yes,5.14,82.4,4,11.2,Yes,No,4.2,1.29,Year 4,Science,High School,1
+22.0,Female,25000.0,Yes,2.95,86.5,0,5.0,Yes,No,6.4,3.26,Year 3,Engineering,Bachelor,0
+22.5,Male,25000.0,Yes,4.5,96.2,0,47.3,No,Yes,5.7,2.6,Year 4,Arts,Bachelor,0
+20.4,Female,42824.0,Yes,6.1,68.6,0,42.9,No,Yes,3.6,4.0,Year 1,Engineering,Master,0
+19.6,Female,47275.0,Yes,2.17,65.1,1,17.1,No,No,6.5,0.37,Year 3,Science,High School,1
+22.2,Female,28793.0,No,3.17,65.9,2,8.0,Yes,Yes,2.7,2.4,Year 1,Business,Bachelor,0
+21.4,Male,49153.0,Yes,3.27,83.5,3,5.7,Yes,Yes,1.4,4.0,Year 3,Arts,Bachelor,0
+20.9,Male,34619.0,Yes,4.22,77.8,3,51.9,No,No,3.2,2.17,Year 3,Science,High School,0
+17.0,Female,25000.0,No,5.66,81.4,2,47.4,No,No,4.8,1.06,Year 3,Science,High School,0
+20.4,Male,30985.0,Yes,5.65,75.2,4,41.6,Yes,Yes,8.7,2.09,Year 4,Business,Bachelor,0
+20.7,Female,25000.0,Yes,4.67,73.5,2,26.8,Yes,No,5.5,2.98,Year 3,Business,Bachelor,0
+18.3,Female,37840.0,Yes,4.59,96.2,2,28.3,Yes,No,5.6,2.87,Year 4,Business,High School,0
+21.4,Female,25000.0,Yes,3.17,88.5,0,12.1,Yes,No,5.6,3.08,Year 2,Business,Master,1
+23.1,Female,30253.0,Yes,5.04,88.6,0,28.1,No,No,3.5,2.72,Year 2,Business,Bachelor,0
+22.8,Male,25000.0,Yes,4.1,82.9,3,25.6,No,No,6.4,1.35,Year 3,Business,Bachelor,1
+23.8,Male,34085.0,Yes,3.32,77.4,3,41.3,Yes,Yes,5.3,0.81,Year 1,Engineering,,1
+22.5,Female,54048.0,Yes,2.15,73.1,3,35.8,Yes,Yes,4.5,2.0,Year 3,Business,Bachelor,0
+22.3,Female,52878.0,Yes,3.52,75.0,4,35.6,Yes,Yes,6.7,1.3,Year 1,Science,High School,0
+20.6,Female,25000.0,Yes,6.09,82.9,1,29.9,No,No,8.8,2.48,Year 4,Business,Bachelor,0
+21.8,Female,27152.0,Yes,3.83,78.1,2,20.1,No,No,4.1,4.0,Year 2,Engineering,High School,0
+17.0,Male,52062.0,Yes,4.04,77.9,3,38.8,No,No,3.9,1.21,Year 3,Science,High School,1
+26.4,Female,26850.0,No,4.41,87.8,4,37.2,No,No,6.3,2.34,Year 3,CS,Bachelor,0
+21.1,Male,29267.0,Yes,0.79,77.9,4,22.1,Yes,No,3.5,1.98,Year 1,Science,Master,0
+19.9,Male,44654.0,Yes,5.21,85.7,0,26.4,No,No,5.0,3.1,Year 3,Business,High School,0
+17.0,Female,37596.0,No,3.46,74.9,2,34.1,Yes,No,3.3,1.34,Year 2,Business,High School,1
+23.1,Male,47711.0,Yes,4.08,81.2,0,12.6,Yes,No,6.5,1.73,Year 4,CS,Bachelor,0
+20.1,Male,25000.0,Yes,4.53,76.0,0,24.7,Yes,No,6.1,1.57,Year 3,Science,Master,0
+23.7,Female,35272.0,Yes,2.95,91.3,2,41.2,Yes,Yes,3.0,3.38,Year 1,Arts,Master,0
+22.9,Male,46784.0,Yes,2.61,86.7,4,37.6,Yes,No,5.5,0.82,Year 4,Science,High School,0
+17.3,Female,45473.0,Yes,1.28,84.4,1,7.3,No,No,7.5,0.29,Year 4,Science,Master,0
+21.3,Female,25000.0,Yes,4.11,90.6,3,31.0,No,No,4.1,3.84,Year 1,Arts,Bachelor,0
+17.0,Male,,Yes,,77.3,2,41.4,No,Yes,,2.38,Year 1,Science,Master,0
+21.2,Female,33188.0,Yes,4.81,93.8,0,45.2,Yes,No,2.8,3.61,Year 4,CS,High School,0
+20.0,Male,42819.0,Yes,3.48,84.4,3,29.4,No,No,3.7,1.17,Year 4,Business,High School,0
+22.8,Female,53047.0,Yes,5.52,94.4,4,27.6,No,Yes,6.2,2.97,Year 1,Science,,0
+20.3,Female,27753.0,Yes,1.8,65.0,5,31.1,Yes,Yes,6.2,0.0,Year 2,Science,Bachelor,1
+21.5,Male,49041.0,Yes,5.32,69.9,2,26.4,Yes,No,4.3,1.13,Year 3,Business,Master,1
+17.0,Female,60738.0,Yes,3.91,80.3,4,14.8,No,No,4.4,2.37,Year 3,Arts,High School,0
+22.9,Male,36404.0,Yes,4.21,93.0,3,13.2,No,Yes,5.4,2.87,Year 4,Business,Master,0
+19.7,Male,83671.0,Yes,5.48,72.6,1,26.1,Yes,No,5.1,2.97,Year 4,Arts,PhD,0
+21.7,Female,73570.0,Yes,5.83,86.1,1,17.9,No,No,4.2,3.72,Year 2,Engineering,High School,0
+26.7,Female,,No,,76.2,2,19.3,Yes,Yes,,1.74,Year 3,CS,PhD,0
+20.9,Female,25000.0,Yes,4.1,76.0,1,19.7,Yes,Yes,8.2,3.05,Year 3,Business,High School,0
+18.7,Female,31520.0,Yes,5.25,77.2,2,40.4,No,No,4.4,2.9,Year 1,Business,Bachelor,0
+19.2,Female,25000.0,Yes,3.23,94.6,2,23.9,Yes,No,7.0,1.23,Year 1,Arts,Bachelor,0
+20.7,Male,89144.0,Yes,5.44,94.2,3,34.2,Yes,Yes,3.5,4.0,Year 4,CS,High School,0
+19.9,Female,42602.0,Yes,4.16,80.4,0,41.1,No,Yes,3.3,0.77,Year 2,Science,Master,1
+22.4,Male,83396.0,Yes,2.94,78.5,0,34.2,No,Yes,4.7,4.0,Year 3,Engineering,Bachelor,0
+23.4,Male,36768.0,Yes,5.61,79.6,1,36.4,Yes,No,3.4,4.0,Year 4,CS,High School,0
+19.5,Female,36770.0,Yes,4.19,85.0,1,26.5,No,No,6.4,1.37,Year 1,Engineering,Master,0
+19.5,Male,68969.0,Yes,1.51,84.8,0,48.6,Yes,No,5.6,0.53,Year 3,Arts,Master,1
+18.3,Male,25000.0,Yes,3.5,70.0,3,33.2,No,No,7.6,1.73,Year 2,Business,High School,0
+22.2,Female,34365.0,Yes,2.24,95.0,2,12.1,No,No,9.3,1.6,Year 2,Science,Bachelor,0
+17.0,Female,34110.0,Yes,3.31,81.9,2,39.7,No,No,7.4,0.4,Year 4,CS,High School,1
+21.9,Female,25000.0,Yes,3.29,79.0,1,26.8,No,Yes,6.5,1.25,Year 4,Science,Bachelor,1
+18.9,Male,,Yes,,67.2,1,27.4,No,No,,0.36,Year 3,CS,,1
+22.9,Female,,Yes,,63.8,0,46.8,No,No,,2.14,Year 2,Arts,Bachelor,0
+18.4,Female,71888.0,No,5.75,96.8,0,48.1,No,No,4.8,2.38,Year 4,CS,Master,0
+24.1,Female,25000.0,Yes,1.09,77.5,2,28.9,No,No,3.8,2.86,Year 2,Business,Bachelor,0
+18.6,Male,53888.0,No,4.74,93.9,0,27.2,Yes,Yes,7.7,3.18,Year 3,CS,High School,0
+23.9,Male,61230.0,Yes,4.83,84.8,2,24.9,No,No,6.9,2.19,Year 4,Arts,High School,0
+21.8,Female,41919.0,Yes,2.83,95.2,1,14.5,Yes,Yes,8.0,2.75,Year 2,Arts,Bachelor,0
+21.5,Male,25000.0,Yes,4.79,98.2,2,35.0,Yes,No,4.5,2.64,Year 2,Arts,Bachelor,0
+21.9,Female,27967.0,Yes,4.46,96.3,5,39.4,Yes,Yes,5.8,2.57,Year 2,Arts,Master,0
+20.7,Male,25000.0,Yes,4.23,77.6,0,7.7,Yes,No,4.7,2.97,Year 3,Arts,Bachelor,0
+24.5,Female,25000.0,Yes,3.5,94.3,2,22.9,No,No,3.1,2.59,Year 2,CS,High School,0
+24.7,Male,,Yes,,58.0,4,18.2,Yes,Yes,,3.63,Year 1,Engineering,Bachelor,0
+21.4,Male,46563.0,Yes,4.15,73.5,2,24.9,Yes,No,3.6,2.89,Year 1,Business,High School,0
+23.4,Male,25000.0,Yes,3.58,76.8,1,28.6,No,No,6.1,2.83,Year 4,Arts,Bachelor,0
+21.8,Female,25000.0,No,1.99,91.4,0,26.4,Yes,No,5.9,2.13,Year 2,Engineering,High School,0
+22.1,Female,25000.0,Yes,1.86,88.9,1,27.6,Yes,Yes,3.8,3.15,Year 2,Arts,Bachelor,0
+18.8,Female,25391.0,Yes,5.37,75.6,1,28.4,No,No,2.6,2.53,Year 1,Science,Bachelor,0
+18.8,Female,25000.0,Yes,3.24,88.4,2,31.4,No,No,6.9,1.46,Year 1,Business,High School,0
+19.5,Male,25000.0,Yes,2.57,96.1,3,32.5,No,Yes,6.4,2.64,Year 3,Business,Bachelor,0
+19.9,Female,25000.0,No,4.27,65.4,2,56.3,Yes,Yes,4.9,1.35,Year 2,CS,Master,0
+23.5,Male,60763.0,Yes,3.47,81.8,1,22.4,Yes,No,4.9,1.29,Year 2,CS,Bachelor,0
+19.9,Male,25000.0,Yes,5.75,82.6,0,38.7,Yes,No,6.1,1.91,Year 2,CS,High School,0
+19.1,Male,25000.0,Yes,3.82,79.5,2,36.8,Yes,No,6.8,1.29,Year 3,Science,,0
+24.6,Female,25000.0,Yes,1.91,65.1,6,19.4,Yes,No,6.7,1.66,Year 3,CS,Bachelor,1
+21.7,Male,25000.0,Yes,3.81,81.6,0,42.1,Yes,No,9.0,2.94,Year 3,Arts,Master,1
+20.5,Male,72158.0,Yes,3.81,72.5,3,35.6,No,No,7.4,2.13,Year 1,Business,High School,0
+24.6,Male,29030.0,No,4.39,84.3,2,5.8,Yes,No,1.0,2.92,Year 4,CS,High School,0
+19.0,Male,26210.0,Yes,2.92,80.4,2,29.8,No,Yes,4.6,2.85,Year 3,Science,High School,0
+21.6,Female,47606.0,Yes,5.16,89.3,3,5.0,Yes,Yes,5.8,2.96,Year 3,Arts,High School,1
+24.6,Female,71798.0,Yes,5.08,100.0,2,36.7,No,Yes,5.3,2.77,Year 3,CS,High School,0
+20.2,Male,85658.0,Yes,4.16,68.6,2,40.3,No,No,3.3,1.67,Year 1,Business,High School,0
+19.9,Female,25000.0,Yes,5.2,85.1,1,27.5,Yes,Yes,6.9,1.78,Year 4,Business,Master,0
+21.9,Female,56023.0,Yes,7.49,84.9,2,26.6,No,Yes,3.6,4.0,Year 4,Engineering,PhD,0
+17.3,Male,25000.0,Yes,3.73,51.5,4,20.6,No,Yes,9.2,0.49,Year 4,Arts,High School,1
+20.4,Female,85762.0,Yes,3.7,80.5,3,31.2,Yes,No,7.6,2.37,Year 4,Engineering,Bachelor,0
+25.7,Female,32174.0,No,5.14,70.7,1,30.9,No,No,6.5,2.1,Year 4,Business,Bachelor,1
+21.6,Male,31868.0,Yes,5.38,92.8,4,44.3,No,Yes,5.7,4.0,Year 1,Business,Bachelor,0
+21.7,Female,33598.0,Yes,3.24,70.8,4,31.3,No,No,6.7,2.18,Year 4,Arts,High School,0
+22.3,Female,,No,,87.8,3,32.6,Yes,Yes,,1.44,Year 1,Science,Master,0
+21.2,Female,54974.0,Yes,1.29,75.7,1,21.0,Yes,Yes,8.0,1.23,Year 4,Business,Bachelor,1
+17.8,Male,33060.0,Yes,5.36,76.0,3,36.9,Yes,No,1.0,3.75,Year 1,Science,Bachelor,0
+20.1,Female,120775.0,Yes,3.11,92.8,2,23.6,No,No,5.5,2.44,Year 2,CS,Master,0
+17.6,Male,54565.0,Yes,4.72,89.8,1,43.5,Yes,No,4.3,2.08,Year 3,CS,High School,0
+23.1,Female,44072.0,No,3.93,86.7,1,25.8,No,Yes,7.1,1.65,Year 1,CS,Bachelor,0
+22.8,Female,50207.0,Yes,2.99,69.0,2,46.9,No,No,1.7,3.28,Year 1,CS,Bachelor,0
+24.8,Female,36768.0,Yes,1.05,78.9,3,31.0,Yes,No,2.5,0.75,Year 2,Engineering,Bachelor,0
+20.2,Female,52974.0,Yes,3.36,75.8,2,29.2,Yes,No,5.7,2.73,Year 4,Engineering,Master,1
+25.5,Male,104632.0,Yes,4.51,77.2,3,18.6,No,No,1.8,1.64,Year 3,Business,PhD,0
+19.3,Male,25000.0,Yes,7.75,79.1,1,31.9,No,No,7.4,3.36,Year 3,Business,Bachelor,0
+21.9,Female,78008.0,Yes,4.3,90.0,1,19.1,No,Yes,4.0,3.7,Year 2,CS,High School,0
+21.4,Female,25000.0,Yes,4.97,89.7,0,10.1,No,No,5.8,4.0,Year 4,Science,Bachelor,0
+19.8,Male,25000.0,Yes,3.39,84.7,1,19.3,Yes,Yes,5.8,1.49,Year 3,Engineering,High School,1
+22.2,Male,25000.0,Yes,5.27,80.4,1,28.4,Yes,No,5.8,3.98,Year 2,Business,High School,0
+25.0,Female,63456.0,Yes,3.41,86.7,2,15.5,Yes,No,2.8,3.44,Year 1,Engineering,Bachelor,0
+17.0,Male,25000.0,Yes,5.86,82.8,5,26.4,No,No,7.0,1.1,Year 3,Business,High School,0
+23.3,Female,27677.0,Yes,5.68,79.5,3,25.8,No,Yes,6.9,2.15,Year 1,Business,High School,0
+21.3,Female,25000.0,Yes,3.12,82.5,1,49.2,No,Yes,5.2,1.85,Year 1,CS,Bachelor,0
+23.4,Female,42019.0,Yes,5.34,75.9,2,41.1,No,Yes,6.2,1.09,Year 1,Arts,Master,0
+21.0,Female,26943.0,No,6.97,73.6,2,40.6,No,No,7.9,2.46,Year 3,Arts,Bachelor,0
+18.0,Male,25000.0,Yes,3.62,78.1,2,45.1,No,Yes,4.8,1.06,Year 4,Arts,Bachelor,1
+24.5,Female,25000.0,Yes,6.09,90.0,0,38.0,No,Yes,7.7,0.11,Year 2,Science,High School,1
+19.0,Male,38782.0,Yes,2.91,66.3,5,52.6,No,No,5.5,2.8,Year 4,Science,Master,0
+17.0,Male,31279.0,Yes,1.68,91.0,2,25.8,No,No,5.0,3.26,Year 2,Arts,High School,0
+21.7,Male,27415.0,Yes,3.27,83.2,4,28.1,Yes,No,4.1,2.04,Year 3,Arts,High School,0
+17.6,Female,25000.0,No,2.48,78.7,0,18.1,Yes,Yes,4.2,2.64,Year 1,CS,High School,0
+17.0,Male,39891.0,Yes,6.78,74.7,2,20.5,No,No,5.1,3.65,Year 3,CS,High School,0
+23.1,Female,44565.0,Yes,4.38,85.9,2,32.2,Yes,No,7.4,2.79,Year 1,Arts,Bachelor,0
+18.5,Male,25000.0,No,2.97,95.2,0,14.9,No,Yes,5.7,2.39,Year 1,Business,High School,0
+20.6,Female,29127.0,No,5.56,83.9,1,18.4,No,No,5.6,2.61,Year 2,Science,Master,0
+22.1,Female,25000.0,Yes,2.51,86.2,1,28.7,No,Yes,4.3,2.6,Year 2,CS,Bachelor,0
+19.9,Male,79941.0,Yes,3.86,83.3,4,46.0,No,No,5.7,2.49,Year 1,Arts,Bachelor,0
+24.5,Female,26421.0,Yes,3.65,93.5,2,5.0,Yes,No,8.2,3.19,Year 3,Science,High School,0
+22.1,Female,31466.0,Yes,5.29,88.9,2,37.8,No,No,3.6,4.0,Year 4,Arts,Master,0
+21.4,Female,46225.0,Yes,2.75,78.4,1,24.0,No,No,1.9,4.0,Year 2,Business,Bachelor,0
+20.0,Male,41961.0,Yes,1.7,75.6,2,23.9,Yes,Yes,4.5,1.83,Year 2,CS,Bachelor,0
+21.7,Female,25000.0,No,2.04,68.5,3,31.2,No,No,8.4,0.32,Year 4,CS,High School,1
+22.3,Female,25000.0,Yes,6.84,76.6,2,17.6,No,No,1.2,4.0,Year 4,Science,High School,0
+19.3,Female,25000.0,Yes,5.93,71.8,3,24.8,Yes,Yes,3.4,4.0,Year 4,Business,Bachelor,1
+22.2,Female,25000.0,Yes,5.56,85.6,4,56.4,Yes,Yes,6.6,1.92,Year 2,Business,Bachelor,0
+20.2,Male,63735.0,Yes,5.9,85.5,1,22.4,No,Yes,3.7,3.31,Year 3,Business,Master,0
+20.8,Female,34466.0,Yes,3.79,67.9,2,24.8,No,No,7.5,1.37,Year 1,Business,High School,1
+19.8,Female,25095.0,Yes,3.59,95.6,1,39.0,Yes,No,7.5,2.9,Year 4,Arts,Bachelor,0
+17.5,Female,53131.0,Yes,4.21,78.9,2,21.3,No,Yes,6.9,1.24,Year 4,CS,Bachelor,0
+22.1,Male,25641.0,Yes,4.23,76.2,3,29.6,No,No,3.3,0.15,Year 4,Arts,Bachelor,1
+19.8,Female,25000.0,No,4.27,86.6,2,32.0,Yes,No,7.6,1.63,Year 3,CS,Master,0
+19.9,Female,27744.0,No,3.72,88.7,2,35.1,Yes,No,7.1,4.0,Year 1,Arts,Master,0
+17.9,Male,37016.0,Yes,3.45,92.2,1,15.3,Yes,No,4.8,1.42,Year 1,CS,Bachelor,0
+24.5,Male,25000.0,Yes,3.66,85.4,1,37.5,Yes,Yes,6.0,2.8,Year 3,Business,Bachelor,0
+21.5,Male,39812.0,Yes,3.02,91.9,2,35.9,No,Yes,3.4,4.0,Year 2,Engineering,Bachelor,0
+19.4,Male,74973.0,No,4.61,94.9,3,43.5,No,No,7.1,1.51,Year 1,Arts,Bachelor,0
+21.8,Male,25000.0,No,2.57,96.8,2,27.2,No,No,3.8,2.84,Year 3,CS,High School,0
+17.8,Male,33553.0,Yes,5.42,76.4,3,26.8,No,No,3.6,0.98,Year 4,CS,Bachelor,0
+20.6,Female,25000.0,Yes,5.8,85.6,3,33.3,Yes,No,6.7,1.76,Year 3,Engineering,Master,1
+23.5,Female,50820.0,Yes,2.51,94.4,2,39.7,No,No,6.7,0.98,Year 2,Business,High School,1
+21.5,Male,36741.0,Yes,2.86,84.2,3,9.7,No,Yes,7.0,0.5,Year 1,Science,,1
+19.8,Male,25000.0,Yes,3.16,74.6,3,42.2,No,No,9.2,2.02,Year 4,Business,Bachelor,1
+21.9,Male,,Yes,,60.2,2,19.8,Yes,No,,4.0,Year 4,Engineering,Master,0
+17.0,Female,50909.0,Yes,5.97,73.7,5,22.7,No,No,6.1,3.26,Year 4,Arts,Bachelor,0
+22.0,Male,,Yes,,66.0,0,27.3,No,No,,2.95,Year 2,Engineering,,0
+18.6,Male,,Yes,,82.8,2,54.5,No,Yes,,2.3,Year 2,Science,Master,0
+19.1,Female,56223.0,Yes,6.7,83.0,1,5.0,Yes,Yes,8.6,2.04,Year 1,Engineering,,0
+21.5,Female,33898.0,Yes,2.9,83.8,4,48.7,Yes,No,8.5,1.6,Year 1,Engineering,,1
+19.2,Male,25000.0,Yes,3.7,79.4,1,35.5,No,No,8.2,0.62,Year 2,Science,High School,0
+23.9,Female,41365.0,Yes,7.21,70.8,2,35.2,No,No,3.1,4.0,Year 4,Science,Master,0
+27.8,Male,25000.0,Yes,2.92,97.0,1,5.0,Yes,Yes,4.4,3.44,Year 2,CS,Master,0
+21.8,Female,25000.0,Yes,3.77,82.1,3,44.6,No,No,7.0,1.8,Year 3,Engineering,High School,1
+22.4,Male,34058.0,No,5.61,79.4,1,21.9,Yes,No,5.1,2.11,Year 2,Business,High School,0
+24.5,Male,25000.0,Yes,4.72,77.9,3,20.2,Yes,No,5.7,2.19,Year 1,Science,Master,0
+21.3,Female,166087.0,Yes,4.49,64.0,0,64.3,No,No,1.6,4.0,Year 2,Business,Master,0
+22.7,Male,40333.0,Yes,1.84,85.6,2,17.2,No,No,3.4,2.42,Year 4,Engineering,High School,0
+21.3,Male,,Yes,,58.400000000000006,3,44.7,No,Yes,,4.0,Year 4,Arts,High School,0
+27.8,Female,45114.0,Yes,1.58,76.8,2,40.2,No,No,5.2,0.0,Year 4,Business,High School,1
+20.0,Male,25000.0,Yes,3.3,87.2,2,43.1,Yes,No,7.8,2.91,Year 3,Science,,0
+22.5,Male,33345.0,Yes,2.52,78.8,0,33.3,No,Yes,5.9,2.52,Year 4,Arts,High School,0
+21.9,Female,32886.0,Yes,3.95,92.4,2,24.5,No,No,5.0,0.83,Year 2,Science,PhD,1
+21.3,Female,41081.0,Yes,7.45,100.0,2,20.3,No,Yes,4.8,3.45,Year 4,Science,Bachelor,0
+17.0,Female,65940.0,Yes,1.48,82.8,3,21.9,Yes,Yes,6.3,1.7,Year 2,CS,High School,1
+22.9,Female,35405.0,Yes,2.7,86.8,1,26.2,Yes,No,5.1,2.57,Year 3,Science,Bachelor,0
+17.0,Female,25000.0,Yes,3.62,67.1,3,23.2,No,No,5.1,0.79,Year 1,CS,Bachelor,0
+22.7,Male,25000.0,Yes,3.8,92.7,1,17.7,No,No,8.3,1.58,Year 1,CS,Bachelor,0
+20.4,Male,25000.0,Yes,4.79,73.4,2,34.5,No,No,5.7,0.0,Year 1,Arts,,1
+19.6,Female,,Yes,,86.4,0,39.5,Yes,Yes,,4.0,Year 2,CS,High School,0
+27.2,Female,25000.0,Yes,3.22,82.8,1,19.2,No,No,4.1,3.27,Year 4,Engineering,Bachelor,0
+20.2,Female,96888.0,Yes,3.17,84.6,1,22.6,No,No,4.4,2.39,Year 2,CS,High School,0
+23.7,Female,34028.0,Yes,4.78,90.4,1,57.1,No,No,6.8,2.47,Year 2,Engineering,High School,1
+21.2,Female,37905.0,Yes,3.49,96.0,1,35.7,No,No,4.6,1.86,Year 4,Arts,Bachelor,0
+19.4,Female,40427.0,Yes,4.26,88.7,2,17.1,No,No,9.4,1.0,Year 3,CS,Bachelor,0
+20.0,Female,37107.0,Yes,1.41,86.1,2,26.8,Yes,No,5.9,2.25,Year 2,Arts,High School,1
+20.7,Male,,Yes,,95.7,3,16.1,No,Yes,,2.81,Year 1,Science,Master,0
+24.8,Female,41974.0,Yes,3.6,86.7,2,15.1,No,No,6.6,2.78,Year 2,Engineering,Bachelor,0
+19.2,Female,25000.0,Yes,2.98,72.2,2,20.0,Yes,Yes,7.1,2.86,Year 4,CS,High School,1
+22.6,Male,25000.0,Yes,3.54,83.2,1,44.0,Yes,No,6.0,1.4,Year 4,Science,High School,1
+20.9,Male,25000.0,Yes,4.77,76.5,1,46.1,Yes,No,6.7,2.21,Year 4,Arts,High School,1
+24.4,Female,31873.0,No,6.49,79.1,0,20.7,Yes,Yes,4.7,4.0,Year 1,Arts,Bachelor,0
+19.7,Male,36930.0,Yes,3.93,83.0,5,15.2,No,No,5.0,1.21,Year 4,Arts,High School,0
+18.5,Female,25000.0,Yes,5.64,95.9,2,11.5,No,Yes,4.8,2.5,Year 4,Arts,Bachelor,0
+18.3,Female,25000.0,Yes,2.98,93.9,2,25.3,Yes,No,5.2,1.86,Year 4,CS,Bachelor,0
+18.1,Male,45124.0,Yes,3.12,78.0,0,10.9,No,Yes,5.3,2.68,Year 2,Engineering,Master,0
+25.1,Female,25000.0,Yes,2.92,88.9,1,11.8,No,No,6.8,0.0,Year 2,Arts,,0
+23.4,Male,25000.0,No,7.12,76.4,1,15.3,No,No,5.8,2.03,Year 4,Business,,0
+21.3,Male,35159.0,Yes,4.09,83.7,0,28.5,No,No,4.5,0.85,Year 4,Science,Master,0
+19.6,Male,25000.0,Yes,3.39,79.3,2,30.0,Yes,No,5.5,2.95,Year 4,Engineering,Master,0
+18.2,Male,42727.0,Yes,3.97,71.1,0,37.0,Yes,No,4.7,0.85,Year 1,Science,Master,0
+21.3,Male,25000.0,No,2.58,86.3,1,38.0,No,No,5.1,2.66,Year 3,Engineering,High School,0
+23.6,Female,30779.0,Yes,5.24,88.2,4,40.5,No,Yes,8.2,0.67,Year 4,Engineering,Master,1
+17.0,Male,25000.0,Yes,4.2,89.8,2,19.5,No,Yes,6.9,2.61,Year 3,Arts,High School,1
+23.5,Female,25000.0,Yes,5.4,80.8,3,21.1,No,Yes,6.0,2.06,Year 4,Arts,High School,0
+22.9,Female,25000.0,Yes,4.04,72.8,2,26.9,Yes,No,4.2,3.01,Year 1,CS,Master,0
+24.3,Male,25000.0,Yes,4.26,78.4,0,24.4,Yes,Yes,8.3,2.34,Year 3,CS,Bachelor,0
+23.7,Female,25000.0,Yes,1.89,90.4,5,35.0,No,No,5.9,0.79,Year 1,Engineering,High School,1
+17.0,Female,25000.0,Yes,2.85,88.4,1,38.5,Yes,Yes,2.6,3.47,Year 1,Arts,Bachelor,0
+20.5,Male,25000.0,Yes,4.11,89.1,2,47.1,No,Yes,6.0,2.52,Year 3,Business,,0
+23.4,Female,29836.0,Yes,4.4,89.5,1,27.0,Yes,No,3.3,4.0,Year 3,Engineering,Bachelor,0
+23.4,Male,30856.0,Yes,2.79,78.8,2,30.9,No,Yes,7.4,0.42,Year 1,CS,High School,1
+19.1,Female,25000.0,Yes,3.84,76.3,2,32.0,Yes,Yes,4.2,2.68,Year 2,CS,Bachelor,1
+22.3,Male,25000.0,Yes,4.9,74.8,2,28.7,No,No,5.9,1.2,Year 2,CS,Master,0
+21.5,Female,44562.0,Yes,3.65,84.3,2,32.1,No,Yes,6.0,2.15,Year 4,CS,Master,0
+19.8,Male,30461.0,Yes,3.84,85.8,0,16.4,No,No,4.7,3.57,Year 1,Arts,Bachelor,0
+17.7,Male,39198.0,Yes,4.51,78.4,3,58.6,Yes,No,4.3,3.84,Year 2,CS,Bachelor,0
+17.5,Female,25000.0,Yes,7.65,89.0,0,33.2,Yes,No,6.3,3.32,Year 4,Business,,0
+21.0,Male,25000.0,Yes,4.18,87.8,1,31.0,Yes,Yes,5.4,3.35,Year 3,Business,Master,0
+21.7,Female,25000.0,Yes,3.16,82.7,0,23.4,No,No,7.8,2.43,Year 2,Arts,Bachelor,0
+21.2,Male,34957.0,No,2.8,93.3,1,35.9,No,No,4.9,3.29,Year 4,Business,,0
+20.7,Male,34851.0,Yes,4.87,99.2,1,44.0,No,No,5.3,3.84,Year 1,Arts,Bachelor,0
+17.9,Male,67659.0,Yes,4.42,93.0,2,29.0,No,Yes,5.0,3.87,Year 4,Science,,0
+20.3,Male,25000.0,Yes,3.62,79.3,1,47.9,Yes,Yes,8.3,2.56,Year 4,Science,Bachelor,0
+23.6,Female,33045.0,Yes,6.36,71.3,1,28.8,No,No,5.8,1.97,Year 3,Science,Master,1
+17.0,Female,25000.0,Yes,1.99,79.4,1,23.3,Yes,Yes,5.0,2.84,Year 1,CS,Bachelor,0
+23.0,Female,37265.0,Yes,3.88,79.7,2,26.6,No,Yes,4.5,1.2,Year 2,Science,,0
+19.3,Female,25000.0,Yes,2.6,72.8,1,41.8,No,Yes,5.0,2.28,Year 3,Business,High School,0
+22.0,Female,25000.0,Yes,2.53,84.8,3,28.5,No,No,5.8,2.87,Year 1,Business,PhD,0
+20.3,Male,34782.0,Yes,3.47,78.0,0,33.6,Yes,No,6.0,0.0,Year 2,Science,Bachelor,1
+21.1,Female,26038.0,Yes,5.07,81.3,1,30.4,Yes,No,6.9,1.29,Year 3,CS,Master,0
+21.9,Male,38448.0,Yes,3.4,85.8,3,44.4,Yes,Yes,6.1,0.64,Year 4,Science,High School,1
+17.0,Female,122581.0,Yes,2.99,76.3,0,14.6,Yes,No,4.4,3.59,Year 3,Science,,0
+21.1,Female,60092.0,Yes,2.76,83.4,2,41.4,No,No,5.8,0.76,Year 1,CS,Bachelor,1
+26.3,Male,25000.0,Yes,4.74,82.8,1,25.8,Yes,Yes,3.7,4.0,Year 1,Science,Bachelor,0
+19.5,Male,25000.0,Yes,2.53,79.9,1,18.5,No,No,1.5,3.14,Year 3,Engineering,Master,0
+24.3,Male,28430.0,Yes,4.87,78.4,2,44.3,No,No,4.3,2.67,Year 3,CS,Master,0
+21.4,Male,37736.0,No,5.07,100.0,1,47.6,No,Yes,6.3,1.99,Year 1,Business,Bachelor,0
+22.4,Female,,Yes,,93.1,3,50.0,No,No,,3.31,Year 1,CS,High School,0
+19.0,Female,25000.0,Yes,3.29,84.0,0,39.6,Yes,No,8.3,2.1,Year 2,Engineering,Master,1
+17.7,Male,47069.0,Yes,2.74,74.3,0,25.4,Yes,No,4.4,2.15,Year 4,Science,Master,0
+17.9,Male,25000.0,Yes,3.63,71.4,2,21.8,No,No,3.9,3.39,Year 4,Engineering,Bachelor,0
+20.2,Female,25000.0,Yes,3.1,81.5,1,33.4,No,No,4.4,2.4,Year 2,CS,Bachelor,0
+22.2,Female,26223.0,Yes,3.56,81.2,0,32.3,No,Yes,3.9,1.91,Year 1,Business,Bachelor,0
+18.0,Female,25000.0,Yes,4.53,65.5,0,27.6,Yes,No,8.3,1.86,Year 3,Science,High School,1
+20.9,Female,25859.0,Yes,5.48,81.6,1,13.3,No,No,3.4,4.0,Year 1,CS,Master,0
+23.7,Female,38583.0,Yes,4.48,80.7,2,44.0,No,Yes,6.3,0.58,Year 3,Science,High School,0
+18.9,Female,40966.0,Yes,3.99,88.8,2,39.1,No,No,5.8,1.03,Year 1,Business,Master,1
+17.0,Male,26990.0,Yes,4.65,82.1,0,31.2,No,No,5.4,2.74,Year 2,Business,Bachelor,0
+22.1,Female,30400.0,Yes,5.98,70.3,3,17.8,No,No,5.5,1.43,Year 1,Arts,Bachelor,0
+20.9,Male,43622.0,Yes,4.13,82.2,2,33.7,Yes,Yes,5.6,2.78,Year 2,Business,PhD,0
+19.8,Male,25000.0,Yes,4.72,77.6,2,29.1,No,Yes,6.7,1.88,Year 4,Science,Bachelor,0
+23.8,Female,25000.0,No,2.9,93.2,3,20.4,Yes,No,6.6,1.64,Year 1,Arts,Master,0
+22.1,Female,25000.0,Yes,5.22,81.5,3,44.0,No,No,5.9,1.02,Year 4,Arts,Bachelor,1
+19.7,Male,25000.0,Yes,4.85,67.5,1,18.1,No,No,10.0,0.45,Year 3,Business,Bachelor,1
+17.0,Female,25197.0,Yes,3.34,90.7,0,30.1,No,No,4.0,3.83,Year 1,Arts,PhD,0
+24.2,Female,25000.0,Yes,4.02,70.9,2,48.5,No,Yes,7.6,0.83,Year 3,Engineering,PhD,0
+22.1,Male,51624.0,Yes,4.6,72.3,2,46.8,No,Yes,3.8,3.32,Year 2,Science,Bachelor,0
+21.2,Female,45885.0,Yes,5.04,87.2,0,33.4,No,No,6.6,0.85,Year 1,Science,PhD,0
+23.7,Male,42589.0,No,5.71,85.6,3,27.0,No,No,7.3,0.0,Year 1,Engineering,High School,1
+20.5,Male,25000.0,Yes,3.74,76.0,1,21.3,No,No,9.2,0.8,Year 2,Arts,Bachelor,1
+22.8,Male,25000.0,No,4.21,90.2,0,49.2,Yes,Yes,5.7,2.2,Year 2,Science,Master,0
+22.7,Female,83329.0,Yes,2.72,88.0,3,22.7,Yes,Yes,5.1,1.58,Year 2,Engineering,High School,0
+24.2,Male,25000.0,Yes,2.53,88.9,3,37.4,No,No,9.8,0.69,Year 1,Science,Bachelor,1
+20.2,Female,25000.0,Yes,3.56,76.0,3,40.5,No,No,6.2,4.0,Year 2,Arts,Bachelor,0
+18.2,Female,25000.0,Yes,3.77,73.6,0,35.4,No,No,3.2,3.23,Year 1,Business,Bachelor,0
+20.9,Male,32322.0,Yes,3.3,97.1,0,23.5,No,No,5.6,4.0,Year 4,Business,High School,0
+24.7,Male,47170.0,Yes,4.56,77.7,5,28.1,No,No,7.6,1.71,Year 4,Business,PhD,1
+19.6,Female,39800.0,No,3.95,78.9,2,9.9,Yes,Yes,6.1,2.24,Year 4,CS,Bachelor,1
+17.0,Female,57293.0,Yes,3.45,84.1,3,27.1,Yes,No,8.2,1.37,Year 4,Business,Bachelor,0
+23.0,Male,25000.0,Yes,3.2,80.6,0,14.8,No,No,6.2,2.89,Year 3,Arts,High School,1
+22.2,Male,25000.0,No,2.5,74.6,3,30.9,No,No,4.0,2.72,Year 1,Engineering,,1
+24.8,Female,25000.0,Yes,4.17,79.4,1,18.9,Yes,Yes,7.4,1.86,Year 1,CS,,0
+18.8,Female,25000.0,Yes,4.85,77.3,2,17.8,Yes,No,8.7,2.0,Year 2,Engineering,Bachelor,0
+18.6,Male,33607.0,Yes,3.25,65.9,1,14.5,No,No,5.1,0.35,Year 1,Engineering,Master,1
+18.8,Female,51513.0,Yes,1.64,72.4,2,11.9,No,No,6.3,1.12,Year 2,Engineering,Bachelor,1
+24.1,Male,25000.0,Yes,4.68,86.7,2,15.3,Yes,No,5.6,2.62,Year 3,Business,Master,0
+17.9,Female,35751.0,Yes,5.77,85.2,1,32.7,Yes,No,6.3,2.4,Year 1,Business,Bachelor,0
+22.8,Male,30442.0,No,3.65,90.8,2,28.4,No,No,4.4,3.34,Year 2,Arts,Bachelor,0
+21.1,Female,25000.0,Yes,4.83,81.2,2,29.4,No,No,2.2,4.0,Year 3,Arts,Bachelor,0
+17.7,Female,25000.0,Yes,5.39,74.0,5,50.8,Yes,Yes,6.0,2.28,Year 3,Engineering,High School,0
+21.5,Male,99412.0,Yes,1.88,85.7,2,45.9,Yes,No,2.5,2.88,Year 1,Engineering,Bachelor,0
+22.5,Female,25000.0,Yes,4.51,77.0,2,38.4,No,No,5.8,1.47,Year 1,Science,Bachelor,0
+19.6,Female,54065.0,Yes,2.55,77.4,3,31.0,No,No,5.0,3.14,Year 2,Arts,Master,0
+20.0,Male,25000.0,Yes,5.8,74.9,0,20.1,Yes,No,6.2,0.72,Year 4,Engineering,Master,0
+20.5,Female,25000.0,Yes,6.24,81.9,4,35.3,No,No,6.3,2.3,Year 2,Arts,High School,0
+19.5,Female,36891.0,No,3.61,81.6,1,20.1,Yes,Yes,6.4,3.12,Year 4,Business,Bachelor,0
+20.9,Female,25000.0,Yes,2.68,75.2,2,34.2,No,No,8.2,1.61,Year 2,Arts,Master,0
+23.0,Female,65350.0,Yes,3.71,86.0,3,13.9,Yes,No,5.7,3.33,Year 1,Business,Bachelor,0
+20.1,Female,25000.0,Yes,3.86,92.7,3,38.0,No,No,5.4,4.0,Year 3,CS,Bachelor,0
+21.1,Male,25000.0,Yes,5.25,82.9,3,37.1,Yes,Yes,7.6,0.85,Year 4,Science,Master,1
+20.6,Male,35973.0,Yes,1.02,87.9,2,11.0,No,Yes,5.9,2.39,Year 1,CS,High School,0
+18.7,Female,89357.0,Yes,6.65,62.3,4,23.7,No,No,3.8,3.43,Year 4,Business,High School,0
+21.0,Male,25000.0,Yes,4.49,57.0,3,34.2,No,No,5.5,3.44,Year 3,Engineering,Bachelor,0
+20.8,Male,,Yes,,87.1,3,35.0,No,Yes,,3.4,Year 1,Arts,Master,0
+25.8,Female,25000.0,Yes,4.62,76.7,2,37.6,No,No,5.7,2.95,Year 3,Business,Bachelor,0
+23.4,Female,30594.0,Yes,4.13,97.4,1,36.7,Yes,Yes,5.8,4.0,Year 4,CS,High School,0
+20.7,Female,67817.0,Yes,2.76,82.3,1,10.4,No,No,2.5,4.0,Year 2,CS,High School,0
+20.9,Male,,Yes,,87.5,1,10.4,Yes,No,,2.42,Year 4,Arts,Bachelor,0
+21.8,Male,99979.0,Yes,4.23,86.4,6,50.1,Yes,Yes,4.3,0.98,Year 1,Engineering,Bachelor,1
+27.5,Female,25000.0,Yes,5.15,75.2,1,33.2,Yes,No,3.9,1.48,Year 4,Science,High School,1
+20.8,Male,25000.0,Yes,0.63,88.3,1,27.1,No,No,5.8,1.81,Year 1,Business,High School,0
+23.0,Female,25759.0,Yes,3.99,89.7,0,41.1,Yes,No,4.8,4.0,Year 4,CS,PhD,0
+19.6,Male,25000.0,Yes,4.35,88.6,0,43.5,No,Yes,3.8,4.0,Year 4,Science,Bachelor,0
+21.2,Female,25000.0,Yes,4.47,72.8,4,17.2,No,No,7.6,1.98,Year 3,Arts,High School,1
+23.1,Female,36745.0,Yes,2.75,91.9,4,15.3,No,Yes,6.2,1.85,Year 3,Engineering,High School,0
+17.0,Female,59073.0,Yes,6.44,88.0,0,10.2,Yes,No,8.9,1.88,Year 2,Engineering,High School,0
+21.4,Female,25000.0,Yes,5.23,85.7,0,24.5,No,No,8.0,2.64,Year 2,Business,High School,0
+19.9,Male,95240.0,Yes,5.05,95.7,1,32.2,No,Yes,4.4,4.0,Year 4,Science,Bachelor,0
+23.6,Female,79247.0,Yes,2.89,77.6,4,29.8,No,No,5.5,1.94,Year 1,Science,Master,0
+18.2,Male,47848.0,Yes,4.58,80.4,2,34.9,Yes,No,6.8,2.7,Year 4,Arts,High School,0
+17.0,Male,25000.0,Yes,5.91,95.5,0,11.0,No,No,2.4,2.43,Year 1,CS,Bachelor,0
+22.5,Male,88327.0,Yes,5.81,74.1,4,24.2,Yes,No,3.9,1.93,Year 1,Engineering,Bachelor,0
+21.7,Male,25000.0,No,4.26,78.1,0,53.2,No,No,6.6,1.67,Year 4,CS,Bachelor,1
+18.8,Female,41767.0,Yes,6.07,81.7,2,34.3,Yes,No,3.5,3.65,Year 2,Science,Bachelor,0
+24.7,Male,25000.0,Yes,2.33,78.5,2,22.3,Yes,No,3.8,1.8,Year 3,Business,Bachelor,0
+18.0,Male,28474.0,Yes,3.7,78.2,0,9.2,Yes,No,6.5,2.04,Year 1,Arts,,0
+18.4,Female,101065.0,Yes,3.0,84.4,3,22.7,No,No,6.0,2.79,Year 4,CS,Master,0
+20.3,Male,25000.0,Yes,0.5,77.7,3,9.4,No,Yes,6.8,0.7,Year 2,Science,Bachelor,1
+21.9,Female,25000.0,Yes,0.92,86.2,1,43.1,No,No,3.7,1.01,Year 3,Science,Master,0
+23.4,Female,25000.0,Yes,5.36,78.3,3,24.3,No,No,4.2,1.54,Year 3,Science,Bachelor,1
+21.6,Male,25000.0,No,5.35,84.1,6,13.1,No,No,2.3,2.8,Year 1,Business,High School,0
+19.9,Male,25000.0,Yes,3.41,78.3,3,22.2,No,No,6.2,1.29,Year 1,Engineering,,0
+26.2,Female,25000.0,Yes,2.63,70.7,2,27.9,Yes,Yes,5.2,1.09,Year 4,Science,High School,0
+20.5,Male,67589.0,Yes,4.81,82.6,1,20.2,Yes,No,6.0,1.89,Year 4,Engineering,High School,0
+22.0,Female,25877.0,Yes,3.98,100.0,3,37.4,No,No,7.0,1.19,Year 1,Engineering,Bachelor,0
+19.8,Male,25000.0,Yes,4.8,74.7,0,30.2,No,No,3.5,1.81,Year 1,Arts,Bachelor,1
+22.9,Female,25000.0,Yes,5.28,75.0,1,28.9,No,No,7.0,1.28,Year 2,CS,High School,1
+20.4,Male,25000.0,Yes,3.38,81.0,3,37.8,No,No,3.7,2.41,Year 2,CS,PhD,0
+22.0,Male,25000.0,Yes,5.86,81.8,2,27.2,No,Yes,5.5,0.78,Year 4,Arts,Master,0
+20.5,Male,25000.0,Yes,6.37,72.9,3,34.1,No,Yes,5.0,4.0,Year 2,Arts,Master,0
+17.6,Male,63074.0,No,2.58,84.0,1,28.5,Yes,Yes,6.8,2.59,Year 1,Engineering,Bachelor,0
+22.6,Male,204684.0,Yes,2.09,91.2,1,5.0,Yes,Yes,6.0,0.0,Year 4,Science,High School,1
+22.4,Male,26234.0,Yes,3.78,82.6,0,38.3,Yes,No,1.0,4.0,Year 4,Arts,Master,0
+18.5,Male,29416.0,No,3.91,91.4,2,49.5,No,No,5.4,3.48,Year 4,Business,High School,0
+17.5,Male,55626.0,Yes,4.61,90.9,1,37.3,No,No,4.7,2.81,Year 4,Business,Bachelor,0
+18.7,Female,25000.0,Yes,4.94,79.9,1,36.1,No,Yes,2.8,0.82,Year 4,Arts,Master,0
+21.4,Female,52703.0,No,4.77,86.7,2,49.2,No,No,6.8,2.75,Year 2,Engineering,High School,0
+22.3,Female,48542.0,Yes,5.82,81.8,1,57.4,Yes,Yes,4.6,2.69,Year 4,CS,Bachelor,0
+21.3,Female,25000.0,Yes,1.76,90.7,5,41.5,No,Yes,7.7,2.1,Year 4,Arts,High School,1
+24.0,Male,46327.0,Yes,2.88,94.5,1,34.7,No,No,4.9,3.16,Year 3,Arts,Bachelor,0
+24.6,Male,25000.0,Yes,4.07,71.2,3,34.6,No,Yes,5.5,1.33,Year 3,Arts,Bachelor,0
+21.9,Female,,Yes,,57.3,1,21.7,Yes,No,,1.31,Year 4,Science,Bachelor,1
+19.6,Male,25000.0,Yes,3.14,80.2,1,28.4,No,No,6.3,1.77,Year 1,CS,Bachelor,0
+22.0,Female,33624.0,Yes,5.86,76.0,2,26.0,Yes,No,5.8,2.34,Year 2,CS,Bachelor,0
+21.7,Male,76253.0,Yes,3.53,74.4,4,39.3,Yes,No,3.8,3.82,Year 2,Arts,High School,0
+18.7,Female,53656.0,No,4.85,82.6,3,5.0,Yes,No,4.3,2.54,Year 4,Business,Master,1
+21.9,Female,25000.0,Yes,4.02,74.7,3,17.4,Yes,Yes,5.6,0.12,Year 2,Business,Bachelor,1
+18.8,Female,66526.0,Yes,2.73,83.7,0,18.4,No,No,7.8,1.33,Year 1,CS,High School,0
+26.5,Male,97499.0,Yes,4.0,79.2,2,15.8,No,No,8.6,0.68,Year 1,CS,Bachelor,0
+22.1,Female,126428.0,Yes,4.02,87.2,3,14.8,No,No,3.5,3.54,Year 1,Science,High School,0
+22.8,Male,25000.0,Yes,5.33,89.9,2,25.3,Yes,Yes,6.4,4.0,Year 2,Engineering,Master,1
+19.2,Female,25000.0,Yes,2.67,85.2,4,33.0,Yes,No,6.1,2.89,Year 4,Business,High School,0
+25.1,Male,,Yes,,77.9,3,10.9,No,Yes,,2.56,Year 3,Science,Bachelor,1
+24.5,Male,316601.0,No,6.18,83.4,3,5.0,Yes,Yes,8.1,1.01,Year 4,Business,Bachelor,1
+20.2,Female,25000.0,Yes,4.48,79.5,3,26.1,Yes,Yes,7.6,1.85,Year 1,Science,High School,0
+20.3,Male,32644.0,Yes,3.04,87.0,0,18.5,No,No,2.1,4.0,Year 1,Science,Bachelor,0
+19.9,Male,25000.0,Yes,6.38,77.7,3,29.0,Yes,No,5.5,2.49,Year 4,Science,High School,1
+19.3,Female,34707.0,Yes,4.7,83.4,4,34.9,Yes,No,4.4,3.12,Year 4,Science,Master,0
+20.8,Female,25000.0,Yes,4.93,91.3,2,12.5,Yes,Yes,4.7,2.91,Year 1,Science,Bachelor,0
+19.4,Female,,Yes,,75.2,2,23.7,No,No,,1.03,Year 3,Business,Bachelor,0
+22.7,Male,25000.0,Yes,4.25,78.7,2,35.6,Yes,No,7.6,0.37,Year 1,Business,High School,1
+17.1,Female,25000.0,Yes,3.9,85.1,0,16.6,Yes,No,3.8,3.54,Year 2,Business,High School,0
+22.2,Female,49817.0,Yes,4.91,91.0,1,29.1,Yes,No,3.0,1.83,Year 4,Arts,Bachelor,0
+22.9,Female,25000.0,No,5.81,85.6,3,30.8,No,No,7.2,1.25,Year 3,Arts,High School,1
+21.3,Female,70399.0,Yes,3.6,76.7,0,37.9,Yes,No,6.3,0.89,Year 4,Science,High School,1
+18.5,Male,33329.0,Yes,2.57,76.5,2,30.4,Yes,No,4.4,0.97,Year 1,Business,High School,0
+22.0,Female,59724.0,Yes,3.36,72.8,0,36.9,Yes,Yes,5.4,2.11,Year 1,Arts,Master,0
+17.5,Female,111450.0,Yes,4.12,79.8,3,33.5,No,No,10.0,1.11,Year 2,Arts,High School,1
+22.0,Female,75749.0,Yes,3.08,71.8,3,20.5,Yes,No,5.3,2.57,Year 2,Business,Bachelor,0
+22.4,Female,28973.0,Yes,2.73,71.6,1,15.0,No,No,3.6,2.27,Year 1,Science,Bachelor,0
+24.4,Female,25854.0,No,3.98,93.9,3,19.3,Yes,Yes,4.0,3.14,Year 4,Arts,Bachelor,0
+24.4,Female,25000.0,Yes,4.36,83.8,0,11.9,No,No,6.4,2.45,Year 2,Business,Master,0
+22.3,Female,25000.0,Yes,3.84,93.9,2,13.3,Yes,No,1.3,3.44,Year 1,CS,Bachelor,0
+19.3,Female,74926.0,Yes,2.22,71.9,2,23.4,No,No,4.3,0.21,Year 4,Arts,PhD,1
+19.7,Male,25578.0,Yes,3.34,85.8,1,33.4,No,No,9.9,1.09,Year 3,CS,Bachelor,0
+20.4,Female,55320.0,Yes,4.62,78.0,1,5.0,No,No,7.5,1.3,Year 3,Arts,Bachelor,0
+20.8,Female,25000.0,Yes,3.31,88.9,1,19.9,No,No,5.4,3.31,Year 2,Engineering,High School,0
+20.3,Female,28674.0,Yes,3.45,69.0,2,31.5,Yes,Yes,9.4,0.0,Year 2,Engineering,Bachelor,0
+20.2,Female,35453.0,Yes,3.23,75.8,1,26.3,No,Yes,4.4,1.4,Year 1,Science,Master,1
+21.6,Female,26878.0,Yes,4.0,71.5,4,21.4,Yes,No,5.0,2.08,Year 4,Engineering,Bachelor,1
+18.7,Female,25000.0,Yes,5.87,83.0,1,38.3,No,No,4.4,3.29,Year 1,CS,Bachelor,0
+21.6,Female,25000.0,Yes,4.32,97.3,1,35.0,Yes,No,3.8,3.7,Year 3,Business,Bachelor,0
+18.6,Male,25000.0,Yes,3.97,92.7,1,19.5,Yes,No,5.5,3.75,Year 3,Business,Master,0
+18.1,Male,59276.0,Yes,5.43,75.2,1,36.3,Yes,Yes,6.6,3.68,Year 4,Engineering,Master,0
+24.7,Male,,Yes,,86.2,0,42.5,Yes,No,,2.38,Year 3,Science,High School,0
+26.8,Male,25000.0,Yes,5.1,85.4,2,28.0,No,No,3.5,4.0,Year 1,Business,Bachelor,0
+21.7,Female,52115.0,Yes,2.91,88.8,0,44.9,No,Yes,3.6,3.8,Year 1,Business,Bachelor,0
+20.7,Male,25000.0,No,5.57,97.9,3,35.9,Yes,No,4.3,4.0,Year 4,Business,Bachelor,0
+23.5,Male,38947.0,Yes,1.01,86.6,5,36.2,Yes,No,4.9,0.0,Year 3,CS,Master,1
+22.3,Female,38681.0,Yes,5.06,80.7,2,33.5,No,No,6.7,1.7,Year 1,Science,Bachelor,0
+19.0,Male,,Yes,,77.9,5,25.9,Yes,No,,1.95,Year 2,Engineering,Bachelor,0
+23.3,Male,39692.0,Yes,3.99,81.8,4,45.2,Yes,No,5.8,2.43,Year 3,Engineering,Bachelor,0
+22.2,Male,26269.0,Yes,2.26,77.1,0,16.8,No,Yes,4.7,3.45,Year 4,Science,Master,0
+23.3,Male,25000.0,Yes,6.22,85.8,4,18.7,No,No,5.5,2.35,Year 2,Business,Bachelor,0
+27.5,Female,25000.0,Yes,5.12,90.0,3,19.1,No,No,3.9,3.66,Year 2,CS,Bachelor,0
+18.2,Male,54265.0,Yes,4.02,92.0,1,24.6,No,Yes,3.4,4.0,Year 2,Science,Bachelor,0
+22.3,Female,25000.0,Yes,4.63,77.6,3,24.4,No,No,5.7,1.19,Year 1,Arts,High School,1
+20.6,Female,29362.0,No,5.38,82.0,1,38.6,No,Yes,8.1,3.04,Year 1,Science,Bachelor,1
+22.3,Male,64812.0,Yes,3.95,80.9,2,42.6,No,No,4.2,3.0,Year 2,Arts,PhD,0
+21.4,Female,25000.0,Yes,3.77,79.7,3,21.3,No,No,4.5,2.49,Year 3,Arts,Bachelor,0
+25.4,Female,25000.0,Yes,4.63,80.5,1,25.7,Yes,No,6.2,3.28,Year 3,Engineering,Bachelor,0
+24.2,Female,25000.0,Yes,3.65,79.2,2,35.1,No,No,6.9,1.72,Year 4,Arts,Bachelor,1
+21.9,Female,25000.0,Yes,2.98,86.7,2,19.9,Yes,No,7.3,0.12,Year 1,Science,High School,0
+23.4,Female,106297.0,Yes,3.83,79.4,1,28.4,Yes,Yes,7.0,3.45,Year 3,Arts,High School,0
+20.6,Male,64056.0,Yes,1.71,85.1,2,25.1,No,Yes,6.5,1.84,Year 1,CS,High School,0
+21.5,Female,25000.0,Yes,2.05,78.6,2,19.5,Yes,No,3.0,3.53,Year 3,Business,High School,0
+18.3,Female,41121.0,No,4.28,78.2,1,43.9,No,No,5.5,1.13,Year 2,Arts,High School,0
+22.1,Female,25000.0,Yes,3.42,91.1,0,43.1,No,Yes,4.7,3.66,Year 2,Science,Bachelor,0
+22.3,Male,,Yes,,62.400000000000006,1,36.6,Yes,Yes,,3.45,Year 4,Engineering,Bachelor,0
+21.6,Female,53869.0,Yes,5.24,77.1,2,33.1,No,No,2.7,3.07,Year 4,Arts,Bachelor,0
+20.4,Male,71993.0,Yes,2.61,87.2,3,24.6,No,Yes,3.8,3.64,Year 2,Arts,Bachelor,0
+17.0,Female,111757.0,No,4.32,72.7,0,36.7,No,No,2.8,3.67,Year 4,Business,High School,1
+19.3,Male,25000.0,Yes,6.33,81.7,0,32.3,No,No,7.3,0.72,Year 1,Business,Master,1
+18.8,Female,47596.0,Yes,3.82,80.2,2,32.5,No,No,4.1,3.32,Year 4,Science,Bachelor,0
+26.7,Female,82095.0,No,5.94,67.0,1,23.1,No,Yes,5.6,2.5,Year 2,Arts,Master,1
+20.8,Female,25000.0,Yes,3.17,98.2,3,35.3,No,No,7.9,3.02,Year 4,Engineering,Master,0
+20.8,Female,25000.0,Yes,2.28,88.6,1,19.1,Yes,No,1.5,4.0,Year 4,Arts,High School,0
+20.8,Male,32203.0,Yes,4.54,83.4,2,12.4,No,No,8.2,2.39,Year 1,Arts,Bachelor,0
+18.2,Male,31122.0,Yes,3.86,71.4,5,30.9,Yes,Yes,4.5,2.68,Year 1,Business,Bachelor,0
+21.1,Female,25000.0,Yes,2.98,69.0,3,26.7,No,No,7.6,0.1,Year 3,Engineering,High School,0
+18.2,Male,36458.0,Yes,4.79,79.7,1,21.0,Yes,No,8.4,0.59,Year 2,CS,Bachelor,1
+17.4,Female,25252.0,No,5.37,83.0,2,32.9,No,No,6.7,3.24,Year 4,Engineering,Bachelor,0
+19.9,Male,25000.0,Yes,3.72,81.7,4,36.0,No,No,7.0,0.63,Year 3,Business,Master,1
+21.1,Female,27552.0,Yes,3.79,85.2,3,12.1,Yes,Yes,3.4,2.54,Year 3,Science,High School,0
+19.1,Male,25000.0,Yes,3.28,78.2,0,29.9,No,No,5.8,2.35,Year 1,Business,Bachelor,0
+18.4,Male,25000.0,Yes,4.42,69.0,2,16.4,No,Yes,7.3,0.06,Year 3,Arts,Bachelor,1
+20.6,Female,25000.0,Yes,3.86,88.8,0,25.1,No,Yes,6.0,2.39,Year 1,Science,Bachelor,0
+19.9,Male,64789.0,Yes,4.34,84.6,2,33.3,Yes,No,6.5,2.79,Year 4,Arts,PhD,0
+22.8,Female,25000.0,Yes,3.85,98.7,3,26.7,Yes,Yes,7.1,3.86,Year 1,Engineering,Bachelor,0
+21.0,Female,25000.0,Yes,5.26,95.1,0,35.3,Yes,Yes,4.3,3.68,Year 2,Science,Bachelor,0
+18.1,Female,25000.0,Yes,4.8,78.7,3,8.3,Yes,Yes,4.0,3.94,Year 2,CS,Master,0
+19.3,Female,25000.0,Yes,6.56,88.1,0,15.7,No,No,4.7,4.0,Year 4,Science,Bachelor,0
+25.7,Female,25000.0,Yes,3.51,96.9,2,39.9,No,No,4.3,2.81,Year 1,Business,Bachelor,0
+19.9,Male,25000.0,Yes,3.73,72.6,1,39.7,No,No,6.7,2.29,Year 2,CS,Bachelor,1
+19.9,Male,60715.0,Yes,0.97,69.5,1,34.7,No,Yes,2.8,2.13,Year 1,Business,Bachelor,0
+23.4,Female,25000.0,No,4.68,84.1,1,20.0,No,No,5.3,0.91,Year 3,CS,High School,0
+20.3,Male,40583.0,Yes,1.93,87.5,1,36.5,No,No,7.5,0.29,Year 4,Business,,0
+17.6,Female,,No,,80.8,2,27.1,Yes,No,,0.95,Year 2,CS,Bachelor,1
+19.9,Female,28307.0,Yes,6.63,82.2,2,5.0,Yes,No,4.2,4.0,Year 4,Engineering,Bachelor,0
+17.0,Male,25000.0,Yes,3.14,76.9,3,18.5,No,No,6.2,1.94,Year 3,Arts,High School,1
+22.8,Female,25000.0,Yes,0.84,67.8,0,28.3,No,No,7.6,1.54,Year 1,Engineering,PhD,1
+18.5,Female,48164.0,Yes,5.86,66.1,2,30.8,No,Yes,4.3,2.66,Year 4,Business,Bachelor,0
+21.6,Male,51583.0,Yes,5.36,89.0,3,27.6,No,Yes,4.7,4.0,Year 3,Business,High School,0
+19.9,Female,64839.0,Yes,4.38,81.8,2,6.1,No,No,4.3,0.0,Year 3,Business,Bachelor,1
+20.8,Female,51587.0,Yes,5.39,97.8,2,8.0,No,Yes,6.4,4.0,Year 3,Engineering,PhD,0
+20.9,Male,34975.0,Yes,2.98,81.2,2,39.1,No,Yes,3.9,1.33,Year 2,Arts,Master,1
+21.0,Male,65792.0,Yes,2.08,79.9,4,16.1,Yes,No,3.1,1.14,Year 1,Engineering,High School,1
+23.1,Female,56710.0,Yes,2.46,81.2,2,19.1,Yes,Yes,4.7,3.44,Year 3,Arts,Bachelor,0
+19.7,Male,,Yes,,85.6,1,32.1,Yes,No,,2.28,Year 4,Science,Bachelor,1
+18.5,Male,25000.0,Yes,4.05,79.1,1,32.2,No,Yes,5.8,2.56,Year 1,Arts,Bachelor,1
+22.8,Female,136042.0,Yes,3.2,79.0,1,27.8,No,Yes,3.3,2.87,Year 4,Arts,Master,0
+19.7,Male,34086.0,No,5.54,61.0,1,39.4,No,No,3.7,3.47,Year 1,Business,Bachelor,0
+23.1,Male,25000.0,Yes,2.41,88.7,4,51.6,No,No,1.7,1.84,Year 1,Business,Bachelor,0
+18.0,Male,29023.0,Yes,6.13,88.6,4,19.1,No,No,1.7,2.94,Year 4,Business,Master,0
+23.3,Male,25000.0,Yes,4.29,77.7,0,9.3,Yes,No,6.6,1.01,Year 4,CS,High School,0
+17.0,Female,62006.0,Yes,4.29,69.4,0,14.6,Yes,No,7.0,2.72,Year 3,Engineering,High School,0
+22.0,Male,36591.0,Yes,5.39,77.0,2,26.8,No,No,5.4,1.3,Year 3,Science,High School,0
+18.3,Female,73727.0,Yes,4.56,95.4,0,28.3,No,No,3.4,3.29,Year 3,Engineering,Bachelor,0
+22.7,Female,41674.0,Yes,6.06,84.4,0,23.3,Yes,Yes,5.1,2.88,Year 1,Business,Master,0
+23.1,Female,39328.0,Yes,5.63,82.8,3,30.5,No,Yes,7.9,3.1,Year 2,Science,High School,0
+19.9,Female,25000.0,Yes,2.59,79.7,1,44.4,Yes,Yes,5.1,1.87,Year 1,CS,Bachelor,0
+24.4,Male,40687.0,Yes,5.1,74.8,2,40.5,No,Yes,7.3,0.99,Year 2,Science,Bachelor,1
+19.7,Female,25000.0,Yes,4.24,76.4,1,5.0,No,No,4.3,2.48,Year 1,CS,Master,0
+19.4,Female,101780.0,Yes,3.15,80.8,3,55.4,No,Yes,7.3,1.38,Year 1,Arts,Master,1
+19.2,Male,43456.0,Yes,3.4,77.5,3,26.7,No,No,4.4,2.02,Year 4,Business,Bachelor,0
+20.8,Male,83586.0,Yes,4.3,82.0,3,21.0,Yes,No,5.7,2.52,Year 1,Business,Bachelor,0
+23.7,Male,25596.0,Yes,4.71,76.7,1,11.9,No,No,8.3,0.87,Year 1,Engineering,High School,1
+21.0,Female,39698.0,Yes,1.88,85.6,3,39.7,No,No,2.5,3.64,Year 1,Business,PhD,0
+18.7,Male,25000.0,Yes,2.5,86.2,2,22.0,No,Yes,5.5,4.0,Year 4,Engineering,High School,0
+19.0,Female,25000.0,Yes,3.61,90.5,0,26.4,No,Yes,6.4,2.26,Year 2,Science,Bachelor,0
+18.9,Male,25776.0,Yes,6.21,79.4,2,54.6,Yes,Yes,9.3,0.55,Year 1,Arts,Bachelor,0
+21.1,Male,25000.0,Yes,5.28,80.7,1,16.9,No,Yes,3.1,4.0,Year 4,Business,Bachelor,0
+19.6,Male,25000.0,Yes,3.95,73.6,1,18.8,Yes,No,5.0,3.5,Year 1,Science,,0
+21.1,Male,33015.0,Yes,3.68,91.4,3,40.3,No,No,7.9,0.87,Year 2,Arts,Master,0
+23.0,Male,33675.0,Yes,4.21,75.3,0,23.0,No,Yes,3.8,2.36,Year 2,Arts,Bachelor,0
+20.4,Female,,Yes,,78.3,2,41.8,No,Yes,,1.04,Year 1,CS,Bachelor,1
+20.9,Female,34420.0,Yes,2.82,83.9,1,38.5,No,Yes,5.5,2.83,Year 4,Business,Bachelor,0
+20.9,Male,,Yes,,87.0,1,45.1,No,Yes,,2.1,Year 3,Business,PhD,0
+24.1,Female,27072.0,Yes,6.37,89.4,1,27.9,No,Yes,5.1,3.72,Year 3,Science,Bachelor,0
+18.7,Male,38922.0,Yes,3.06,74.3,2,34.4,No,No,5.0,1.95,Year 4,CS,High School,0
+19.5,Female,25000.0,No,6.57,76.2,2,26.3,No,Yes,3.9,3.55,Year 1,Arts,Master,0
+23.6,Male,25000.0,Yes,4.06,75.1,0,41.0,No,Yes,4.8,1.46,Year 1,Arts,High School,1
+17.9,Female,26583.0,Yes,3.77,87.6,3,16.5,No,No,4.8,2.64,Year 2,Engineering,High School,0
+23.9,Female,28479.0,Yes,5.03,100.0,0,14.3,No,Yes,7.3,2.85,Year 3,Science,Bachelor,1
+18.1,Female,25000.0,Yes,3.25,88.2,1,25.3,No,No,4.2,2.95,Year 4,CS,Master,0
+24.3,Female,25000.0,No,4.56,88.1,0,42.3,Yes,No,6.9,1.15,Year 4,Arts,High School,1
+21.1,Male,75506.0,Yes,4.1,83.3,0,21.0,No,No,4.1,3.08,Year 4,Arts,Bachelor,0
+20.9,Female,25000.0,Yes,3.56,70.5,0,26.6,Yes,Yes,4.4,2.53,Year 2,Science,High School,0
+20.3,Male,32937.0,Yes,3.7,75.8,2,46.2,No,No,5.2,2.43,Year 1,Engineering,High School,0
+21.0,Female,84148.0,Yes,4.23,76.9,3,5.2,Yes,Yes,6.2,0.5,Year 4,Engineering,Bachelor,0
+20.1,Male,52517.0,Yes,4.96,72.1,2,13.7,Yes,Yes,7.8,1.72,Year 2,Engineering,Bachelor,0
+19.7,Female,25000.0,Yes,3.82,81.8,2,26.3,No,Yes,5.1,2.79,Year 1,Business,Bachelor,0
+19.2,Female,25000.0,Yes,5.86,72.5,3,34.2,No,No,1.0,4.0,Year 1,Arts,Bachelor,0
+17.0,Female,25000.0,Yes,3.7,93.5,3,42.7,No,Yes,7.5,1.69,Year 4,Business,High School,0
+22.6,Female,25000.0,Yes,2.38,81.8,2,55.7,No,No,7.6,1.29,Year 3,Engineering,Bachelor,1
+21.6,Female,25182.0,Yes,3.92,72.6,1,27.7,Yes,No,5.9,3.61,Year 4,Business,Master,0
+19.5,Female,26646.0,No,2.11,74.8,1,20.2,Yes,No,4.1,3.1,Year 3,CS,High School,0
+20.1,Male,25000.0,Yes,3.72,79.0,1,20.9,Yes,Yes,5.9,1.09,Year 3,Engineering,Bachelor,0
+21.6,Female,44123.0,Yes,5.61,72.7,2,9.1,No,Yes,3.8,1.78,Year 4,CS,Bachelor,0
+20.7,Female,25000.0,Yes,4.77,81.1,2,38.7,Yes,No,5.6,3.46,Year 2,Engineering,High School,0
+18.4,Male,35120.0,No,5.49,66.6,2,14.7,No,Yes,7.9,2.59,Year 2,CS,High School,1
+17.8,Female,37365.0,Yes,4.29,82.1,2,20.2,No,No,5.0,4.0,Year 3,Business,Master,0
+22.6,Male,25000.0,Yes,4.39,84.7,0,27.2,No,No,4.3,2.8,Year 1,Arts,Bachelor,0
+18.1,Female,25000.0,Yes,4.81,87.9,2,38.6,Yes,No,6.3,2.85,Year 2,CS,PhD,0
+17.0,Male,25000.0,Yes,4.14,95.3,3,36.1,Yes,Yes,6.3,2.61,Year 2,Arts,High School,0
+18.7,Male,65445.0,Yes,4.64,77.1,1,35.8,No,Yes,5.6,2.37,Year 3,Science,Bachelor,0
+22.5,Female,26202.0,No,3.51,73.4,5,16.8,No,Yes,3.9,0.82,Year 4,Engineering,Bachelor,1
+18.8,Male,60528.0,No,2.68,84.7,1,38.9,Yes,Yes,4.8,1.36,Year 1,Engineering,High School,0
+22.1,Male,59703.0,Yes,4.53,77.7,2,5.0,Yes,Yes,4.6,1.25,Year 1,Arts,High School,0
+20.9,Female,51880.0,Yes,3.55,89.1,3,33.8,No,Yes,5.4,2.4,Year 4,Arts,Master,0
+22.2,Male,71485.0,Yes,2.34,81.8,5,22.3,Yes,No,5.3,1.12,Year 2,Engineering,High School,1
+19.6,Male,80774.0,Yes,2.18,90.8,0,23.8,No,Yes,4.4,2.48,Year 3,Arts,High School,0
+21.5,Female,62687.0,Yes,5.4,76.0,2,37.4,No,No,6.0,2.77,Year 2,CS,High School,1
+25.2,Male,34856.0,Yes,3.03,80.8,2,25.9,No,No,2.5,3.23,Year 4,Science,High School,0
+18.7,Female,25000.0,Yes,2.76,80.3,0,32.4,Yes,No,4.6,3.87,Year 3,Science,Bachelor,0
+19.9,Male,86037.0,Yes,3.66,68.3,0,45.1,Yes,No,6.3,3.63,Year 2,Arts,Master,0
+21.2,Female,25000.0,Yes,2.2,83.4,4,30.3,No,Yes,7.5,2.3,Year 3,Arts,Bachelor,0
+18.9,Female,65627.0,Yes,4.43,85.2,2,33.3,No,Yes,3.9,4.0,Year 2,CS,Master,0
+24.7,Female,25000.0,Yes,4.77,74.8,2,29.3,Yes,Yes,5.3,3.17,Year 4,Business,PhD,0
+20.5,Male,,Yes,,71.6,3,30.5,Yes,Yes,,2.66,Year 4,Engineering,High School,0
+20.3,Female,29128.0,Yes,4.67,86.8,3,8.2,No,No,5.3,3.33,Year 1,CS,Bachelor,0
+23.5,Male,73250.0,Yes,3.55,86.4,0,8.0,No,No,8.1,0.54,Year 2,CS,Bachelor,1
+25.0,Female,25000.0,Yes,3.69,85.3,1,5.0,No,Yes,4.0,2.92,Year 3,Science,Bachelor,0
+19.1,Female,26945.0,Yes,4.68,65.9,0,28.7,Yes,Yes,8.0,0.77,Year 4,Science,High School,0
+19.0,Male,39124.0,No,3.26,94.6,1,31.1,Yes,No,4.8,4.0,Year 1,Science,Master,0
+19.9,Male,28009.0,Yes,4.1,92.1,1,22.4,Yes,Yes,6.2,3.27,Year 2,Engineering,High School,0
+17.0,Female,57317.0,Yes,1.62,78.2,4,18.5,No,No,4.7,2.87,Year 4,CS,High School,0
+17.3,Female,60696.0,Yes,2.91,76.4,1,31.5,No,No,4.5,0.38,Year 4,Science,Bachelor,0
+21.3,Female,69559.0,Yes,6.06,82.4,1,33.1,No,Yes,5.2,0.99,Year 2,Science,High School,1
+22.6,Male,25000.0,No,5.17,81.6,4,5.0,No,No,5.1,3.35,Year 2,Science,Bachelor,0
+20.4,Male,,Yes,,80.3,1,33.9,No,No,,2.3,Year 4,Business,High School,0
+22.4,Male,25000.0,Yes,2.15,81.0,2,27.2,No,Yes,4.9,2.92,Year 1,CS,High School,1
+22.3,Male,25000.0,Yes,3.11,73.2,2,8.0,Yes,No,4.2,1.32,Year 4,Engineering,High School,0
+19.1,Female,34864.0,Yes,5.45,86.8,3,41.9,Yes,No,6.6,2.44,Year 3,Business,Bachelor,0
+21.5,Male,56897.0,Yes,3.63,81.3,3,24.9,No,No,2.3,2.8,Year 2,Business,Bachelor,0
+24.2,Female,47652.0,Yes,3.59,75.1,1,26.4,No,Yes,5.8,2.37,Year 4,Arts,Master,0
+23.3,Female,25000.0,Yes,5.21,79.6,1,59.8,Yes,No,4.5,2.41,Year 2,CS,Bachelor,1
+23.3,Female,58852.0,Yes,3.85,77.6,2,20.6,Yes,No,5.2,3.03,Year 3,CS,Master,0
+20.3,Female,,Yes,,76.9,3,37.0,No,Yes,,2.63,Year 4,CS,High School,0
+22.1,Female,25000.0,Yes,3.17,83.7,2,31.8,No,Yes,3.7,4.0,Year 2,Business,Bachelor,0
+18.8,Female,45092.0,Yes,3.88,88.8,0,24.5,Yes,No,7.3,2.61,Year 4,CS,Bachelor,0
+23.6,Male,33104.0,No,5.45,81.5,3,24.2,No,No,6.7,1.5,Year 4,Business,Bachelor,1
+20.7,Female,47189.0,Yes,5.32,83.8,2,34.0,No,Yes,7.1,1.16,Year 1,CS,Bachelor,0
+23.0,Male,44537.0,Yes,5.59,85.1,1,39.9,No,No,3.6,2.71,Year 2,Arts,High School,0
+21.9,Female,56933.0,Yes,4.89,74.5,0,26.3,Yes,Yes,4.0,3.95,Year 1,Engineering,Bachelor,0
+24.6,Male,40638.0,Yes,3.16,89.9,1,24.5,Yes,No,6.9,3.46,Year 3,Engineering,Master,0
+17.0,Female,45355.0,Yes,4.86,79.1,3,51.9,Yes,No,6.0,3.23,Year 3,CS,Bachelor,0
+20.7,Female,28705.0,Yes,2.89,95.2,5,14.5,No,Yes,3.8,1.54,Year 3,CS,High School,0
+19.6,Female,,Yes,,86.3,1,18.8,No,Yes,,1.84,Year 1,Engineering,,0
+23.3,Male,56506.0,Yes,4.79,65.4,1,49.2,No,No,6.0,0.86,Year 4,Business,Bachelor,1
+19.7,Female,26339.0,Yes,5.65,79.0,1,32.7,Yes,No,4.9,1.61,Year 1,Business,Bachelor,1
+22.1,Female,25000.0,Yes,5.54,72.5,2,47.6,Yes,No,6.2,2.42,Year 2,CS,Master,1
+21.4,Male,25000.0,Yes,1.55,81.6,3,34.2,No,No,2.8,3.89,Year 4,Arts,Master,0
+19.1,Female,80192.0,Yes,1.92,72.1,4,22.3,Yes,Yes,3.8,3.19,Year 4,Arts,Bachelor,0
+17.4,Male,25000.0,Yes,5.48,97.1,2,29.9,No,No,6.6,1.91,Year 1,Arts,High School,0
+18.8,Male,25000.0,No,0.65,81.5,2,39.6,No,No,5.5,0.0,Year 1,Arts,Bachelor,0
+21.2,Male,30604.0,Yes,4.25,87.5,0,13.8,No,No,2.4,2.27,Year 4,CS,Bachelor,0
+20.3,Male,86813.0,No,3.89,81.9,1,45.3,No,Yes,5.0,1.89,Year 2,Engineering,Bachelor,1
+23.6,Male,39407.0,Yes,4.08,88.0,2,42.3,Yes,No,6.2,2.57,Year 1,Arts,,0
+18.6,Male,52655.0,Yes,1.11,80.5,2,28.3,No,No,6.0,0.67,Year 4,CS,High School,1
+18.4,Female,25000.0,Yes,4.02,89.2,1,22.8,No,No,3.3,2.34,Year 2,Engineering,High School,0
+20.0,Male,42949.0,Yes,4.53,97.5,5,35.1,Yes,Yes,6.3,3.97,Year 2,Engineering,Bachelor,0
+21.8,Female,25000.0,Yes,3.56,71.9,1,21.7,No,Yes,4.7,1.28,Year 4,Science,Bachelor,0
+18.7,Female,64149.0,Yes,4.1,89.7,2,31.6,No,Yes,5.7,3.04,Year 3,CS,Bachelor,0
+22.9,Female,25000.0,No,3.82,79.5,4,18.5,Yes,Yes,5.7,2.42,Year 3,CS,High School,1
+24.2,Male,35926.0,Yes,2.68,84.0,4,37.4,No,No,2.7,1.21,Year 2,Business,High School,0
+22.0,Male,25000.0,Yes,3.86,68.7,1,12.9,Yes,No,3.4,1.98,Year 2,Business,Bachelor,0
+22.5,Female,88233.0,Yes,3.51,72.1,3,35.0,Yes,No,4.0,2.77,Year 1,Science,High School,1
+22.7,Male,25000.0,No,4.97,88.6,3,35.1,No,No,2.4,4.0,Year 4,Science,Master,0
+22.3,Male,25000.0,Yes,3.18,88.5,2,23.4,No,Yes,3.6,3.33,Year 1,Science,Master,0
+20.4,Male,39087.0,Yes,5.54,95.2,2,19.3,No,No,8.4,3.38,Year 4,Business,Master,0
+20.0,Female,74584.0,No,6.28,73.1,4,19.2,Yes,No,7.3,1.12,Year 3,CS,High School,1
+18.2,Male,30236.0,Yes,4.65,79.9,2,59.2,No,No,6.0,1.56,Year 3,Science,High School,1
+20.1,Female,25000.0,Yes,4.04,75.0,2,36.0,No,Yes,3.7,2.05,Year 4,Science,Master,1
+21.5,Female,25000.0,No,3.58,84.4,1,28.2,No,Yes,6.3,2.77,Year 3,Business,Bachelor,0
+18.6,Male,41086.0,Yes,4.4,84.1,3,6.6,No,Yes,3.9,1.21,Year 4,Business,Bachelor,0
+20.5,Male,45198.0,Yes,4.62,85.7,1,21.6,No,Yes,6.4,2.13,Year 3,Arts,High School,0
+23.5,Female,25000.0,Yes,2.85,78.8,1,28.8,No,Yes,6.3,2.62,Year 4,Arts,PhD,0
+20.1,Female,27897.0,Yes,3.83,95.1,1,5.0,No,No,3.9,3.09,Year 2,Arts,PhD,0
+22.3,Female,92098.0,Yes,5.15,85.9,0,38.5,Yes,Yes,5.9,1.68,Year 2,Engineering,,0
+20.9,Male,48047.0,Yes,3.66,83.1,1,43.5,No,No,5.5,2.24,Year 3,Business,High School,0
+21.9,Female,25000.0,Yes,4.73,91.2,2,29.9,No,Yes,4.4,4.0,Year 3,CS,High School,0
+21.2,Male,40549.0,No,2.79,89.1,2,45.2,Yes,No,6.0,1.67,Year 3,Arts,PhD,0
+22.9,Male,25000.0,No,5.46,83.5,1,20.6,Yes,No,3.8,2.79,Year 1,CS,Master,1
+22.3,Male,84549.0,No,6.31,75.7,4,29.5,Yes,No,5.2,3.27,Year 4,CS,PhD,1
+20.7,Female,25000.0,Yes,3.23,88.0,4,12.4,No,No,1.3,4.0,Year 4,CS,Bachelor,0
+23.5,Male,,Yes,,69.3,3,25.6,No,Yes,,2.11,Year 4,CS,Bachelor,0
+17.9,Female,25000.0,No,4.74,66.1,1,22.2,Yes,Yes,6.1,2.03,Year 4,Science,Master,1
+22.4,Female,25000.0,Yes,5.18,85.4,1,20.0,No,No,5.8,3.68,Year 4,Arts,Master,0
+20.7,Female,25000.0,Yes,6.82,75.6,0,34.4,No,No,4.1,3.25,Year 3,Science,Master,0
+20.3,Male,25000.0,Yes,2.34,84.5,2,28.9,Yes,Yes,2.7,2.03,Year 2,Engineering,Bachelor,0
+19.1,Male,,Yes,,69.7,0,16.0,No,No,,3.12,Year 3,Arts,High School,0
+19.7,Female,25000.0,Yes,6.39,85.1,1,40.1,No,No,7.5,3.95,Year 1,Business,Bachelor,0
+25.5,Male,77331.0,Yes,5.06,67.9,3,26.2,Yes,No,6.2,1.77,Year 4,Engineering,Bachelor,0
+19.6,Male,25000.0,No,4.98,84.1,2,46.1,No,No,7.7,1.67,Year 2,Arts,High School,0
+23.3,Female,47100.0,Yes,2.69,85.3,7,27.6,Yes,No,5.7,1.96,Year 1,Arts,Master,1
+24.1,Male,25000.0,No,4.83,88.4,2,49.6,No,No,4.5,4.0,Year 3,Engineering,High School,0
+20.9,Male,25346.0,No,2.86,75.2,1,32.7,Yes,No,3.1,1.11,Year 4,Engineering,Bachelor,1
+20.5,Male,25000.0,Yes,1.58,71.2,1,17.8,Yes,Yes,6.9,0.0,Year 2,Business,Bachelor,1
+20.5,Female,25219.0,Yes,2.37,80.2,0,28.2,No,No,5.2,2.56,Year 2,Science,Bachelor,0
+23.5,Female,48580.0,Yes,3.69,94.1,0,40.1,No,No,4.3,4.0,Year 4,Engineering,High School,0
+19.8,Female,44214.0,Yes,1.75,76.8,1,23.5,Yes,No,6.6,3.68,Year 2,Arts,High School,0
+20.0,Female,34982.0,Yes,2.8,86.1,3,24.6,Yes,No,6.3,1.93,Year 4,Business,Bachelor,0
+24.3,Female,33244.0,Yes,3.43,68.5,2,16.7,No,No,8.4,0.57,Year 1,Business,Bachelor,1
+21.2,Male,25000.0,Yes,3.54,81.2,0,29.3,Yes,No,4.7,2.88,Year 4,Arts,Bachelor,0
+23.9,Male,34585.0,Yes,2.97,80.0,4,38.5,No,No,6.1,3.58,Year 4,Engineering,Bachelor,0
+21.3,Male,34929.0,No,3.78,78.6,2,31.9,Yes,No,5.5,1.33,Year 4,Engineering,PhD,1
+18.4,Female,65327.0,Yes,3.05,67.4,1,35.9,No,No,3.7,3.25,Year 2,Science,Bachelor,0
+18.6,Male,26984.0,Yes,2.25,75.8,5,46.7,No,Yes,5.0,1.5,Year 1,Arts,Bachelor,0
+18.0,Female,32895.0,Yes,3.65,91.0,1,26.4,No,Yes,6.8,2.25,Year 1,Science,High School,0
+21.0,Male,30733.0,Yes,5.88,79.7,2,32.7,No,No,5.3,1.45,Year 2,Engineering,Master,0
+23.0,Male,36914.0,Yes,6.06,73.7,1,42.6,Yes,Yes,3.1,4.0,Year 1,Engineering,High School,0
+19.3,Female,25000.0,Yes,2.68,80.6,1,5.0,No,Yes,5.6,2.91,Year 1,Science,Bachelor,0
+23.9,Male,79703.0,Yes,4.88,81.2,4,38.5,No,Yes,5.2,1.7,Year 3,Science,Master,0
+19.6,Male,25000.0,No,5.22,78.2,3,26.4,Yes,Yes,1.3,3.55,Year 2,CS,Bachelor,1
+24.5,Male,25000.0,Yes,3.03,86.5,2,25.6,Yes,No,6.2,1.65,Year 4,Business,PhD,0
+20.6,Female,40480.0,Yes,3.63,70.9,1,28.2,Yes,Yes,5.0,2.6,Year 4,Science,Bachelor,0
+22.5,Male,37379.0,Yes,3.97,85.5,2,53.5,No,Yes,7.3,1.23,Year 3,CS,Bachelor,0
+22.5,Male,56768.0,Yes,3.66,82.5,1,17.7,No,Yes,4.8,1.77,Year 2,Science,Bachelor,0
+23.8,Male,44460.0,Yes,5.59,89.9,2,33.3,No,No,4.7,2.81,Year 2,Arts,Bachelor,0
+19.3,Female,25000.0,Yes,4.04,75.7,0,41.3,No,No,5.4,3.58,Year 4,Science,Bachelor,0
+19.7,Male,25000.0,Yes,4.3,87.6,1,44.5,No,Yes,5.6,3.53,Year 3,CS,Bachelor,0
+21.0,Male,25000.0,Yes,5.27,75.2,0,22.6,Yes,Yes,6.0,4.0,Year 2,CS,Bachelor,0
+19.9,Female,34887.0,Yes,5.09,69.7,2,31.4,Yes,No,6.8,1.99,Year 3,Engineering,Master,0
+20.9,Male,25000.0,Yes,4.96,64.4,0,10.6,No,No,6.6,1.54,Year 4,Engineering,High School,1
+25.8,Male,40391.0,Yes,3.33,85.1,2,41.0,No,Yes,5.8,2.67,Year 3,Arts,,0
+22.6,Male,25000.0,Yes,4.64,77.7,1,25.1,No,Yes,4.4,0.48,Year 3,Engineering,Bachelor,1
+20.7,Female,48465.0,Yes,3.31,82.6,1,23.5,No,No,4.7,2.65,Year 2,Arts,High School,0
+21.6,Female,27382.0,Yes,3.26,89.0,0,15.5,No,No,7.1,0.03,Year 4,Engineering,High School,1
+23.4,Female,30703.0,Yes,6.32,82.9,2,30.6,No,No,1.7,3.93,Year 1,Science,Bachelor,0
+22.3,Male,39628.0,Yes,4.49,81.0,3,18.4,Yes,No,4.7,4.0,Year 4,Arts,Bachelor,0
+18.7,Male,25000.0,No,3.98,73.7,1,27.0,No,No,6.3,3.3,Year 2,Engineering,Bachelor,0
+21.6,Male,64841.0,No,4.18,85.2,2,24.3,Yes,No,6.1,4.0,Year 4,Arts,Bachelor,0
+20.9,Male,27559.0,Yes,3.06,75.6,7,6.5,No,Yes,5.2,1.57,Year 1,Arts,High School,0
+20.3,Female,30028.0,Yes,2.6,84.2,3,44.0,Yes,No,5.6,3.4,Year 4,Science,Bachelor,0
+24.3,Female,39842.0,Yes,4.93,77.7,0,35.9,Yes,Yes,7.5,2.53,Year 4,Engineering,High School,0
+21.2,Male,25000.0,Yes,4.16,76.1,2,25.1,No,No,6.1,0.7,Year 4,Engineering,High School,0
+21.6,Female,25000.0,Yes,2.93,78.3,2,10.7,Yes,No,4.5,4.0,Year 3,Science,Bachelor,0
+21.4,Male,25000.0,Yes,3.4,82.7,2,30.8,Yes,Yes,6.1,2.44,Year 4,Business,,0
+22.7,Female,25000.0,No,5.3,73.9,0,48.5,No,No,5.7,1.73,Year 2,CS,High School,1
+18.3,Female,25000.0,No,3.93,95.6,2,41.3,Yes,No,7.1,0.54,Year 1,Business,Bachelor,0
+20.6,Female,25000.0,No,5.51,85.3,4,34.8,No,Yes,5.8,2.15,Year 4,Science,High School,1
+24.9,Female,26410.0,Yes,3.3,89.4,2,34.0,Yes,Yes,7.6,2.52,Year 3,Science,Master,0
+17.0,Female,25000.0,Yes,4.45,90.7,1,46.6,No,No,5.2,2.9,Year 2,Arts,High School,0
+22.6,Male,35536.0,Yes,4.99,83.9,3,33.3,No,Yes,5.2,2.7,Year 1,Arts,Master,0
+20.3,Male,25000.0,Yes,1.12,89.0,5,17.5,No,No,6.8,1.29,Year 2,Science,High School,0
+21.8,Female,25000.0,No,5.05,86.2,0,31.5,No,No,3.5,4.0,Year 4,Business,PhD,0
+20.6,Male,25870.0,Yes,2.8,81.0,3,19.8,No,No,5.4,1.0,Year 2,Arts,Master,0
+22.8,Female,25000.0,Yes,3.02,84.3,3,30.4,No,No,7.8,1.53,Year 3,Business,High School,0
+20.4,Female,25000.0,Yes,4.7,74.3,1,26.8,No,Yes,3.9,2.09,Year 3,CS,High School,0
+22.0,Female,25000.0,Yes,3.9,79.2,0,23.9,No,Yes,4.2,4.0,Year 4,CS,Bachelor,0
+22.7,Male,48904.0,Yes,6.01,77.8,2,27.2,Yes,Yes,5.2,2.03,Year 1,Business,Bachelor,1
+20.0,Male,43637.0,Yes,4.17,87.3,2,26.3,No,Yes,5.7,1.73,Year 3,Arts,Bachelor,0
+22.3,Female,60309.0,No,4.26,86.2,2,43.5,Yes,No,5.4,2.82,Year 4,Engineering,Master,0
+26.6,Male,,No,,89.5,1,52.9,No,Yes,,1.94,Year 3,CS,Master,0
+18.3,Female,28779.0,No,2.69,81.3,0,28.9,No,Yes,4.4,1.92,Year 1,CS,,0
+21.9,Male,,Yes,,93.6,2,29.0,Yes,No,,2.49,Year 3,Science,High School,0
+17.0,Male,,Yes,,87.3,1,24.6,No,Yes,,4.0,Year 1,Arts,Bachelor,0
+23.9,Female,25000.0,Yes,3.5,89.7,4,53.1,Yes,No,7.7,2.65,Year 2,Engineering,Master,1
+22.5,Male,25000.0,Yes,1.77,89.0,1,34.9,Yes,Yes,3.3,2.63,Year 4,Business,Bachelor,0
+20.7,Female,43484.0,Yes,6.2,72.8,2,50.7,No,No,6.7,1.23,Year 4,Engineering,Bachelor,1
+23.9,Female,25000.0,No,5.32,86.9,5,20.9,Yes,No,6.2,3.07,Year 3,Business,,0
+23.5,Male,25431.0,Yes,3.6,76.0,2,22.3,No,No,5.2,3.46,Year 3,Business,Master,0
+18.0,Male,25000.0,Yes,2.67,86.5,1,33.7,No,Yes,5.5,1.73,Year 2,Arts,Bachelor,0
+23.1,Male,35675.0,Yes,3.0,94.9,2,42.2,No,Yes,5.9,3.41,Year 1,Business,Bachelor,0
+17.7,Female,25000.0,Yes,4.06,72.1,1,32.9,No,Yes,6.4,2.51,Year 1,Business,PhD,0
+21.4,Female,34971.0,Yes,5.43,73.8,0,22.8,No,Yes,5.5,0.97,Year 4,Science,High School,0
+22.4,Male,42698.0,Yes,3.11,78.3,0,38.0,No,No,6.6,3.01,Year 1,Business,,0
+24.0,Female,52694.0,Yes,2.72,82.7,4,27.9,Yes,No,5.0,3.73,Year 3,Engineering,High School,0
+20.3,Male,38194.0,Yes,3.61,91.5,0,10.6,No,No,6.3,2.86,Year 2,CS,Bachelor,1
+20.4,Female,25000.0,Yes,5.2,88.3,1,34.4,No,No,6.2,3.52,Year 1,Engineering,Master,0
+19.6,Male,25000.0,Yes,6.7,92.8,2,12.4,No,No,5.0,3.83,Year 4,Arts,Bachelor,0
+25.5,Male,,Yes,,75.3,0,44.8,No,No,,2.94,Year 1,Business,Bachelor,0
+22.4,Female,71367.0,Yes,2.62,87.9,0,27.6,No,No,5.8,0.0,Year 1,CS,Bachelor,1
+19.7,Female,25000.0,Yes,3.26,92.3,3,37.3,Yes,Yes,1.7,4.0,Year 4,Business,High School,0
+22.2,Female,29307.0,Yes,0.66,72.3,2,31.1,No,Yes,4.9,1.78,Year 3,CS,PhD,0
+20.9,Female,49155.0,Yes,1.99,82.2,1,47.3,Yes,Yes,7.2,2.47,Year 3,CS,,1
+18.8,Female,,No,,65.8,2,42.7,No,No,,4.0,Year 3,Arts,,0
+24.5,Male,25000.0,Yes,1.96,72.9,0,34.6,No,No,3.8,4.0,Year 3,CS,High School,0
+19.4,Female,25000.0,No,4.25,73.2,0,20.8,Yes,No,6.7,3.66,Year 2,Business,Bachelor,0
+22.8,Male,58456.0,Yes,5.16,92.0,3,53.6,Yes,No,5.4,4.0,Year 3,Arts,Master,0
+19.0,Male,36624.0,No,4.45,87.6,1,35.2,No,No,8.2,1.99,Year 1,Engineering,Bachelor,0
+20.1,Male,25000.0,Yes,2.33,95.8,0,31.6,No,No,5.3,2.4,Year 2,Arts,Bachelor,0
+22.2,Male,25000.0,Yes,2.4,73.3,2,20.3,Yes,No,4.2,1.5,Year 2,Arts,Master,0
+18.6,Female,54818.0,No,3.35,74.7,4,42.1,No,Yes,3.9,2.04,Year 1,Arts,High School,0
+22.2,Male,39468.0,Yes,3.01,83.7,2,25.7,No,No,3.7,3.12,Year 1,Business,Master,0
+18.5,Female,38631.0,Yes,2.14,83.4,2,41.2,No,Yes,3.5,3.12,Year 3,Business,High School,0
+20.3,Male,56265.0,Yes,2.61,79.0,1,22.8,No,Yes,5.8,1.96,Year 3,Business,Bachelor,0
+22.2,Male,39991.0,Yes,6.15,73.6,2,13.0,No,Yes,5.3,2.1,Year 3,Arts,Bachelor,1
+22.3,Male,57830.0,Yes,3.22,93.8,1,19.6,No,No,7.7,0.85,Year 4,Engineering,Master,1
+22.0,Female,43613.0,Yes,4.27,68.6,3,39.7,Yes,No,7.8,2.28,Year 2,Science,Bachelor,0
+24.8,Female,,Yes,,93.6,2,14.5,No,Yes,,4.0,Year 2,CS,Master,0
+22.8,Female,25000.0,Yes,4.63,68.9,2,32.0,Yes,No,6.4,1.61,Year 2,Engineering,High School,1
+22.1,Male,33430.0,Yes,3.91,91.0,1,34.3,Yes,No,2.4,2.48,Year 2,CS,Bachelor,0
+18.3,Female,61465.0,Yes,3.81,85.6,1,42.8,Yes,Yes,6.0,3.2,Year 4,CS,,0
+22.5,Female,27099.0,Yes,2.88,76.9,3,30.0,No,No,8.4,0.51,Year 2,Arts,Bachelor,1
+19.8,Female,59308.0,Yes,4.66,77.2,1,12.4,Yes,No,7.4,1.6,Year 2,Arts,Bachelor,0
+21.9,Female,26392.0,No,0.76,92.9,2,19.6,Yes,Yes,5.8,2.8,Year 3,Arts,Master,0
+23.2,Male,45967.0,Yes,3.26,91.6,3,35.8,Yes,No,2.4,1.14,Year 2,Arts,Bachelor,0
+21.4,Female,75085.0,Yes,3.42,70.9,1,29.4,Yes,Yes,8.0,0.86,Year 1,CS,High School,1
+21.5,Female,25000.0,Yes,3.94,76.8,3,25.1,No,No,6.8,0.45,Year 2,Arts,Bachelor,1
+25.5,Female,27844.0,Yes,5.77,86.8,3,30.0,No,No,7.2,1.24,Year 4,Arts,Bachelor,1
+22.7,Female,25000.0,Yes,3.69,74.1,5,20.1,No,Yes,3.7,4.0,Year 4,CS,High School,0
+17.2,Male,38047.0,Yes,4.61,68.9,2,45.3,No,No,7.8,0.0,Year 4,CS,Master,1
+22.7,Male,42982.0,Yes,2.71,87.6,2,45.2,Yes,Yes,4.2,1.91,Year 3,CS,Bachelor,0
+21.1,Male,27430.0,Yes,3.57,69.3,2,41.5,No,No,10.0,0.87,Year 3,Arts,,1
+17.0,Female,27000.0,Yes,4.2,84.0,1,61.2,No,Yes,4.8,2.68,Year 1,Business,Bachelor,0
+21.9,Male,25000.0,Yes,4.27,79.1,3,27.2,Yes,No,5.2,2.67,Year 2,Business,Bachelor,0
+22.6,Female,25000.0,Yes,5.03,78.4,0,42.0,Yes,No,6.0,4.0,Year 3,Business,High School,0
+17.7,Female,25000.0,No,4.8,82.9,0,33.6,No,No,4.2,3.01,Year 3,Arts,High School,0
+17.4,Female,51559.0,Yes,1.15,87.1,4,26.9,No,Yes,3.8,2.78,Year 4,Science,Master,0
+20.1,Female,25000.0,Yes,4.17,65.0,5,11.4,No,No,2.3,3.25,Year 1,Science,,0
+21.5,Male,46771.0,Yes,2.32,76.7,3,5.0,No,No,5.5,2.81,Year 3,Arts,Master,0
+21.1,Female,27802.0,Yes,3.91,67.6,3,41.9,Yes,No,5.0,0.0,Year 4,Engineering,Bachelor,0
+21.6,Male,33957.0,No,2.86,92.0,2,31.0,No,No,7.2,0.0,Year 2,Arts,High School,1
+22.3,Female,25000.0,Yes,1.91,72.3,2,36.6,No,No,4.1,2.42,Year 4,Business,PhD,0
+21.3,Male,25310.0,No,5.53,70.7,2,12.8,No,Yes,4.5,3.9,Year 4,CS,Master,0
+23.2,Male,65146.0,Yes,2.36,78.7,3,22.4,No,Yes,1.7,3.38,Year 1,Arts,High School,0
+20.1,Female,34552.0,Yes,3.48,90.6,2,34.5,Yes,Yes,8.8,1.65,Year 4,CS,Bachelor,0
+19.5,Female,25000.0,No,4.6,85.4,3,43.2,No,Yes,5.9,2.75,Year 2,Engineering,High School,0
+21.6,Female,25000.0,Yes,5.64,81.7,1,11.0,No,Yes,5.3,2.82,Year 2,Arts,Master,1
+20.2,Male,56816.0,No,4.88,78.3,2,29.6,No,No,8.1,1.58,Year 2,Science,High School,1
+19.8,Male,25000.0,No,6.02,88.6,0,36.2,Yes,Yes,6.8,2.63,Year 4,Business,High School,1
+19.8,Male,95361.0,Yes,4.82,80.5,1,32.2,No,Yes,3.9,2.03,Year 1,Arts,Bachelor,0
+21.0,Female,34161.0,Yes,3.6,85.8,5,31.3,No,No,6.7,0.99,Year 3,Science,Bachelor,1
+25.1,Female,34334.0,Yes,3.43,90.2,2,18.3,No,No,3.0,4.0,Year 1,Science,High School,0
+19.4,Male,29448.0,Yes,7.28,75.7,2,47.8,No,No,5.2,3.54,Year 1,Business,Bachelor,0
+20.2,Male,58804.0,No,1.58,76.9,1,16.7,No,Yes,3.8,3.33,Year 1,CS,Master,0
+23.8,Male,26395.0,Yes,3.24,80.7,4,27.9,Yes,Yes,1.9,3.84,Year 3,Science,Bachelor,0
+21.4,Female,28313.0,Yes,0.5,87.1,0,37.0,No,No,7.4,3.49,Year 4,Business,High School,0
+17.6,Male,25798.0,Yes,4.53,71.8,0,19.4,No,No,4.6,3.61,Year 3,Arts,High School,0
+19.9,Male,51312.0,No,5.7,76.5,5,43.5,No,Yes,5.4,3.76,Year 1,Science,High School,0
+19.6,Female,30432.0,Yes,4.1,78.4,1,21.7,Yes,Yes,6.3,1.79,Year 3,Science,Bachelor,1
+21.6,Male,25000.0,Yes,3.79,80.6,3,40.5,No,No,6.3,3.08,Year 1,CS,Bachelor,0
+22.1,Female,,Yes,,94.4,1,23.8,Yes,Yes,,4.0,Year 2,Business,Bachelor,1
+22.5,Female,31806.0,Yes,3.37,75.3,2,38.0,No,No,5.7,2.56,Year 3,Engineering,Bachelor,0
+24.1,Male,,Yes,,81.3,1,39.8,No,Yes,,2.81,Year 4,Science,High School,0
+24.6,Female,28412.0,No,4.44,81.7,0,23.3,Yes,No,3.4,3.2,Year 4,Arts,Master,0
+22.5,Female,34950.0,Yes,4.29,73.8,2,30.2,Yes,No,3.9,3.51,Year 4,Engineering,High School,0
+21.3,Male,25000.0,Yes,4.09,75.1,2,40.7,No,Yes,3.7,2.79,Year 4,CS,Master,0
+23.3,Female,25000.0,Yes,4.49,99.7,0,5.0,Yes,No,6.9,4.0,Year 1,Engineering,Bachelor,0
+18.0,Female,25000.0,No,8.08,72.8,1,37.3,Yes,No,4.2,3.5,Year 2,Arts,Bachelor,0
+24.6,Male,25000.0,Yes,4.15,62.8,2,15.2,Yes,No,4.5,1.01,Year 4,Science,Bachelor,0
+19.6,Female,52689.0,No,3.95,88.4,2,14.2,Yes,No,2.0,4.0,Year 1,Science,Bachelor,0
+20.6,Female,25000.0,Yes,1.94,88.9,4,53.9,No,No,4.7,1.47,Year 4,Business,High School,0
+20.7,Female,25799.0,Yes,4.98,72.6,2,20.9,No,No,6.0,0.77,Year 3,Business,Bachelor,1
+24.8,Female,25000.0,Yes,4.56,89.1,4,22.8,Yes,Yes,5.3,2.99,Year 4,Arts,Bachelor,0
+21.5,Male,35481.0,Yes,3.69,57.1,0,24.8,No,No,6.1,1.0,Year 3,CS,PhD,1
+18.9,Male,30617.0,Yes,4.61,50.0,1,24.3,Yes,No,4.4,2.0,Year 2,Science,High School,0
+21.3,Female,61705.0,Yes,4.58,90.5,2,41.4,No,No,5.9,2.2,Year 2,Science,High School,0
+23.4,Male,33054.0,Yes,5.95,92.6,1,15.8,No,No,5.5,3.37,Year 2,Science,High School,0
+21.2,Male,38958.0,Yes,2.56,83.4,0,55.5,No,No,3.6,2.14,Year 1,Arts,Bachelor,0
+24.2,Male,74908.0,Yes,3.52,69.2,3,25.7,No,Yes,3.8,2.39,Year 3,Science,,0
+17.2,Female,25000.0,Yes,2.58,75.0,2,36.0,Yes,No,3.1,1.03,Year 2,Business,High School,1
+19.3,Female,29178.0,Yes,6.33,85.8,1,26.8,Yes,No,8.0,2.55,Year 4,CS,High School,0
+24.7,Female,41000.0,Yes,4.11,80.5,5,18.0,Yes,No,4.0,1.51,Year 4,Arts,Bachelor,1
+19.0,Female,25000.0,Yes,5.1,98.4,6,48.0,No,No,5.8,2.55,Year 2,Arts,,0
+21.0,Male,25000.0,Yes,3.12,73.8,3,51.0,No,No,5.5,0.0,Year 3,Arts,High School,1
+20.9,Female,44658.0,Yes,3.04,70.4,0,39.7,Yes,No,3.6,2.07,Year 2,Engineering,Master,0
+22.4,Female,25000.0,Yes,5.89,65.7,3,44.8,No,No,4.5,1.12,Year 3,Engineering,Master,0
+23.9,Male,34374.0,Yes,2.72,74.3,1,34.2,No,Yes,4.6,3.83,Year 3,CS,Bachelor,0
+18.4,Male,25000.0,Yes,5.6,84.5,1,41.8,Yes,No,6.2,4.0,Year 3,Business,Master,1
+22.2,Female,25000.0,Yes,3.74,74.1,0,29.9,No,No,2.8,3.77,Year 3,Business,Bachelor,0
+19.0,Male,25000.0,Yes,2.79,78.2,1,30.1,Yes,Yes,7.9,0.27,Year 2,CS,High School,1
+22.5,Female,55462.0,Yes,1.59,90.3,2,38.4,Yes,Yes,5.4,3.95,Year 2,Business,Bachelor,0
+17.0,Female,25228.0,Yes,5.47,72.9,1,42.8,No,No,6.3,0.69,Year 2,Business,Master,1
+21.4,Male,39398.0,Yes,5.05,80.9,3,26.6,Yes,No,6.7,2.78,Year 1,Engineering,Bachelor,0
+17.0,Male,29393.0,Yes,4.68,76.5,5,43.9,Yes,No,4.5,2.68,Year 2,Arts,High School,0
+17.5,Male,47971.0,Yes,4.68,85.2,2,43.4,No,No,9.0,3.09,Year 2,Science,Bachelor,0
+23.4,Male,46684.0,No,3.45,91.0,1,39.5,No,No,5.3,3.39,Year 1,Arts,Master,0
+19.9,Female,25000.0,Yes,3.08,70.6,0,42.4,No,No,3.1,1.66,Year 2,CS,High School,0
+21.7,Male,33344.0,Yes,3.8,76.4,3,36.8,Yes,Yes,2.5,2.41,Year 1,CS,,0
+22.9,Female,59820.0,Yes,3.11,90.7,1,9.0,Yes,No,4.3,3.78,Year 2,CS,Bachelor,0
+24.4,Female,49251.0,Yes,4.02,78.2,0,37.9,No,Yes,3.7,2.5,Year 2,Business,Master,0
+22.8,Male,26047.0,Yes,4.45,78.8,2,27.4,Yes,Yes,6.0,4.0,Year 4,Business,Master,0
+18.7,Female,25000.0,No,4.33,91.2,0,14.4,No,No,6.8,1.91,Year 1,Arts,Bachelor,0
+22.2,Male,53166.0,Yes,4.36,96.5,5,20.8,No,No,7.6,3.82,Year 2,Arts,Bachelor,0
+26.7,Female,25808.0,Yes,5.84,81.7,0,6.3,Yes,No,4.3,4.0,Year 2,Business,Bachelor,0
+20.1,Female,99431.0,Yes,4.87,67.3,1,21.7,No,Yes,8.2,0.91,Year 4,Science,,1
+21.9,Male,,Yes,,86.5,1,27.5,No,No,,3.73,Year 1,CS,Bachelor,0
+19.6,Male,30925.0,Yes,3.3,75.8,2,38.7,No,No,6.0,1.17,Year 4,Science,Bachelor,1
+22.4,Male,25000.0,Yes,2.55,83.8,2,42.8,No,No,7.7,1.68,Year 2,Science,Master,0
+23.3,Female,25000.0,Yes,4.05,79.8,0,40.6,Yes,Yes,6.0,1.69,Year 3,Science,High School,1
+18.7,Male,32934.0,No,5.19,77.7,2,45.9,Yes,Yes,3.0,1.69,Year 1,Engineering,Bachelor,0
+19.2,Male,25000.0,Yes,4.87,72.4,1,39.2,Yes,No,8.7,0.78,Year 2,Business,High School,1
+18.5,Male,39579.0,No,3.61,78.9,4,56.8,Yes,No,6.6,2.36,Year 4,Science,Bachelor,0
+20.2,Male,57131.0,Yes,3.03,73.6,5,37.5,Yes,No,4.1,1.14,Year 1,CS,High School,1
+23.8,Female,,No,,76.1,3,52.4,No,No,,1.72,Year 1,Arts,Master,1
+17.3,Female,25000.0,Yes,5.61,77.9,2,20.3,No,Yes,4.4,1.81,Year 4,Engineering,High School,0
+19.8,Male,70604.0,Yes,3.79,79.5,1,48.2,No,No,5.1,1.85,Year 4,Business,Bachelor,0
+21.5,Female,25000.0,Yes,5.83,85.5,2,29.8,No,No,2.6,3.77,Year 4,Business,Master,0
+20.9,Male,59442.0,No,4.2,88.5,3,37.6,Yes,No,2.1,2.84,Year 4,Science,High School,0
+21.4,Male,42489.0,Yes,3.94,85.5,1,18.3,No,No,2.2,3.02,Year 4,Arts,Bachelor,0
+17.0,Male,25000.0,Yes,1.96,73.0,3,36.6,Yes,No,5.4,1.08,Year 3,CS,High School,1
+23.9,Female,25000.0,Yes,3.05,74.1,1,14.7,No,Yes,6.4,1.71,Year 3,Science,Bachelor,1
+19.8,Male,25000.0,Yes,2.19,74.2,1,8.0,Yes,Yes,5.9,0.9,Year 4,Arts,Bachelor,1
+17.0,Male,25000.0,Yes,1.46,74.8,2,45.1,No,No,5.5,0.92,Year 3,CS,Master,0
+23.5,Female,39413.0,Yes,3.85,78.3,4,19.7,No,No,6.4,1.26,Year 1,Engineering,High School,1
+20.5,Male,35149.0,Yes,3.48,79.8,0,31.0,Yes,No,6.3,2.09,Year 3,Arts,Master,0
+20.6,Male,25000.0,Yes,5.99,83.6,0,41.8,Yes,No,6.8,1.89,Year 3,Engineering,High School,1
+20.4,Male,30774.0,No,4.51,85.7,2,19.1,Yes,Yes,8.8,1.16,Year 4,Business,High School,1
+23.4,Female,42862.0,Yes,1.87,88.7,3,52.2,No,Yes,5.6,1.88,Year 2,CS,,1
+22.9,Male,70999.0,Yes,4.64,91.8,0,22.7,Yes,No,7.1,2.83,Year 2,Engineering,High School,0
+20.6,Male,25000.0,Yes,3.56,86.4,4,41.7,Yes,No,4.7,2.25,Year 1,Business,PhD,0
+21.3,Female,54326.0,Yes,3.67,76.8,1,24.9,Yes,No,6.0,1.86,Year 1,Business,High School,0
+22.8,Female,25000.0,Yes,3.14,79.4,1,11.3,No,Yes,2.2,0.96,Year 2,CS,High School,0
+21.3,Female,28786.0,Yes,4.54,82.8,1,11.5,Yes,No,6.9,2.62,Year 3,Business,Bachelor,0
+20.6,Male,25000.0,Yes,4.46,79.3,2,37.8,No,No,8.8,2.01,Year 1,Business,Bachelor,0
+23.9,Male,25000.0,Yes,5.0,74.7,2,41.0,No,No,5.1,1.93,Year 4,CS,Bachelor,0
+18.9,Female,32803.0,Yes,2.52,83.4,1,23.9,Yes,No,5.8,2.24,Year 1,Science,High School,1
+20.5,Male,87424.0,Yes,6.8,88.1,2,27.0,Yes,Yes,5.8,2.16,Year 1,Business,High School,0
+20.8,Male,32422.0,Yes,3.6,85.2,0,27.0,No,No,4.8,4.0,Year 4,Business,High School,0
+21.3,Female,56727.0,No,5.07,83.6,0,18.8,No,No,4.6,2.45,Year 3,Business,High School,0
+17.9,Male,35795.0,Yes,4.46,78.6,1,37.6,No,No,5.5,3.82,Year 4,Arts,High School,0
+18.5,Female,64524.0,Yes,4.78,81.5,1,39.8,No,Yes,4.4,4.0,Year 2,Engineering,High School,0
+19.4,Male,50350.0,Yes,3.06,76.7,1,8.7,No,Yes,5.0,3.35,Year 3,Arts,PhD,0
+20.6,Female,58942.0,Yes,3.52,77.4,2,31.1,Yes,Yes,3.4,2.13,Year 4,Engineering,High School,0
+19.8,Male,25000.0,Yes,4.33,70.9,1,24.5,No,No,6.9,0.28,Year 2,Business,Bachelor,0
+25.4,Female,,Yes,,43.8,1,16.2,No,Yes,,0.5,Year 2,Business,High School,1
+21.2,Male,63004.0,Yes,4.68,88.3,3,46.0,No,No,4.6,1.66,Year 2,Engineering,High School,1
+25.0,Male,29977.0,Yes,3.52,82.6,2,9.8,No,Yes,5.7,1.63,Year 4,Engineering,Master,1
+22.7,Male,35986.0,No,5.53,84.2,2,35.3,Yes,Yes,6.6,3.07,Year 4,CS,,0
+19.1,Male,28364.0,Yes,4.54,91.2,5,32.4,Yes,No,5.2,2.43,Year 3,CS,High School,0
+23.2,Female,25000.0,Yes,3.68,74.2,0,21.1,No,No,4.4,4.0,Year 2,CS,High School,0
+22.8,Female,25000.0,Yes,3.51,86.7,3,22.2,No,Yes,4.1,1.1,Year 1,Science,Master,0
+22.2,Female,51715.0,No,4.67,86.0,2,25.8,Yes,No,5.1,3.18,Year 1,Science,Master,0
+17.1,Female,25000.0,Yes,2.9,85.4,3,26.5,No,No,3.4,1.56,Year 3,Arts,Bachelor,1
+21.5,Male,25102.0,No,4.08,85.1,0,46.1,Yes,Yes,2.8,4.0,Year 4,Arts,Bachelor,0
+20.2,Male,40607.0,Yes,4.05,75.8,3,22.0,No,Yes,7.0,1.55,Year 4,CS,Bachelor,1
+22.0,Male,49571.0,Yes,2.83,85.3,2,18.7,Yes,No,4.6,2.3,Year 2,Engineering,Master,1
+17.0,Female,,Yes,,95.3,2,14.8,No,Yes,,0.87,Year 1,Business,Bachelor,1
+20.6,Male,25000.0,No,4.97,75.3,0,44.2,No,Yes,1.7,3.52,Year 2,Arts,High School,0
+19.2,Male,25000.0,Yes,2.82,92.1,2,6.2,No,Yes,3.6,2.09,Year 3,Business,Bachelor,0
+19.2,Female,28882.0,Yes,6.15,75.0,3,31.3,No,No,8.2,2.71,Year 4,Arts,Bachelor,0
+22.4,Male,64404.0,Yes,4.69,70.2,5,11.4,Yes,Yes,4.9,2.63,Year 3,Engineering,Bachelor,0
+18.7,Female,30429.0,Yes,4.13,86.8,0,32.1,Yes,Yes,7.3,1.02,Year 2,Business,High School,0
+23.0,Female,26327.0,Yes,1.35,78.3,2,31.8,Yes,No,7.8,0.96,Year 2,Arts,Bachelor,1
+21.0,Male,44822.0,No,6.51,75.3,0,25.0,Yes,Yes,5.3,3.61,Year 4,Science,Bachelor,0
+22.2,Male,58101.0,No,6.42,75.9,1,18.3,Yes,No,1.4,3.48,Year 4,Business,Bachelor,0
+19.7,Female,50695.0,Yes,6.2,89.1,4,28.7,Yes,No,4.4,3.89,Year 1,CS,High School,0
+20.1,Male,25000.0,Yes,4.19,78.0,2,20.4,No,No,6.8,1.31,Year 1,CS,High School,0
+19.4,Female,25000.0,Yes,3.91,74.5,2,28.2,No,No,3.3,2.72,Year 2,Science,Bachelor,0
+19.9,Male,30196.0,Yes,3.66,83.6,1,22.8,No,No,5.7,2.02,Year 3,CS,Master,0
+23.1,Male,81668.0,Yes,5.38,82.4,3,26.9,No,Yes,4.7,4.0,Year 2,Arts,,0
+20.8,Female,44794.0,Yes,4.89,83.3,2,5.0,Yes,No,6.7,4.0,Year 3,Science,Bachelor,0
+18.5,Female,25000.0,Yes,2.98,84.9,2,47.0,No,Yes,4.9,2.76,Year 1,Science,High School,0
+21.9,Female,25000.0,Yes,2.88,84.6,2,43.3,Yes,No,8.2,0.89,Year 2,Engineering,Master,0
+21.8,Male,,Yes,,88.6,1,24.3,No,No,,1.25,Year 1,Business,High School,1
+22.2,Female,48726.0,Yes,3.8,84.6,2,18.0,No,Yes,4.1,1.77,Year 1,Arts,,0
+18.7,Male,25000.0,Yes,5.73,86.0,1,42.3,No,Yes,6.0,2.41,Year 3,Business,High School,0
+20.5,Male,43264.0,No,4.94,70.3,0,8.4,No,No,5.6,0.03,Year 4,Business,High School,0
+20.9,Female,25000.0,Yes,3.83,77.5,2,15.6,Yes,No,6.0,2.66,Year 1,CS,High School,0
+21.2,Female,49281.0,No,5.54,98.3,3,19.4,No,No,6.7,3.08,Year 2,Arts,Master,0
+22.5,Female,40591.0,Yes,6.07,80.3,1,26.7,Yes,Yes,7.2,0.13,Year 1,CS,High School,1
+21.3,Female,38249.0,No,3.12,90.4,3,46.4,Yes,No,3.0,0.6,Year 2,Science,Bachelor,0
+20.6,Female,29031.0,Yes,3.62,71.3,0,23.1,Yes,No,6.7,0.31,Year 4,CS,Bachelor,0
+18.6,Male,25000.0,Yes,3.54,83.5,1,36.4,No,No,7.3,2.46,Year 3,Science,Bachelor,0
+20.4,Female,25000.0,Yes,3.19,89.7,1,28.3,No,Yes,7.2,3.08,Year 2,Arts,High School,0
+18.3,Female,32900.0,Yes,3.92,94.1,3,48.4,Yes,Yes,4.0,4.0,Year 1,Business,PhD,0
+18.7,Female,51713.0,Yes,5.45,90.1,3,26.5,No,No,4.4,1.45,Year 4,Business,High School,0
+18.9,Male,41976.0,Yes,3.2,75.8,2,13.4,No,No,5.8,3.68,Year 1,Science,Bachelor,0
+20.4,Male,25000.0,Yes,2.16,83.9,1,26.2,Yes,Yes,8.5,2.42,Year 1,Business,Bachelor,0
+21.6,Male,25000.0,Yes,4.65,69.0,1,13.0,Yes,No,5.9,3.4,Year 4,Engineering,Bachelor,0
+23.7,Female,57674.0,Yes,4.42,89.5,0,19.3,No,No,4.4,2.77,Year 2,CS,Master,0
+22.1,Male,25000.0,Yes,3.52,77.7,2,17.1,No,No,3.6,3.76,Year 3,Science,High School,0
+23.5,Female,25000.0,Yes,3.71,85.8,4,39.1,Yes,No,4.7,2.91,Year 2,Science,Bachelor,0
+24.2,Male,25000.0,Yes,3.64,71.9,2,8.1,No,Yes,3.9,4.0,Year 2,Science,Bachelor,0
+18.9,Male,30591.0,Yes,4.15,79.5,6,15.0,No,No,6.9,2.14,Year 2,Engineering,Bachelor,0
+21.0,Female,25000.0,Yes,5.47,72.2,0,32.4,No,No,4.8,1.51,Year 3,Arts,Master,0
+22.5,Male,72322.0,Yes,3.17,82.4,0,32.5,Yes,No,6.9,3.93,Year 2,Engineering,High School,0
+19.7,Male,96416.0,Yes,3.46,71.7,0,32.3,No,Yes,3.7,1.79,Year 4,Science,High School,0
+21.5,Female,25000.0,No,4.24,100.0,1,18.5,Yes,No,6.3,2.96,Year 1,Business,Master,0
+19.7,Female,25523.0,Yes,3.99,77.1,1,31.1,No,Yes,4.2,2.46,Year 1,Arts,Bachelor,0
+20.6,Male,31560.0,Yes,3.18,74.6,1,26.2,Yes,No,4.3,0.36,Year 2,Engineering,Bachelor,1
+26.3,Female,40204.0,Yes,4.02,67.9,4,35.9,No,No,4.5,3.1,Year 2,Business,PhD,0
+20.6,Male,,Yes,,67.5,2,32.8,Yes,No,,2.77,Year 1,Science,Bachelor,0
+20.9,Female,54887.0,Yes,5.56,89.5,0,17.1,Yes,Yes,7.3,1.74,Year 2,Engineering,Bachelor,0
+21.5,Male,25000.0,No,5.53,85.9,3,19.8,No,No,5.2,2.93,Year 1,CS,PhD,0
+21.4,Male,40272.0,Yes,3.93,69.7,1,23.3,No,No,6.4,0.2,Year 2,Business,High School,1
+20.3,Male,25000.0,Yes,4.09,80.0,1,37.3,Yes,No,8.9,3.55,Year 3,Science,Bachelor,1
+21.9,Male,25000.0,Yes,3.19,89.7,0,5.0,Yes,Yes,5.0,3.61,Year 3,Arts,Bachelor,0
+18.6,Male,25000.0,Yes,5.45,82.2,1,34.7,Yes,No,6.9,2.26,Year 2,Arts,Bachelor,0
+21.0,Male,25000.0,Yes,6.01,71.2,3,27.6,No,Yes,1.4,2.88,Year 4,Arts,Master,0
+20.4,Female,25000.0,Yes,3.33,90.8,1,28.5,No,No,3.8,2.81,Year 4,CS,Bachelor,0
+22.5,Male,32899.0,Yes,3.46,74.2,0,25.1,No,No,4.3,1.78,Year 3,Arts,High School,0
+20.5,Male,25000.0,Yes,5.02,76.7,2,41.9,Yes,Yes,6.6,2.09,Year 1,Engineering,Bachelor,0
+20.0,Female,35439.0,No,5.14,85.4,2,17.2,No,No,5.3,3.57,Year 2,CS,Bachelor,0
+22.5,Male,50797.0,Yes,5.41,80.9,1,39.4,No,No,4.5,3.98,Year 4,Business,Master,0
+22.6,Female,25000.0,Yes,5.64,90.8,2,9.9,Yes,No,5.7,3.57,Year 2,Engineering,High School,0
+21.2,Male,42594.0,Yes,3.38,82.8,4,47.0,No,Yes,7.1,2.3,Year 1,Science,Bachelor,0
+22.5,Male,31006.0,Yes,5.52,89.3,3,39.0,Yes,No,6.4,1.76,Year 1,Business,Bachelor,1
+19.1,Male,30886.0,Yes,1.68,83.8,2,31.3,Yes,Yes,7.4,1.37,Year 4,CS,Bachelor,1
+18.0,Male,,Yes,,79.2,3,38.5,No,Yes,,2.53,Year 4,CS,High School,0
+21.6,Female,75577.0,Yes,3.8,84.6,1,61.2,Yes,No,5.8,2.94,Year 3,CS,Bachelor,0
+20.8,Female,35578.0,Yes,5.1,71.4,2,34.0,Yes,No,3.4,4.0,Year 2,Arts,Master,0
+21.6,Male,32568.0,Yes,4.23,84.0,3,16.7,No,Yes,6.0,2.0,Year 4,Business,Bachelor,0
+19.7,Male,25000.0,Yes,3.88,86.8,1,31.8,Yes,Yes,1.7,1.96,Year 1,Science,Bachelor,1
+22.3,Female,52624.0,Yes,4.24,74.4,1,30.9,Yes,No,8.3,1.5,Year 4,Engineering,Bachelor,1
+20.3,Female,25000.0,No,3.84,94.9,1,32.0,Yes,No,3.0,3.65,Year 4,CS,Master,0
+20.8,Female,25000.0,Yes,3.6,80.5,3,26.9,No,No,5.4,1.39,Year 3,Arts,High School,0
+24.7,Male,25000.0,Yes,4.54,88.0,1,28.1,No,No,5.6,2.36,Year 2,Science,High School,0
+27.1,Male,25642.0,Yes,3.79,70.2,3,21.8,No,No,4.4,4.0,Year 4,CS,Bachelor,0
+22.7,Female,25000.0,Yes,2.12,86.4,1,34.0,No,Yes,6.5,1.79,Year 1,Arts,High School,0
+18.4,Female,25977.0,Yes,4.09,81.3,1,32.0,No,No,5.5,3.79,Year 1,Science,High School,0
+17.0,Male,27286.0,Yes,4.26,79.9,6,23.4,Yes,No,4.2,1.96,Year 4,Engineering,Bachelor,0
+21.5,Male,25000.0,Yes,3.48,87.6,0,45.4,No,No,9.4,2.44,Year 4,Science,High School,1
+23.4,Male,30725.0,Yes,1.6,74.1,3,14.9,No,Yes,5.9,1.09,Year 4,Science,High School,0
+21.6,Female,25000.0,Yes,5.05,93.3,3,35.0,No,No,5.7,1.93,Year 1,Arts,High School,0
+22.1,Female,48349.0,Yes,4.85,80.0,3,8.0,No,No,9.4,1.78,Year 4,CS,Bachelor,1
+26.3,Female,25000.0,Yes,3.6,71.3,2,38.8,No,Yes,4.6,2.78,Year 3,Engineering,Bachelor,0
+22.9,Female,25000.0,Yes,2.69,77.6,3,5.0,Yes,No,3.5,3.16,Year 3,Science,Bachelor,0
+26.2,Female,40295.0,Yes,3.77,91.6,3,45.5,No,Yes,6.7,1.85,Year 4,Business,Bachelor,0
+18.8,Male,25000.0,Yes,4.49,76.2,2,57.1,Yes,Yes,4.2,2.43,Year 1,CS,Bachelor,0
+18.9,Female,67671.0,Yes,4.57,81.9,1,6.6,Yes,No,1.2,4.0,Year 2,Business,Bachelor,0
+22.1,Female,138565.0,Yes,2.13,72.3,1,37.7,Yes,No,5.5,1.7,Year 3,Arts,Bachelor,0
+20.0,Female,25000.0,Yes,2.02,100.0,5,39.5,No,Yes,4.0,3.31,Year 4,Engineering,Bachelor,0
+21.3,Male,64299.0,Yes,4.43,76.6,1,49.4,Yes,Yes,8.3,1.4,Year 1,Business,Master,1
+20.9,Male,26690.0,Yes,4.02,74.9,2,31.6,Yes,No,3.0,4.0,Year 3,Business,,0
+21.9,Male,52096.0,Yes,3.73,100.0,1,22.6,No,No,6.9,3.3,Year 1,Engineering,Master,0
+19.5,Male,25000.0,Yes,5.21,100.0,1,11.9,No,No,8.1,4.0,Year 1,CS,High School,0
+23.0,Male,36562.0,Yes,3.03,71.5,0,40.1,Yes,Yes,7.3,2.24,Year 3,Science,Master,0
+23.1,Female,27534.0,Yes,3.79,85.9,2,40.6,No,No,1.3,4.0,Year 3,Engineering,Bachelor,0
+19.9,Male,56852.0,Yes,4.21,91.1,0,8.4,Yes,No,5.0,1.91,Year 2,CS,High School,0
+19.5,Female,37321.0,No,4.78,82.4,0,36.1,No,No,5.8,3.94,Year 4,Science,PhD,0
+20.0,Male,33266.0,Yes,4.32,94.4,3,20.0,No,Yes,9.8,1.29,Year 2,Business,,1
+23.5,Female,25000.0,Yes,6.32,77.4,3,41.2,Yes,Yes,2.9,4.0,Year 3,Business,Master,0
+21.5,Male,25000.0,Yes,5.11,83.9,1,49.8,No,No,5.2,3.02,Year 2,Science,High School,0
+22.2,Male,25000.0,Yes,3.47,70.7,1,8.6,No,No,6.0,1.46,Year 2,Engineering,High School,0
+20.7,Male,25000.0,Yes,2.89,80.4,1,52.7,No,No,5.7,3.47,Year 2,Business,Bachelor,0
+19.3,Female,25000.0,No,3.76,93.1,0,16.2,Yes,No,4.8,1.74,Year 1,Science,High School,1
+21.6,Female,34457.0,Yes,3.0,84.2,0,24.1,No,No,5.0,3.67,Year 3,Business,High School,0
+18.6,Female,25000.0,Yes,3.62,84.6,2,38.2,No,No,5.8,2.17,Year 3,Business,Master,0
+19.3,Male,37275.0,Yes,3.37,77.8,3,27.0,No,No,4.9,2.74,Year 3,Engineering,,0
+21.3,Male,27021.0,Yes,6.35,92.2,0,19.7,Yes,No,5.3,3.58,Year 3,Arts,Bachelor,0
+20.2,Male,85727.0,Yes,4.54,86.9,2,6.7,No,No,5.7,4.0,Year 4,Engineering,Bachelor,0
+18.7,Female,34853.0,Yes,2.13,70.4,5,5.0,No,No,6.6,1.9,Year 3,CS,Bachelor,0
+19.6,Female,25000.0,Yes,5.65,78.0,0,17.4,No,No,5.9,2.82,Year 2,Engineering,Master,0
+18.8,Female,56724.0,No,3.32,79.9,2,15.4,Yes,Yes,6.9,2.08,Year 4,Business,Bachelor,0
+24.7,Male,38047.0,Yes,5.34,76.7,3,16.2,Yes,No,7.3,2.97,Year 4,Science,Bachelor,0
+19.0,Female,54090.0,Yes,4.19,72.3,2,25.4,No,Yes,5.5,2.33,Year 3,CS,Master,0
+23.5,Male,25000.0,Yes,3.98,69.0,4,31.2,No,No,6.0,1.24,Year 3,Business,Bachelor,1
+18.0,Male,66372.0,Yes,4.75,78.7,2,21.2,Yes,No,4.7,3.62,Year 4,CS,Master,0
+17.6,Female,25000.0,Yes,4.87,86.6,1,21.1,No,No,5.7,2.08,Year 3,Business,Master,0
+23.4,Female,77810.0,No,3.48,72.5,5,32.9,No,No,8.4,1.18,Year 1,Engineering,High School,1
+20.0,Male,25000.0,Yes,3.65,88.4,0,32.9,No,No,4.0,1.52,Year 3,Arts,Bachelor,0
+23.6,Female,42065.0,Yes,5.26,83.3,3,34.2,No,No,3.5,2.29,Year 1,Business,,0
+25.5,Male,52657.0,No,3.71,76.7,2,29.4,No,No,4.8,2.95,Year 1,Business,High School,0
+19.6,Male,25000.0,Yes,2.76,82.6,2,37.6,Yes,No,9.6,0.9,Year 1,Engineering,Bachelor,0
+23.8,Male,28923.0,Yes,2.88,79.3,3,5.0,No,No,5.0,1.94,Year 1,Business,Bachelor,0
+21.5,Female,25000.0,Yes,2.9,89.5,3,43.9,No,No,3.6,2.77,Year 3,Business,High School,0
+24.1,Female,30452.0,Yes,5.19,75.2,1,27.8,Yes,Yes,3.8,1.53,Year 1,Business,Bachelor,0
+21.2,Male,65752.0,Yes,3.25,77.3,1,39.0,No,No,10.0,0.95,Year 3,Business,Master,0
+25.6,Female,42714.0,Yes,3.61,69.1,1,15.5,No,No,2.8,2.24,Year 3,Business,Bachelor,0
+22.3,Male,55936.0,No,4.12,92.6,0,37.5,Yes,No,4.0,2.62,Year 3,Arts,Bachelor,0
+22.0,Male,25000.0,Yes,4.77,85.7,0,13.1,No,Yes,8.7,2.32,Year 4,Engineering,Bachelor,0
+21.3,Female,28474.0,Yes,3.4,86.9,1,28.9,No,No,6.2,2.25,Year 2,Science,PhD,0
+17.3,Male,31588.0,Yes,2.57,86.3,1,38.3,No,No,5.4,1.47,Year 4,Engineering,Bachelor,1
+20.7,Female,47855.0,Yes,2.84,84.6,2,43.7,No,No,4.2,2.69,Year 4,Business,Bachelor,0
+23.4,Female,33096.0,Yes,2.25,68.1,1,25.7,No,No,5.6,3.01,Year 2,Engineering,Bachelor,0
+19.7,Male,35865.0,Yes,2.38,77.9,1,34.3,No,No,3.0,2.49,Year 2,Arts,Bachelor,0
+21.1,Male,37695.0,Yes,4.02,78.7,2,28.2,Yes,No,5.0,2.88,Year 1,Engineering,High School,0
+22.4,Male,32106.0,Yes,5.7,86.0,1,18.5,No,No,2.2,4.0,Year 3,Science,Bachelor,0
+21.5,Male,47822.0,Yes,3.42,95.3,2,32.3,Yes,Yes,5.3,0.88,Year 3,Business,High School,1
+22.5,Female,25099.0,Yes,3.65,90.5,1,29.1,No,No,7.1,1.01,Year 3,Arts,High School,0
+22.8,Female,56307.0,Yes,3.87,80.4,0,22.4,No,Yes,5.7,3.17,Year 3,Arts,Master,0
+22.3,Male,25000.0,Yes,3.95,76.1,3,32.3,Yes,Yes,2.9,0.0,Year 2,Arts,Bachelor,1
+19.9,Male,46904.0,Yes,3.88,82.2,3,38.9,No,No,6.7,1.91,Year 3,CS,High School,0
+19.8,Male,,Yes,,81.9,0,33.7,No,No,,2.96,Year 3,Arts,High School,1
+21.3,Female,52625.0,No,3.42,99.3,2,36.5,No,No,6.6,1.5,Year 4,CS,Bachelor,1
+22.1,Female,25000.0,Yes,4.45,94.8,2,47.5,No,No,9.6,2.44,Year 4,Engineering,Master,0
+17.2,Female,25000.0,Yes,3.18,83.8,2,40.6,No,No,5.2,2.82,Year 1,Business,Bachelor,0
+22.5,Female,28250.0,Yes,3.45,84.3,2,24.1,Yes,No,3.8,0.99,Year 1,Science,High School,0
+18.9,Female,54384.0,Yes,6.52,80.0,2,24.3,No,No,8.2,2.41,Year 2,CS,Master,0
+19.8,Female,25000.0,Yes,3.1,83.3,2,31.5,Yes,No,4.5,0.52,Year 2,Arts,Bachelor,1
+17.3,Male,48568.0,Yes,4.68,86.0,4,28.4,No,No,6.1,2.55,Year 2,CS,High School,0
+18.8,Male,25000.0,No,4.43,69.3,2,39.6,Yes,No,3.0,3.24,Year 4,Arts,Bachelor,0
+21.0,Female,37442.0,Yes,2.54,90.1,3,18.4,No,No,4.9,1.42,Year 4,Engineering,Master,0
+23.6,Female,25000.0,Yes,5.72,74.6,5,26.4,Yes,Yes,3.2,1.91,Year 4,Arts,High School,0
+24.6,Male,51258.0,Yes,7.0,75.8,0,39.0,Yes,No,5.7,3.58,Year 4,Business,Bachelor,0
+19.2,Female,37324.0,Yes,5.23,87.5,2,18.0,No,Yes,6.1,3.66,Year 1,Business,Bachelor,0
+23.1,Female,50917.0,Yes,4.81,81.3,3,44.3,No,Yes,4.3,2.36,Year 2,Science,High School,0
+21.2,Female,32323.0,Yes,3.65,71.6,2,13.8,No,No,5.8,0.0,Year 4,Business,Bachelor,1
+18.8,Female,41084.0,Yes,0.92,81.9,3,12.2,Yes,No,3.7,1.07,Year 2,Business,,1
+20.3,Male,25000.0,Yes,3.53,82.2,3,27.4,No,Yes,4.3,3.29,Year 3,Science,Master,1
+19.9,Female,59358.0,Yes,4.97,92.1,5,31.1,No,Yes,3.4,4.0,Year 4,Arts,High School,0
+20.3,Male,29081.0,No,5.78,84.5,2,33.2,No,No,7.7,2.23,Year 1,Science,High School,0
+20.8,Male,25000.0,Yes,2.57,85.0,3,29.9,No,No,5.0,3.64,Year 3,Engineering,Master,0
+22.3,Male,40082.0,Yes,4.79,70.1,3,10.4,Yes,No,9.1,2.87,Year 4,Science,Bachelor,0
+22.6,Female,64401.0,Yes,4.21,73.6,0,21.4,Yes,Yes,4.0,3.09,Year 4,Arts,Bachelor,0
+19.6,Male,32683.0,Yes,3.47,77.5,0,38.2,Yes,Yes,4.8,3.65,Year 4,Business,High School,0
+20.9,Male,57920.0,No,3.85,79.3,3,20.8,No,No,5.3,0.71,Year 2,CS,High School,1
+22.4,Male,,Yes,,77.1,3,50.9,No,No,,3.94,Year 4,Arts,Master,0
+19.3,Female,25000.0,Yes,2.69,93.4,4,18.2,No,Yes,5.6,2.26,Year 2,Arts,Bachelor,0
+22.8,Female,49668.0,Yes,5.68,88.5,3,37.4,No,No,7.0,1.19,Year 3,CS,High School,1
+23.3,Male,25000.0,Yes,5.21,83.7,4,47.0,No,No,3.4,3.75,Year 2,Engineering,,0
+22.9,Female,25000.0,Yes,4.34,92.3,2,43.2,No,Yes,7.1,3.05,Year 1,Arts,Bachelor,0
+21.5,Male,25000.0,Yes,3.61,82.8,0,28.8,Yes,Yes,6.7,1.37,Year 1,CS,Master,1
+26.6,Female,34103.0,Yes,4.33,80.8,0,44.6,Yes,Yes,6.6,3.33,Year 4,Arts,,0
+19.6,Male,30317.0,Yes,2.45,94.1,4,36.5,No,Yes,6.9,1.42,Year 3,Business,,1
+22.0,Male,45018.0,Yes,0.71,94.1,1,24.0,No,Yes,6.1,1.06,Year 3,Arts,Master,0
+23.0,Female,25000.0,Yes,3.58,84.3,2,34.4,No,No,6.8,4.0,Year 1,Arts,High School,0
+25.6,Male,25109.0,Yes,1.25,72.4,5,16.1,Yes,No,7.1,0.0,Year 4,Engineering,High School,0
+20.8,Male,25000.0,Yes,4.37,91.5,1,48.2,No,No,7.6,2.32,Year 3,CS,Bachelor,0
+21.8,Male,25000.0,Yes,4.56,95.2,1,5.0,No,No,6.6,2.87,Year 1,Science,Bachelor,1
+19.6,Female,25000.0,Yes,4.1,73.4,3,7.2,No,No,6.6,1.45,Year 3,Engineering,,0
+19.1,Male,42421.0,Yes,2.7,84.9,4,21.0,No,Yes,5.4,2.29,Year 1,Science,Master,0
+19.3,Male,46863.0,Yes,4.52,84.4,3,34.0,No,Yes,6.8,1.4,Year 1,Arts,Bachelor,1
+21.5,Female,25000.0,Yes,5.34,89.9,0,43.1,Yes,No,2.9,4.0,Year 1,Engineering,High School,0
+20.2,Male,32899.0,Yes,3.7,100.0,3,28.7,Yes,No,6.0,2.48,Year 3,CS,High School,0
+20.6,Female,54248.0,Yes,3.59,70.6,2,61.4,Yes,No,7.9,1.72,Year 3,Engineering,Bachelor,0
+24.2,Female,63093.0,Yes,1.75,89.7,3,11.8,Yes,No,8.2,0.0,Year 2,Science,High School,0
+21.3,Male,25000.0,No,6.14,87.8,1,34.7,Yes,No,3.6,4.0,Year 2,Arts,Master,0
+19.3,Male,34899.0,Yes,4.31,79.4,1,24.1,No,Yes,9.7,1.17,Year 1,Science,High School,0
+22.7,Male,25000.0,Yes,2.8,91.4,3,9.4,No,Yes,4.5,2.11,Year 2,Engineering,Master,0
+29.6,Male,25000.0,Yes,3.38,86.7,3,35.1,No,No,5.7,1.46,Year 2,Science,Bachelor,0
+25.6,Male,44804.0,Yes,5.05,90.7,2,13.6,No,No,3.6,3.9,Year 3,CS,High School,0
+22.6,Male,55824.0,Yes,5.62,93.4,3,10.5,No,No,5.3,2.95,Year 4,Engineering,Bachelor,0
+23.2,Male,35874.0,Yes,5.62,71.4,1,48.3,No,Yes,4.4,2.89,Year 1,Arts,Bachelor,0
+23.8,Male,,No,,78.2,0,18.6,No,No,,1.33,Year 1,Engineering,Bachelor,0
+20.3,Female,25000.0,Yes,4.39,89.8,2,27.3,Yes,No,3.0,4.0,Year 2,Arts,High School,0
+21.6,Female,25000.0,No,3.15,98.4,0,27.7,No,No,5.2,3.67,Year 4,Science,High School,0
+23.1,Male,108141.0,Yes,4.81,79.9,7,35.9,No,Yes,3.6,1.99,Year 2,CS,High School,0
+19.8,Female,25000.0,Yes,4.04,84.5,1,21.0,No,No,6.8,2.35,Year 3,Arts,Bachelor,0
+19.6,Female,58657.0,Yes,1.31,92.4,1,44.5,No,Yes,5.7,2.84,Year 1,Arts,High School,0
+22.8,Male,36007.0,Yes,4.89,92.1,1,27.7,Yes,No,3.9,2.28,Year 4,Engineering,High School,0
+21.7,Female,53389.0,No,2.92,82.3,4,27.6,No,No,5.5,2.28,Year 1,Science,Master,0
+21.9,Male,58919.0,Yes,3.53,92.6,1,37.0,Yes,No,3.1,2.62,Year 2,Business,Master,0
+22.4,Female,56296.0,Yes,6.22,89.9,3,24.8,Yes,No,7.9,1.42,Year 4,Engineering,High School,1
+20.0,Female,48942.0,Yes,4.67,69.9,1,54.0,No,Yes,3.0,3.97,Year 1,Engineering,,0
+21.2,Female,25000.0,Yes,4.17,80.5,3,46.2,Yes,No,9.1,1.0,Year 2,Engineering,Master,1
+21.3,Male,25000.0,Yes,5.71,61.4,2,32.4,Yes,No,7.3,1.81,Year 2,Science,Bachelor,1
+23.5,Female,25000.0,Yes,3.1,87.6,1,42.6,No,No,4.7,2.19,Year 2,Engineering,High School,0
+24.0,Female,32689.0,No,4.03,74.1,1,25.8,No,No,6.0,2.4,Year 4,Engineering,Master,0
+22.9,Male,36100.0,Yes,5.47,85.9,1,40.1,No,No,7.1,3.2,Year 1,Business,High School,0
+18.7,Male,40053.0,Yes,3.19,77.8,2,39.9,No,No,6.7,2.42,Year 1,Engineering,Bachelor,0
+22.4,Female,25000.0,Yes,5.02,75.6,5,48.9,Yes,No,4.0,2.75,Year 2,Arts,Bachelor,0
+18.8,Female,39935.0,Yes,5.0,75.5,1,26.6,No,No,6.1,2.02,Year 3,CS,Master,0
+21.0,Male,40445.0,Yes,3.37,78.0,2,34.4,No,Yes,3.6,2.74,Year 4,CS,High School,0
+21.3,Female,30365.0,Yes,3.05,87.9,4,48.4,No,Yes,3.7,2.84,Year 4,Business,Master,0
+18.5,Female,31587.0,Yes,5.09,80.7,2,48.3,No,Yes,6.8,2.08,Year 1,CS,Bachelor,0
+19.8,Female,25158.0,Yes,6.02,85.3,2,33.5,No,No,6.2,1.74,Year 2,Arts,High School,0
+22.3,Male,31150.0,Yes,3.99,84.7,1,25.8,No,Yes,5.3,1.77,Year 1,CS,Bachelor,1
+20.2,Male,25000.0,Yes,4.6,78.2,1,41.8,Yes,No,5.7,1.23,Year 2,Engineering,High School,0
+20.2,Male,95076.0,Yes,4.03,97.1,1,15.4,Yes,No,4.6,2.98,Year 1,Business,High School,1
+23.8,Female,25888.0,Yes,3.67,80.4,1,13.7,No,No,3.7,2.75,Year 1,CS,Bachelor,0
+23.6,Male,35640.0,Yes,4.76,73.1,0,29.9,Yes,No,4.2,3.02,Year 4,CS,Bachelor,0
+21.9,Female,58533.0,Yes,3.89,80.7,2,31.9,Yes,No,5.4,1.87,Year 3,Science,Bachelor,1
+20.0,Male,30717.0,Yes,2.81,88.3,0,28.5,No,No,3.1,1.9,Year 4,Arts,,0
+17.0,Female,29618.0,Yes,4.97,88.4,1,15.6,No,No,5.6,2.36,Year 2,Arts,High School,0
+22.4,Male,36288.0,Yes,5.22,76.7,2,8.6,No,No,6.7,1.36,Year 1,Business,Master,0
+18.2,Male,54597.0,Yes,4.33,89.9,3,28.8,No,No,6.3,3.45,Year 2,Business,Master,0
+19.8,Male,36259.0,Yes,5.39,85.7,1,17.9,No,Yes,6.2,2.54,Year 3,Science,High School,0
+24.7,Female,27504.0,Yes,3.23,88.8,3,27.3,No,Yes,7.9,1.38,Year 3,Engineering,High School,0
+22.7,Male,42010.0,Yes,4.16,84.5,0,49.1,No,No,5.2,3.48,Year 1,Arts,Bachelor,0
+18.8,Male,25000.0,No,4.06,85.8,1,27.9,No,No,4.9,2.99,Year 1,Science,High School,0
+20.8,Male,60605.0,Yes,2.95,76.3,2,27.8,Yes,Yes,4.0,2.78,Year 2,CS,Master,0
+21.9,Female,25000.0,Yes,4.1,95.5,3,48.4,No,No,6.7,2.24,Year 2,CS,Bachelor,0
+22.8,Female,,Yes,,67.1,2,23.6,Yes,No,,3.35,Year 3,Science,High School,0
+23.7,Male,30891.0,Yes,2.27,73.0,0,26.3,No,No,6.5,1.36,Year 4,Arts,Bachelor,0
+22.4,Male,25857.0,Yes,4.64,87.8,1,32.3,No,Yes,4.3,3.14,Year 2,Arts,Master,0
+21.9,Female,28312.0,Yes,3.33,81.7,2,16.0,No,No,4.9,1.3,Year 1,Business,High School,0
+22.1,Female,29245.0,Yes,2.61,80.8,3,31.3,No,Yes,5.3,3.27,Year 3,Science,High School,0
+19.3,Male,40387.0,Yes,6.74,76.4,3,36.3,Yes,No,1.4,1.62,Year 4,CS,Master,1
+20.0,Male,57779.0,Yes,2.88,84.7,2,41.6,No,No,4.8,3.09,Year 4,CS,Master,0
+21.3,Female,91957.0,Yes,2.87,67.7,2,26.4,No,Yes,7.1,0.0,Year 4,Engineering,Master,1
+20.5,Female,35735.0,Yes,4.7,84.8,1,12.4,No,No,4.6,2.97,Year 3,Engineering,Bachelor,1
+18.2,Male,30049.0,Yes,2.06,91.5,1,8.2,No,No,3.9,1.09,Year 4,CS,Master,0
+20.5,Male,25000.0,No,3.57,82.9,2,48.0,No,No,6.2,2.6,Year 3,Business,High School,0
+20.0,Male,57684.0,Yes,5.83,69.8,3,28.2,No,No,3.8,2.45,Year 3,CS,,0
+18.8,Male,25000.0,Yes,5.19,85.5,4,33.1,Yes,Yes,6.9,2.45,Year 2,Engineering,Bachelor,0
+17.0,Male,25634.0,Yes,2.27,76.1,0,25.7,No,Yes,5.5,2.1,Year 4,CS,High School,1
+25.3,Male,25976.0,Yes,4.94,76.4,0,26.8,Yes,Yes,5.4,1.07,Year 4,CS,PhD,1
+25.1,Female,35116.0,Yes,3.58,77.4,3,22.3,No,Yes,7.5,0.38,Year 3,Business,Master,0
+20.8,Female,83254.0,Yes,4.41,84.7,2,28.4,No,No,7.4,1.24,Year 2,CS,Bachelor,0
+19.1,Female,25000.0,Yes,2.57,83.6,1,38.7,Yes,No,6.0,1.35,Year 3,Business,Bachelor,1
+21.4,Female,45656.0,No,5.49,73.6,3,27.3,No,No,7.6,0.74,Year 4,Business,Master,1
+21.9,Female,74454.0,Yes,3.76,73.9,1,37.8,No,No,3.7,2.9,Year 1,CS,,0
+22.2,Female,89168.0,Yes,4.77,78.5,4,31.9,Yes,No,4.4,1.34,Year 2,Engineering,Bachelor,0
+19.4,Female,25000.0,Yes,6.33,82.2,7,7.9,Yes,No,6.5,1.4,Year 2,Business,Bachelor,1
+20.4,Female,,Yes,,71.9,2,30.6,No,Yes,,3.0,Year 1,Arts,Bachelor,0
+17.0,Female,25000.0,Yes,5.22,66.5,4,19.4,Yes,No,7.3,0.96,Year 4,Engineering,Master,1
+17.0,Female,60267.0,No,4.62,89.4,3,13.5,No,No,5.6,3.46,Year 2,Engineering,High School,0
+20.0,Female,,Yes,,80.6,0,18.6,No,No,,0.67,Year 2,Science,Master,0
+20.7,Female,25000.0,Yes,2.77,90.7,0,35.8,No,No,3.2,2.23,Year 3,Engineering,High School,0
+20.2,Female,39816.0,Yes,4.59,70.8,1,44.8,Yes,No,4.4,1.84,Year 3,Business,Bachelor,0
+22.5,Female,51957.0,No,3.49,88.4,2,44.1,Yes,No,7.0,1.68,Year 4,Arts,Bachelor,1

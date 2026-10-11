@@ -1,0 +1,8 @@
+,0
+rows,10000.0
+dropout_rate,0.2354
+income_at_floor_25000,3668.0
+age_min,17.0
+age_max,29.6
+gpa_cgpa_corr,0.9634320249165418
+semgpa_cgpa_corr,0.9992135829650928
