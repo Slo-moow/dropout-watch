@@ -44,4 +44,4 @@ The application can be deployed using Streamlit Community Cloud.
 3. Create a new app and select this repository, the `main` branch, and `app/streamlit_app.py` as the main file.
 4. Follow the deployment instructions and add the deployed URL here when available.
 
-**Deployed URL:** Not yet deployed.
+**Deployed URL:** [deployed](https://dropout-watch-nms3rgi5d9tnxddzwrou6v.streamlit.app/).
